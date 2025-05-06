@@ -1,7 +1,5 @@
+# NAME: sr_ru_extended.list
 # Selective routing rules
-
-[Rule]
-RULE-SET,https://raw.githubusercontent.com/misha-tgshv/shadowrocket-configuration-file/refs/heads/release/rules/domains_banking.list,DIRECT
 
 DOMAIN-SUFFIX,data-ai.microsoft.com,PROXY
 
