@@ -1,0 +1,7 @@
+# NAME: tor
+# Updated: 2025-05-06 13:36:44 UTC
+[Rule]
+# Reference: https://en.wikipedia.org/wiki/List_of_Internet_top-level_domains
+DOMAIN-SUFFIX,exit
+DOMAIN-SUFFIX,onion
+DOMAIN-SUFFIX,tor

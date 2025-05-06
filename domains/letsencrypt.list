@@ -1,0 +1,6 @@
+# NAME: letsencrypt
+# Updated: 2025-05-06 13:35:59 UTC
+[Rule]
+DOMAIN-SUFFIX,lencr.org
+DOMAIN-SUFFIX,letsencrypt.com
+DOMAIN-SUFFIX,letsencrypt.org

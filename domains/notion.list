@@ -1,0 +1,11 @@
+# NAME: notion
+# Updated: 2025-05-06 13:36:16 UTC
+[Rule]
+DOMAIN-SUFFIX,api.notion.com
+DOMAIN-SUFFIX,img.notionusercontent.com
+DOMAIN-SUFFIX,notion-static.com
+DOMAIN-SUFFIX,notion.com
+DOMAIN-SUFFIX,notion.new
+DOMAIN-SUFFIX,notion.site
+DOMAIN-SUFFIX,notion.so
+DOMAIN-SUFFIX,notionusercontent.com

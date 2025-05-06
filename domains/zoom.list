@@ -1,0 +1,6 @@
+# NAME: zoom
+# Updated: 2025-05-06 13:36:56 UTC
+[Rule]
+DOMAIN-SUFFIX,zoom.com
+DOMAIN-SUFFIX,zoom.com.cn
+DOMAIN-SUFFIX,zoom.us

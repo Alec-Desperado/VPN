@@ -1,0 +1,4 @@
+# NAME: adblockplus
+# Updated: 2025-05-06 13:22:51 UTC
+[Rule]
+DOMAIN-SUFFIX,adblockplus.org

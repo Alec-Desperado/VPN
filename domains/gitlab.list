@@ -1,0 +1,8 @@
+# NAME: gitlab
+# Updated: 2025-05-06 13:35:41 UTC
+[Rule]
+DOMAIN-SUFFIX,gitlab.com
+DOMAIN-SUFFIX,gitlab.io
+DOMAIN-SUFFIX,gitlab.net
+DOMAIN-SUFFIX,gitlab-static.net
+DOMAIN,gitlab-assets.oss-cn-hongkong.aliyuncs.com

@@ -1,0 +1,8 @@
+# NAME: anthropic
+# Updated: 2025-05-06 13:23:00 UTC
+[Rule]
+DOMAIN-SUFFIX,anthropic.com
+DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,claudeusercontent.com
+# CDN
+DOMAIN,servd-anthropic-website.b-cdn.net

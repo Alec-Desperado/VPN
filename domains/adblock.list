@@ -1,0 +1,5 @@
+# NAME: adblock
+# Updated: 2025-05-06 13:22:50 UTC
+[Rule]
+DOMAIN-SUFFIX,adblockcdn.com
+DOMAIN-SUFFIX,getadblock.com

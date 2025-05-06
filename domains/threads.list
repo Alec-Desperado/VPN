@@ -1,0 +1,5 @@
+# NAME: threads
+# Updated: 2025-05-06 13:36:41 UTC
+[Rule]
+DOMAIN-SUFFIX,threads.com
+DOMAIN-SUFFIX,threads.net

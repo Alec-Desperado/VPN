@@ -1,0 +1,8 @@
+# NAME: teamviewer
+# Updated: 2025-05-06 13:36:39 UTC
+[Rule]
+DOMAIN-SUFFIX,teamviewer.cn
+DOMAIN-SUFFIX,teamviewer.com
+DOMAIN-SUFFIX,teamviewer.us
+DOMAIN,client-teamviewer-com.trafficmanager.net
+DOMAIN,teamviewer.com.cdn.cloudflare.net

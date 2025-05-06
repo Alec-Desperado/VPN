@@ -1,0 +1,16 @@
+# NAME: linkedin
+# Updated: 2025-05-06 13:36:00 UTC
+[Rule]
+DOMAIN-SUFFIX,bizographics.com
+DOMAIN-SUFFIX,l-0005.dc-msedge.net
+DOMAIN-SUFFIX,l-0005.l-msedge.net
+DOMAIN-SUFFIX,licdn.com
+DOMAIN-SUFFIX,linkedin.at
+DOMAIN-SUFFIX,linkedin.com
+DOMAIN-SUFFIX,lnkd.in
+DOMAIN-SUFFIX,licdn.cn
+DOMAIN-SUFFIX,linkedin.cn
+# platform domain
+DOMAIN,e122475.dscg.akamaiedge.net
+DOMAIN,licdn.cn.cdn20.com
+DOMAIN,linkedin.sc.omtrdc.net

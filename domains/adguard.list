@@ -1,0 +1,23 @@
+# NAME: adguard
+# Updated: 2025-05-06 13:22:52 UTC
+[Rule]
+DOMAIN-SUFFIX,adguardaccount.com
+DOMAIN-SUFFIX,adguard.app
+DOMAIN-SUFFIX,adguard.com
+DOMAIN-SUFFIX,adguard.info
+DOMAIN-SUFFIX,adguard.io
+DOMAIN-SUFFIX,adguard.org
+DOMAIN-SUFFIX,adtidy.net
+DOMAIN-SUFFIX,adtidy.org
+DOMAIN-SUFFIX,agrd.eu
+DOMAIN-SUFFIX,agrd.io
+# adguard dns
+DOMAIN-SUFFIX,adguard-dns.com
+DOMAIN-SUFFIX,adguard-dns.io
+# adguard mail
+DOMAIN-SUFFIX,adguard-mail.com
+DOMAIN-SUFFIX,mask.me
+# adguard vpn
+DOMAIN-SUFFIX,adguardvpn.com
+DOMAIN-SUFFIX,adguard-vpn.com
+DOMAIN-SUFFIX,adguard-vpn.online

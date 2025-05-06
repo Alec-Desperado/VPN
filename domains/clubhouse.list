@@ -1,0 +1,6 @@
+# NAME: clubhouse
+# Updated: 2025-05-06 13:26:57 UTC
+[Rule]
+DOMAIN-SUFFIX,clubhouse.com
+DOMAIN-SUFFIX,clubhouseapi.com
+DOMAIN-SUFFIX,joinclubhouse.com

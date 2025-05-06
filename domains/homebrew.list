@@ -1,0 +1,5 @@
+# NAME: homebrew
+# Updated: 2025-05-06 13:35:53 UTC
+[Rule]
+DOMAIN-SUFFIX,brew.sh
+DOMAIN,homebrew.bintray.com

@@ -1,0 +1,7 @@
+# NAME: digitalocean
+# Updated: 2025-05-06 13:27:03 UTC
+[Rule]
+DOMAIN-SUFFIX,digitalocean.com
+DOMAIN-SUFFIX,digitaloceanspaces.com
+DOMAIN-SUFFIX,do.co
+DOMAIN-SUFFIX,nginxconfig.io

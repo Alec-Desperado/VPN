@@ -1,0 +1,4 @@
+# NAME: accuweather
+# Updated: 2025-05-06 13:22:50 UTC
+[Rule]
+DOMAIN-SUFFIX,accuweather.com
