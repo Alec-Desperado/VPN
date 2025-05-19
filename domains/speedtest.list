@@ -1,7 +1,8 @@
-# NAME: speedtest
-# Updated: 2025-05-06 13:36:36 UTC
-[Rule]
-# This tag 'speedtest' is for backward compatibility of 'geosite:speedtest' in V2Ray.
+# Name: speedtest
+# Updated: 2025-05-18 19:27:26 UTC
+# Total: 13
+
+DOMAIN,www.speedtest.net.cdn.cloudflare.net
 DOMAIN-SUFFIX,cdnst.net
 DOMAIN-SUFFIX,cellmaps.com
 DOMAIN-SUFFIX,ekahau.cloud
@@ -13,5 +14,4 @@ DOMAIN-SUFFIX,speedtest.co
 DOMAIN-SUFFIX,speedtest.net
 DOMAIN-SUFFIX,speedtestcustom.com
 DOMAIN-SUFFIX,webtest.net
-DOMAIN,www.speedtest.net.cdn.cloudflare.net
 URL-REGEX,^speed\.(coe|open)\.ad\.[a-z]{2,6}\.prod\.hosts\.ooklaserver\.net$

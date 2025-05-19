@@ -1,6 +1,7 @@
-# NAME: bitwarden
-# Updated: 2025-05-06 13:23:12 UTC
-[Rule]
+# Name: bitwarden
+# Updated: 2025-05-18 19:27:26 UTC
+# Total: 5
+
 DOMAIN-SUFFIX,bitwarden.com
 DOMAIN-SUFFIX,bitwarden.eu
 DOMAIN-SUFFIX,bitwarden.net

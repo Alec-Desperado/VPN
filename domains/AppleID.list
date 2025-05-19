@@ -1,0 +1,8 @@
+# Name: AppleID
+# Updated: 2025-05-18 19:27:25 UTC
+# Total: 4
+
+DOMAIN,appleid.apple.com
+DOMAIN,appleid.cdn-apple.com
+DOMAIN,gsa.apple.com
+DOMAIN,idmsa.apple.com

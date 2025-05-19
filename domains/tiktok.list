@@ -1,6 +1,8 @@
-# NAME: tiktok
-# Updated: 2025-05-06 13:36:42 UTC
-[Rule]
+# Name: tiktok
+# Updated: 2025-05-18 19:27:26 UTC
+# Total: 21
+
+DOMAIN,p16-tiktokcdn-com.akamaized.net
 DOMAIN-SUFFIX,byteoversea.com
 DOMAIN-SUFFIX,muscdn.com
 DOMAIN-SUFFIX,musical.ly
@@ -21,4 +23,3 @@ DOMAIN-SUFFIX,tiktokw.us
 DOMAIN-SUFFIX,ttlivecdn.com
 DOMAIN-SUFFIX,ttoverseaus.net
 DOMAIN-SUFFIX,ttwstatic.com
-DOMAIN,p16-tiktokcdn-com.akamaized.net

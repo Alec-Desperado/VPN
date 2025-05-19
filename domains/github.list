@@ -1,10 +1,10 @@
-# NAME: github
-# Updated: 2025-05-06 13:35:41 UTC
-[Rule]
-DOMAIN-SUFFIX,npm.community
-DOMAIN-SUFFIX,npmjs.com
-DOMAIN-SUFFIX,npmjs.org
+# Name: github
+# Updated: 2025-05-18 19:27:26 UTC
+# Total: 28
+
+DOMAIN,github-cloud.s3.amazonaws.com
 DOMAIN-SUFFIX,atom.io
+DOMAIN-SUFFIX,blob.core.windows.net
 DOMAIN-SUFFIX,dependabot.com
 DOMAIN-SUFFIX,ghcr.io
 DOMAIN-SUFFIX,git.io
@@ -23,10 +23,10 @@ DOMAIN-SUFFIX,githubstatus.com
 DOMAIN-SUFFIX,githubuniverse.com
 DOMAIN-SUFFIX,githubusercontent.com
 DOMAIN-SUFFIX,myoctocat.com
+DOMAIN-SUFFIX,npm.community
+DOMAIN-SUFFIX,npmjs.com
+DOMAIN-SUFFIX,npmjs.org
 DOMAIN-SUFFIX,opensource.guide
 DOMAIN-SUFFIX,repo.new
 DOMAIN-SUFFIX,thegithubshop.com
-# GitHub Actions Artifacts
-DOMAIN-SUFFIX,blob.core.windows.net
-DOMAIN,github-cloud.s3.amazonaws.com
 URL-REGEX,^github-production-release-asset-[0-9a-zA-Z]{6}\.s3\.amazonaws\.com$

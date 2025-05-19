@@ -1,5 +1,6 @@
-# NAME: nginx
-# Updated: 2025-05-06 13:36:15 UTC
-[Rule]
+# Name: nginx
+# Updated: 2025-05-18 19:27:26 UTC
+# Total: 2
+
 DOMAIN-SUFFIX,nginx.com
 DOMAIN-SUFFIX,nginx.org

@@ -1,5 +1,6 @@
-# NAME: medium
-# Updated: 2025-05-06 13:36:01 UTC
-[Rule]
+# Name: medium
+# Updated: 2025-05-18 19:27:26 UTC
+# Total: 2
+
 DOMAIN-SUFFIX,medium.com
 DOMAIN-SUFFIX,medium.systems

@@ -1,10 +1,12 @@
-# NAME: bing
-# Updated: 2025-05-06 13:23:12 UTC
-[Rule]
-# All .bing domains
+# Name: bing
+# Updated: 2025-05-18 19:27:26 UTC
+# Total: 37
+
+DOMAIN,bj1.api.bing.com
+DOMAIN,emoi-cncdn.bing.com
+DOMAIN,location.microsoft.com
 DOMAIN-SUFFIX,bing
 DOMAIN-SUFFIX,bing.com
-DOMAIN-SUFFIX,bing.com.cn
 DOMAIN-SUFFIX,bing.net
 DOMAIN-SUFFIX,bing123.com
 DOMAIN-SUFFIX,bingads.com
@@ -16,8 +18,12 @@ DOMAIN-SUFFIX,bingsandbox.com
 DOMAIN-SUFFIX,bingvisualsearch.com
 DOMAIN-SUFFIX,bingworld.com
 DOMAIN-SUFFIX,bluehatnights.com
+DOMAIN-SUFFIX,cn.bing.com
+DOMAIN-SUFFIX,cn.bing.net
+DOMAIN-SUFFIX,cn.mm.bing.net
 DOMAIN-SUFFIX,copilot.microsoft.com
 DOMAIN-SUFFIX,dictate.ms
+DOMAIN-SUFFIX,ditu.live.com
 DOMAIN-SUFFIX,flipwithsurface.com
 DOMAIN-SUFFIX,masalladeloslimites.com
 DOMAIN-SUFFIX,microsoft-give.com
@@ -29,12 +35,7 @@ DOMAIN-SUFFIX,microsoftpartnersolutions.com
 DOMAIN-SUFFIX,msunlimitedcloudsummit.com
 DOMAIN-SUFFIX,office365love.com
 DOMAIN-SUFFIX,office365tw.com
+DOMAIN-SUFFIX,r.bing.com
 DOMAIN-SUFFIX,renovacionoffice.com
 DOMAIN-SUFFIX,sprinklesapp.com
-DOMAIN,location.microsoft.com
-DOMAIN-SUFFIX,cn.bing.com
-DOMAIN-SUFFIX,cn.bing.net
-DOMAIN-SUFFIX,cn.mm.bing.net
-DOMAIN-SUFFIX,ditu.live.com
-DOMAIN,bj1.api.bing.com
-DOMAIN,emoi-cncdn.bing.com
+DOMAIN-SUFFIX,th.bing.com

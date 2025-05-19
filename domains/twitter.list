@@ -1,6 +1,7 @@
-# NAME: twitter
-# Updated: 2025-05-06 13:36:45 UTC
-[Rule]
+# Name: twitter
+# Updated: 2025-05-18 19:27:26 UTC
+# Total: 23
+
 DOMAIN-SUFFIX,ads-twitter.com
 DOMAIN-SUFFIX,cms-twdigitalassets.com
 DOMAIN-SUFFIX,periscope.tv
@@ -12,7 +13,6 @@ DOMAIN-SUFFIX,twimg.com
 DOMAIN-SUFFIX,twitpic.com
 DOMAIN-SUFFIX,twitter.biz
 DOMAIN-SUFFIX,twitter.com
-DOMAIN-SUFFIX,twitter.jp
 DOMAIN-SUFFIX,twitter.map.fastly.net
 DOMAIN-SUFFIX,twittercommunity.com
 DOMAIN-SUFFIX,twitterflightschool.com

@@ -1,6 +1,7 @@
-# NAME: hashicorp
-# Updated: 2025-05-06 13:35:52 UTC
-[Rule]
+# Name: hashicorp
+# Updated: 2025-05-18 19:27:26 UTC
+# Total: 8
+
 DOMAIN-SUFFIX,consul.io
 DOMAIN-SUFFIX,hashicorp.com
 DOMAIN-SUFFIX,nomadproject.io

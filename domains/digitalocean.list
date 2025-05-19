@@ -1,6 +1,7 @@
-# NAME: digitalocean
-# Updated: 2025-05-06 13:27:03 UTC
-[Rule]
+# Name: digitalocean
+# Updated: 2025-05-18 19:27:26 UTC
+# Total: 4
+
 DOMAIN-SUFFIX,digitalocean.com
 DOMAIN-SUFFIX,digitaloceanspaces.com
 DOMAIN-SUFFIX,do.co

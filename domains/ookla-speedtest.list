@@ -1,6 +1,8 @@
-# NAME: ookla-speedtest
-# Updated: 2025-05-06 13:36:19 UTC
-[Rule]
+# Name: ookla-speedtest
+# Updated: 2025-05-18 19:27:26 UTC
+# Total: 13
+
+DOMAIN,www.speedtest.net.cdn.cloudflare.net
 DOMAIN-SUFFIX,cdnst.net
 DOMAIN-SUFFIX,cellmaps.com
 DOMAIN-SUFFIX,ekahau.cloud
@@ -12,5 +14,4 @@ DOMAIN-SUFFIX,speedtest.co
 DOMAIN-SUFFIX,speedtest.net
 DOMAIN-SUFFIX,speedtestcustom.com
 DOMAIN-SUFFIX,webtest.net
-DOMAIN,www.speedtest.net.cdn.cloudflare.net
 URL-REGEX,^speed\.(coe|open)\.ad\.[a-z]{2,6}\.prod\.hosts\.ooklaserver\.net$

@@ -1,6 +1,7 @@
-# NAME: bluesky
-# Updated: 2025-05-06 13:23:14 UTC
-[Rule]
+# Name: bluesky
+# Updated: 2025-05-18 19:27:26 UTC
+# Total: 3
+
 DOMAIN-SUFFIX,bsky.app
 DOMAIN-SUFFIX,bsky.network
 DOMAIN-SUFFIX,bsky.social

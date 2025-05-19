@@ -1,6 +1,7 @@
-# NAME: duckduckgo
-# Updated: 2025-05-06 13:27:05 UTC
-[Rule]
+# Name: duckduckgo
+# Updated: 2025-05-18 19:27:26 UTC
+# Total: 42
+
 DOMAIN-SUFFIX,cispaletter.com
 DOMAIN-SUFFIX,cispaletter.org
 DOMAIN-SUFFIX,cometotheduckside.com
@@ -23,7 +24,6 @@ DOMAIN-SUFFIX,duckduckgo.com.tw
 DOMAIN-SUFFIX,duckduckgo.de
 DOMAIN-SUFFIX,duckduckgo.dk
 DOMAIN-SUFFIX,duckduckgo.in
-DOMAIN-SUFFIX,duckduckgo.jp
 DOMAIN-SUFFIX,duckduckgo.ke
 DOMAIN-SUFFIX,duckduckgo.mx
 DOMAIN-SUFFIX,duckduckgo.nl

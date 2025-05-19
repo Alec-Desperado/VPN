@@ -1,16 +1,16 @@
-# NAME: jetbrains
-# Updated: 2025-05-06 13:35:58 UTC
-[Rule]
+# Name: jetbrains
+# Updated: 2025-05-18 19:27:26 UTC
+# Total: 12
+
+DOMAIN-SUFFIX,cdn.jetbrains.com
+DOMAIN-SUFFIX,datalore.io
 DOMAIN-SUFFIX,intellij.com
 DOMAIN-SUFFIX,intellij.net
 DOMAIN-SUFFIX,intellij.org
+DOMAIN-SUFFIX,jb.gg
 DOMAIN-SUFFIX,jetbrains.com
 DOMAIN-SUFFIX,jetbrains.net
 DOMAIN-SUFFIX,jetbrains.space
 DOMAIN-SUFFIX,jetbrains.team
-DOMAIN-SUFFIX,datalore.io
 DOMAIN-SUFFIX,kotlinlang.org
-DOMAIN-SUFFIX,cdn.jetbrains.com
-DOMAIN-SUFFIX,download-cdn.jetbrains.com.cn
-DOMAIN-SUFFIX,jb.gg
 DOMAIN-SUFFIX,youtrack.cloud

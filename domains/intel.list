@@ -1,22 +1,45 @@
-# NAME: intel
-# Updated: 2025-05-06 13:35:57 UTC
-[Rule]
+# Name: intel
+# Updated: 2025-05-18 19:27:26 UTC
+# Total: 254
+
 DOMAIN-SUFFIX,01.org
-DOMAIN-SUFFIX,hyperscan.io
-DOMAIN-SUFFIX,intellinuxgraphics.com
-DOMAIN-SUFFIX,intellinuxgraphics.net
-DOMAIN-SUFFIX,oneapi.com
-DOMAIN-SUFFIX,openvinotoolkit.org
-DOMAIN-SUFFIX,snap-telemetry.io
-# ACPI Component Architecture
 DOMAIN-SUFFIX,acpica.com
-# Clear Linux
+DOMAIN-SUFFIX,altera.com
+DOMAIN-SUFFIX,alteraforum.com
+DOMAIN-SUFFIX,alteraforums.com
+DOMAIN-SUFFIX,alteraforums.net
+DOMAIN-SUFFIX,alterauserforum.com
+DOMAIN-SUFFIX,alterauserforum.net
+DOMAIN-SUFFIX,alterauserforums.com
+DOMAIN-SUFFIX,alterauserforums.net
+DOMAIN-SUFFIX,barefootnetworks.com
+DOMAIN-SUFFIX,buyaltera.com
+DOMAIN-SUFFIX,celeron.com
+DOMAIN-SUFFIX,celeron.net
+DOMAIN-SUFFIX,centrino.com
+DOMAIN-SUFFIX,centrino.net
+DOMAIN-SUFFIX,chips.com
+DOMAIN-SUFFIX,cilk.com
+DOMAIN-SUFFIX,cilk.net
 DOMAIN-SUFFIX,clearlinux.org
-# OSPRay
-DOMAIN-SUFFIX,ospray.net
-DOMAIN-SUFFIX,ospray.org
-# All .intel domains
+DOMAIN-SUFFIX,cloudinsights.com
+DOMAIN-SUFFIX,clusterconnection.com
+DOMAIN-SUFFIX,coreduo.com
+DOMAIN-SUFFIX,coreextreme.com
+DOMAIN-SUFFIX,crosswalk-project.com
+DOMAIN-SUFFIX,crosswalk-project.net
+DOMAIN-SUFFIX,doceapower.com
+DOMAIN-SUFFIX,easic.com
+DOMAIN-SUFFIX,enpirion.com
+DOMAIN-SUFFIX,exascale-tech.com
+DOMAIN-SUFFIX,exploreintel.com
+DOMAIN-SUFFIX,gordonmoore.com
+DOMAIN-SUFFIX,hyperscan.io
+DOMAIN-SUFFIX,insidefilms.com
+DOMAIN-SUFFIX,intc.com
 DOMAIN-SUFFIX,intel
+DOMAIN-SUFFIX,intel-research.net
+DOMAIN-SUFFIX,intel-university-collaboration.net
 DOMAIN-SUFFIX,intel.ac
 DOMAIN-SUFFIX,intel.ae
 DOMAIN-SUFFIX,intel.af
@@ -38,12 +61,10 @@ DOMAIN-SUFFIX,intel.cg
 DOMAIN-SUFFIX,intel.ch
 DOMAIN-SUFFIX,intel.cl
 DOMAIN-SUFFIX,intel.cm
-DOMAIN-SUFFIX,intel.cn
 DOMAIN-SUFFIX,intel.co.ae
 DOMAIN-SUFFIX,intel.co.cr
 DOMAIN-SUFFIX,intel.co.id
 DOMAIN-SUFFIX,intel.co.il
-DOMAIN-SUFFIX,intel.co.jp
 DOMAIN-SUFFIX,intel.co.kr
 DOMAIN-SUFFIX,intel.co.uk
 DOMAIN-SUFFIX,intel.co.za
@@ -52,7 +73,6 @@ DOMAIN-SUFFIX,intel.com.ar
 DOMAIN-SUFFIX,intel.com.au
 DOMAIN-SUFFIX,intel.com.bo
 DOMAIN-SUFFIX,intel.com.br
-DOMAIN-SUFFIX,intel.com.cn
 DOMAIN-SUFFIX,intel.com.co
 DOMAIN-SUFFIX,intel.com.ec
 DOMAIN-SUFFIX,intel.com.hk
@@ -99,7 +119,6 @@ DOMAIN-SUFFIX,intel.io
 DOMAIN-SUFFIX,intel.it
 DOMAIN-SUFFIX,intel.je
 DOMAIN-SUFFIX,intel.jo
-DOMAIN-SUFFIX,intel.jp
 DOMAIN-SUFFIX,intel.ke
 DOMAIN-SUFFIX,intel.la
 DOMAIN-SUFFIX,intel.lc
@@ -162,38 +181,6 @@ DOMAIN-SUFFIX,intel.vn
 DOMAIN-SUFFIX,intel.vu
 DOMAIN-SUFFIX,intel.wf
 DOMAIN-SUFFIX,intel.yt
-DOMAIN-SUFFIX,altera.com
-DOMAIN-SUFFIX,alteraforum.com
-DOMAIN-SUFFIX,alteraforums.com
-DOMAIN-SUFFIX,alteraforums.net
-DOMAIN-SUFFIX,alterauserforum.com
-DOMAIN-SUFFIX,alterauserforum.net
-DOMAIN-SUFFIX,alterauserforums.com
-DOMAIN-SUFFIX,alterauserforums.net
-DOMAIN-SUFFIX,buyaltera.com
-DOMAIN-SUFFIX,celeron.com
-DOMAIN-SUFFIX,celeron.net
-DOMAIN-SUFFIX,centrino.com
-DOMAIN-SUFFIX,centrino.net
-DOMAIN-SUFFIX,chips.com
-DOMAIN-SUFFIX,cilk.com
-DOMAIN-SUFFIX,cilk.net
-DOMAIN-SUFFIX,cloudinsights.com
-DOMAIN-SUFFIX,clusterconnection.com
-DOMAIN-SUFFIX,coreduo.com
-DOMAIN-SUFFIX,coreextreme.com
-DOMAIN-SUFFIX,crosswalk-project.com
-DOMAIN-SUFFIX,crosswalk-project.net
-DOMAIN-SUFFIX,doceapower.com
-DOMAIN-SUFFIX,easic.com
-DOMAIN-SUFFIX,enpirion.com
-DOMAIN-SUFFIX,exascale-tech.com
-DOMAIN-SUFFIX,exploreintel.com
-DOMAIN-SUFFIX,gordonmoore.com
-DOMAIN-SUFFIX,insidefilms.com
-DOMAIN-SUFFIX,intc.com
-DOMAIN-SUFFIX,intel-research.net
-DOMAIN-SUFFIX,intel-university-collaboration.net
 DOMAIN-SUFFIX,intelamericasstore.com
 DOMAIN-SUFFIX,intelapacstore.com
 DOMAIN-SUFFIX,intelatom.net
@@ -210,12 +197,13 @@ DOMAIN-SUFFIX,intelinsight.com
 DOMAIN-SUFFIX,inteliotmarketplace.com
 DOMAIN-SUFFIX,intell.com
 DOMAIN-SUFFIX,intellearningseries.com
+DOMAIN-SUFFIX,intellinuxgraphics.com
+DOMAIN-SUFFIX,intellinuxgraphics.net
 DOMAIN-SUFFIX,intellinuxwireless.net
 DOMAIN-SUFFIX,intelnervana.com
 DOMAIN-SUFFIX,intelnet.Component
 DOMAIN-SUFFIX,intelplay.com
 DOMAIN-SUFFIX,intelquark.com
-DOMAIN-SUFFIX,intelrealsense.cn
 DOMAIN-SUFFIX,intelrealsense.com
 DOMAIN-SUFFIX,intelrxt.com
 DOMAIN-SUFFIX,intelsalestraining.com
@@ -239,9 +227,13 @@ DOMAIN-SUFFIX,niosii.com
 DOMAIN-SUFFIX,niosii.net
 DOMAIN-SUFFIX,omekinteractive.com
 DOMAIN-SUFFIX,omnitek.tv
+DOMAIN-SUFFIX,oneapi.com
 DOMAIN-SUFFIX,openamt.com
 DOMAIN-SUFFIX,opendroneid.org
+DOMAIN-SUFFIX,openvinotoolkit.org
 DOMAIN-SUFFIX,optanedifference.com
+DOMAIN-SUFFIX,ospray.net
+DOMAIN-SUFFIX,ospray.org
 DOMAIN-SUFFIX,pc.com
 DOMAIN-SUFFIX,pentium.com
 DOMAIN-SUFFIX,pentium.net
@@ -254,6 +246,7 @@ DOMAIN-SUFFIX,saffrontech.com
 DOMAIN-SUFFIX,sensorynetworks.com
 DOMAIN-SUFFIX,siport.com
 DOMAIN-SUFFIX,smart-edge.com
+DOMAIN-SUFFIX,snap-telemetry.io
 DOMAIN-SUFFIX,theintelstore.com
 DOMAIN-SUFFIX,thunderbolttechnology.net
 DOMAIN-SUFFIX,trustedanalytics.com
@@ -262,7 +255,4 @@ DOMAIN-SUFFIX,vokevr.com
 DOMAIN-SUFFIX,vpro.com
 DOMAIN-SUFFIX,vpro.net
 DOMAIN-SUFFIX,xeon.com
-DOMAIN-SUFFIX,xn--ztsq84g.cn # 奔腾.cn
 DOMAIN-SUFFIX,xscale.com
-# Barefoot Networks
-DOMAIN-SUFFIX,barefootnetworks.com

@@ -1,0 +1,5 @@
+# Name: ookla-speedtest-ads
+# Updated: 2025-05-18 19:27:26 UTC
+# Total: 1
+
+URL-REGEX,^speed\.(coe|open)\.ad\.[a-z]{2,6}\.prod\.hosts\.ooklaserver\.net$

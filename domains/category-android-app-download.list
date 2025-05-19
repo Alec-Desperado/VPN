@@ -1,6 +1,7 @@
-# NAME: category-android-app-download
-# Updated: 2025-05-06 13:24:29 UTC
-[Rule]
+# Name: category-android-app-download
+# Updated: 2025-05-18 19:27:26 UTC
+# Total: 7
+
 DOMAIN-SUFFIX,apkcombo.com
 DOMAIN-SUFFIX,apkmirror.com
 DOMAIN-SUFFIX,apkpure.com

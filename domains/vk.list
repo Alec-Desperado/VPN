@@ -1,6 +1,7 @@
-# NAME: vk
-# Updated: 2025-05-06 13:36:49 UTC
-[Rule]
+# Name: vk
+# Updated: 2025-05-18 19:27:26 UTC
+# Total: 32
+
 DOMAIN-SUFFIX,mvk.com
 DOMAIN-SUFFIX,userapi.com
 DOMAIN-SUFFIX,vk-apps.com

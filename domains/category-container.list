@@ -1,6 +1,7 @@
-# NAME: category-container
-# Updated: 2025-05-06 13:25:06 UTC
-[Rule]
+# Name: category-container
+# Updated: 2025-05-18 19:27:26 UTC
+# Total: 10
+
 DOMAIN-SUFFIX,azurecr.io
 DOMAIN-SUFFIX,docker.io
 DOMAIN-SUFFIX,ecr.aws

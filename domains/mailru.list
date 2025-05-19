@@ -1,6 +1,7 @@
-# NAME: mailru
-# Updated: 2025-05-06 13:36:01 UTC
-[Rule]
+# Name: mailru
+# Updated: 2025-05-18 19:27:26 UTC
+# Total: 3
+
 DOMAIN-SUFFIX,imgsmail.ru
 DOMAIN-SUFFIX,mail.ru
 DOMAIN-SUFFIX,mycdn.me

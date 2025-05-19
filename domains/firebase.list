@@ -1,10 +1,7 @@
-# NAME: firebase
-# Updated: 2025-05-06 13:27:07 UTC
-[Rule]
-DOMAIN-SUFFIX,firebase.com
-DOMAIN-SUFFIX,firebase.io
-DOMAIN-SUFFIX,firebaseapp.com
-DOMAIN-SUFFIX,firebaseio.com
+# Name: firebase
+# Updated: 2025-05-18 19:27:26 UTC
+# Total: 17
+
 DOMAIN,firebase-settings.crashlytics.com
 DOMAIN,firebase.google.com
 DOMAIN,firebase.googleapis.com
@@ -18,3 +15,7 @@ DOMAIN,firebaselogging-pa.googleapis.com
 DOMAIN,firebaselogging.googleapis.com
 DOMAIN,firebaseperusertopics-pa.googleapis.com
 DOMAIN,firebaseremoteconfig.googleapis.com
+DOMAIN-SUFFIX,firebase.com
+DOMAIN-SUFFIX,firebase.io
+DOMAIN-SUFFIX,firebaseapp.com
+DOMAIN-SUFFIX,firebaseio.com

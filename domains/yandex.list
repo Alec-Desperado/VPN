@@ -1,12 +1,11 @@
-# NAME: yandex
-# Updated: 2025-05-06 13:36:55 UTC
-[Rule]
-# All .yandex domains
-DOMAIN-SUFFIX,yandex
-# яндекс.рф
-DOMAIN-SUFFIX,xn--d1acpjx3f.xn--p1ai
+# Name: yandex
+# Updated: 2025-05-18 19:27:26 UTC
+# Total: 37
+
 DOMAIN-SUFFIX,dzen.ru
+DOMAIN-SUFFIX,xn--d1acpjx3f.xn--p1ai
 DOMAIN-SUFFIX,ya.ru
+DOMAIN-SUFFIX,yandex
 DOMAIN-SUFFIX,yandex.aero
 DOMAIN-SUFFIX,yandex.az
 DOMAIN-SUFFIX,yandex.by

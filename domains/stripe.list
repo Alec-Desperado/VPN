@@ -1,6 +1,7 @@
-# NAME: stripe
-# Updated: 2025-05-06 13:36:38 UTC
-[Rule]
+# Name: stripe
+# Updated: 2025-05-18 19:27:26 UTC
+# Total: 5
+
 DOMAIN-SUFFIX,link.com
 DOMAIN-SUFFIX,stripe-terminal-local-reader.net
 DOMAIN-SUFFIX,stripe.com

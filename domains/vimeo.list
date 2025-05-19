@@ -1,6 +1,8 @@
-# NAME: vimeo
-# Updated: 2025-05-06 13:36:48 UTC
-[Rule]
+# Name: vimeo
+# Updated: 2025-05-18 19:27:26 UTC
+# Total: 17
+
+DOMAIN-SUFFIX,livestream.com
 DOMAIN-SUFFIX,vhx.tv
 DOMAIN-SUFFIX,vhxqa1.com
 DOMAIN-SUFFIX,vhxqa2.com
@@ -16,5 +18,4 @@ DOMAIN-SUFFIX,vimeocdn.com
 DOMAIN-SUFFIX,vimeogoods.com
 DOMAIN-SUFFIX,vimeoondemand.com
 DOMAIN-SUFFIX,vimeostatus.com
-DOMAIN-SUFFIX,livestream.com
 URL-REGEX,^[0-9]+vod-adaptive\.akamaized\.net$

@@ -1,6 +1,8 @@
-# NAME: hetzner
-# Updated: 2025-05-06 13:35:53 UTC
-[Rule]
+# Name: hetzner
+# Updated: 2025-05-18 19:27:26 UTC
+# Total: 14
+
+DOMAIN,sentry.hetzner.company
 DOMAIN-SUFFIX,first-ns.de
 DOMAIN-SUFFIX,hetzner.cloud
 DOMAIN-SUFFIX,hetzner.com
@@ -14,5 +16,3 @@ DOMAIN-SUFFIX,your-objectstorage.com
 DOMAIN-SUFFIX,your-server.de
 DOMAIN-SUFFIX,your-storagebox.de
 DOMAIN-SUFFIX,your-storageshare.de
-# tracking
-DOMAIN,sentry.hetzner.company

@@ -1,6 +1,7 @@
-# NAME: notion
-# Updated: 2025-05-06 13:36:16 UTC
-[Rule]
+# Name: notion
+# Updated: 2025-05-18 19:27:26 UTC
+# Total: 8
+
 DOMAIN-SUFFIX,api.notion.com
 DOMAIN-SUFFIX,img.notionusercontent.com
 DOMAIN-SUFFIX,notion-static.com

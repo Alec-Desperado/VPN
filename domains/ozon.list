@@ -1,6 +1,7 @@
-# NAME: ozon
-# Updated: 2025-05-06 13:36:23 UTC
-[Rule]
+# Name: ozon
+# Updated: 2025-05-18 19:27:26 UTC
+# Total: 3
+
 DOMAIN-SUFFIX,ozon.ru
 DOMAIN-SUFFIX,ozone.ru
 DOMAIN-SUFFIX,ozonusercontent.com

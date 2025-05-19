@@ -1,0 +1,5 @@
+# NAME: cloudflare-ipfs
+# Updated: 2025-05-06 13:26:55 UTC
+[Rule]
+DOMAIN-SUFFIX,cf-ipfs.com
+DOMAIN-SUFFIX,cloudflare-ipfs.com

@@ -1,0 +1,15 @@
+# NAME: canonical
+# Updated: 2025-05-06 13:23:18 UTC
+[Rule]
+DOMAIN-SUFFIX,launchpad.net
+DOMAIN-SUFFIX,launchpadcontent.net
+DOMAIN-SUFFIX,launchpadlibrarian.com
+DOMAIN-SUFFIX,launchpadlibrarian.net
+DOMAIN-SUFFIX,launchpadlibrarian.org
+DOMAIN-SUFFIX,snapcraft.io
+DOMAIN-SUFFIX,snapstore.io
+DOMAIN-SUFFIX,ubuntu.com
+DOMAIN-SUFFIX,ubuntu.net
+DOMAIN-SUFFIX,ubuntuforums.org
+DOMAIN-SUFFIX,ubuntu-touch.io
+DOMAIN-SUFFIX,canonical.com

@@ -1,6 +1,7 @@
-# NAME: slack
-# Updated: 2025-05-06 13:36:32 UTC
-[Rule]
+# Name: slack
+# Updated: 2025-05-18 19:27:26 UTC
+# Total: 11
+
 DOMAIN-SUFFIX,slack-core.com
 DOMAIN-SUFFIX,slack-edge.com
 DOMAIN-SUFFIX,slack-files.com

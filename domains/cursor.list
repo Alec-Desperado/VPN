@@ -1,6 +1,7 @@
-# NAME: cursor
-# Updated: 2025-05-06 13:26:59 UTC
-[Rule]
+# Name: cursor
+# Updated: 2025-05-18 19:27:26 UTC
+# Total: 4
+
 DOMAIN-SUFFIX,cursor-cdn.com
 DOMAIN-SUFFIX,cursor.com
 DOMAIN-SUFFIX,cursor.sh

@@ -1,5 +1,6 @@
-# NAME: redis
-# Updated: 2025-05-06 13:36:29 UTC
-[Rule]
+# Name: redis
+# Updated: 2025-05-18 19:27:26 UTC
+# Total: 2
+
 DOMAIN-SUFFIX,redis.io
 DOMAIN-SUFFIX,redislabs.com

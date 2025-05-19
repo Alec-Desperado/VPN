@@ -1,11 +1,11 @@
-# NAME: category-ipfs
-# Updated: 2025-05-06 13:25:52 UTC
-[Rule]
-# Reference: https://ipfs.github.io/public-gateway-checker/
-DOMAIN-SUFFIX,cf-ipfs.com
-DOMAIN-SUFFIX,cloudflare-ipfs.com
+# Name: category-ipfs
+# Updated: 2025-05-18 19:27:26 UTC
+# Total: 21
+
 DOMAIN-SUFFIX,4everland.io
 DOMAIN-SUFFIX,c4rex.co
+DOMAIN-SUFFIX,cf-ipfs.com
+DOMAIN-SUFFIX,cloudflare-ipfs.com
 DOMAIN-SUFFIX,crustwebsites.net
 DOMAIN-SUFFIX,dweb.link
 DOMAIN-SUFFIX,gateway.pinata.cloud

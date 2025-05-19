@@ -1,6 +1,7 @@
-# NAME: messenger
-# Updated: 2025-05-06 13:36:02 UTC
-[Rule]
+# Name: messenger
+# Updated: 2025-05-18 19:27:26 UTC
+# Total: 4
+
 DOMAIN-SUFFIX,fbmessenger.com
 DOMAIN-SUFFIX,m.me
 DOMAIN-SUFFIX,messenger.com

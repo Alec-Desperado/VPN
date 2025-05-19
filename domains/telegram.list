@@ -1,6 +1,7 @@
-# NAME: telegram
-# Updated: 2025-05-06 13:36:39 UTC
-[Rule]
+# Name: telegram
+# Updated: 2025-05-18 19:27:26 UTC
+# Total: 19
+
 DOMAIN-SUFFIX,cdn-telegram.org
 DOMAIN-SUFFIX,comments.app
 DOMAIN-SUFFIX,contest.com

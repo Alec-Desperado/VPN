@@ -1,6 +1,7 @@
-# NAME: icloudprivaterelay
-# Updated: 2025-05-06 13:35:55 UTC
-[Rule]
+# Name: icloudprivaterelay
+# Updated: 2025-05-18 19:27:26 UTC
+# Total: 3
+
 DOMAIN-SUFFIX,mask-api.icloud.com
 DOMAIN-SUFFIX,mask-h2.icloud.com
 DOMAIN-SUFFIX,mask.icloud.com

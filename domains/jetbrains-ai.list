@@ -1,6 +1,7 @@
-# NAME: jetbrains-ai
-# Updated: 2025-05-06 13:35:58 UTC
-[Rule]
+# Name: jetbrains-ai
+# Updated: 2025-05-18 19:27:26 UTC
+# Total: 3
+
 DOMAIN-SUFFIX,grazie.ai
 DOMAIN-SUFFIX,grazie.aws.intellij.net
 DOMAIN-SUFFIX,jetbrains.ai

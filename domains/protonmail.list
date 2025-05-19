@@ -1,6 +1,7 @@
-# NAME: protonmail
-# Updated: 2025-05-06 13:36:27 UTC
-[Rule]
+# Name: protonmail
+# Updated: 2025-05-18 19:27:26 UTC
+# Total: 9
+
 DOMAIN-SUFFIX,pm.me
 DOMAIN-SUFFIX,proton.me
 DOMAIN-SUFFIX,protonmail.ch

@@ -1,6 +1,7 @@
-# NAME: atlassian
-# Updated: 2025-05-06 13:23:09 UTC
-[Rule]
+# Name: atlassian
+# Updated: 2025-05-18 19:27:26 UTC
+# Total: 7
+
 DOMAIN-SUFFIX,atlassian.com
 DOMAIN-SUFFIX,atlassian.net
 DOMAIN-SUFFIX,bitbucket.io

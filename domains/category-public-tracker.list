@@ -1,6 +1,7 @@
-# NAME: category-public-tracker
-# Updated: 2025-05-06 13:26:39 UTC
-[Rule]
+# Name: category-public-tracker
+# Updated: 2025-05-18 19:27:26 UTC
+# Total: 172
+
 DOMAIN,10.rarbg.com
 DOMAIN,12.rarbg.me
 DOMAIN,1337.abcvg.info
@@ -132,7 +133,6 @@ DOMAIN,tracker.kamigami.org
 DOMAIN,tracker.ktxp.com
 DOMAIN,tracker.leechers-paradise.org
 DOMAIN,tracker.lilithraws.org
-DOMAIN,tracker.loligirl.cn
 DOMAIN,tracker.moeking.me
 DOMAIN,tracker.mywaifu.best
 DOMAIN,tracker.netmap.top
@@ -162,7 +162,6 @@ DOMAIN,tracker.tryhackx.org
 DOMAIN,tracker.yemekyedim.com
 DOMAIN,tracker.zer0day.to
 DOMAIN,tracker.zond.org
-DOMAIN,tracker1.ctix.cn
 DOMAIN,tracker1.itzmx.com
 DOMAIN,tracker1.myporn.club
 DOMAIN,tracker2.dler.org

@@ -1,6 +1,7 @@
-# NAME: whatsapp
-# Updated: 2025-05-06 13:36:51 UTC
-[Rule]
+# Name: whatsapp
+# Updated: 2025-05-18 19:27:26 UTC
+# Total: 13
+
 DOMAIN-SUFFIX,graph.whatsapp.com
 DOMAIN-SUFFIX,graph.whatsapp.net
 DOMAIN-SUFFIX,wa.me

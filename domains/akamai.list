@@ -1,7 +1,7 @@
-# NAME: akamai
-# Updated: 2025-05-06 13:22:55 UTC
-[Rule]
-DOMAIN-SUFFIX,accdn.com.cn
+# Name: akamai
+# Updated: 2025-05-18 19:27:26 UTC
+# Total: 76
+
 DOMAIN-SUFFIX,ak1.net
 DOMAIN-SUFFIX,aka-ai.com
 DOMAIN-SUFFIX,aka-ai.net
@@ -20,8 +20,6 @@ DOMAIN-SUFFIX,akaint.net
 DOMAIN-SUFFIX,akam.net
 DOMAIN-SUFFIX,akamaa.com
 DOMAIN-SUFFIX,akamah.com
-DOMAIN-SUFFIX,akamak.com
-DOMAIN-SUFFIX,akamam.com
 DOMAIN-SUFFIX,akamai-access.com
 DOMAIN-SUFFIX,akamai-access.net
 DOMAIN-SUFFIX,akamai-cdn.com
@@ -51,15 +49,17 @@ DOMAIN-SUFFIX,akamaimagicmath.net
 DOMAIN-SUFFIX,akamainewzealand.com
 DOMAIN-SUFFIX,akamaiphillipines.com
 DOMAIN-SUFFIX,akamaiphillipines.net
+DOMAIN-SUFFIX,akamaisingapore.net
+DOMAIN-SUFFIX,akamaistream.net
 DOMAIN-SUFFIX,akamaitech.com
 DOMAIN-SUFFIX,akamaitech.net
 DOMAIN-SUFFIX,akamaitechnologies.com
 DOMAIN-SUFFIX,akamaitechnologies.net
-DOMAIN-SUFFIX,akamaisingapore.net
-DOMAIN-SUFFIX,akamaistream.net
 DOMAIN-SUFFIX,akamaized-staging.net
 DOMAIN-SUFFIX,akamaized.net
 DOMAIN-SUFFIX,akamaizercentral.com
+DOMAIN-SUFFIX,akamak.com
+DOMAIN-SUFFIX,akamam.com
 DOMAIN-SUFFIX,akamci.com
 DOMAIN-SUFFIX,akami.com
 DOMAIN-SUFFIX,akami.net
@@ -68,7 +68,6 @@ DOMAIN-SUFFIX,akamqi.com
 DOMAIN-SUFFIX,akastream.com
 DOMAIN-SUFFIX,akastream.net
 DOMAIN-SUFFIX,akatns.net
-DOMAIN-SUFFIX,akcdn.com.cn
 DOMAIN-SUFFIX,aptdn.net
 DOMAIN-SUFFIX,edgekey.net
 DOMAIN-SUFFIX,edgekey88.net
@@ -77,6 +76,5 @@ DOMAIN-SUFFIX,iamakamai.com
 DOMAIN-SUFFIX,iamakamai.net
 DOMAIN-SUFFIX,janrain.biz
 DOMAIN-SUFFIX,janrainservices.com
-DOMAIN-SUFFIX,skycdn.com.cn
 DOMAIN-SUFFIX,soasta-dswb.com
 DOMAIN-SUFFIX,srtcdn.net

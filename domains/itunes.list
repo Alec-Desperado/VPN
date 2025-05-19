@@ -1,6 +1,7 @@
-# NAME: itunes
-# Updated: 2025-05-06 13:35:58 UTC
-[Rule]
+# Name: itunes
+# Updated: 2025-05-18 19:27:26 UTC
+# Total: 47
+
 DOMAIN-SUFFIX,12diasdepresentesdeitunes.com
 DOMAIN-SUFFIX,12diasderegalosdeitunes.cl
 DOMAIN-SUFFIX,12diasderegalosdeitunes.co
@@ -17,11 +18,9 @@ DOMAIN-SUFFIX,12diasderegalosdeitunes.gt
 DOMAIN-SUFFIX,12diasderegalosdeitunes.hn
 DOMAIN-SUFFIX,12diasderegalosdeitunes.pe
 DOMAIN-SUFFIX,12joursdecadeauxdeitunes.com
-DOMAIN-SUFFIX,apple-itunes.cn
 DOMAIN-SUFFIX,itun.es
 DOMAIN-SUFFIX,itunbes.com
 DOMAIN-SUFFIX,ituneas.com
-DOMAIN-SUFFIX,itunes-apple.cn
 DOMAIN-SUFFIX,itunes-apple.com.akadns.net
 DOMAIN-SUFFIX,itunes-radio.net
 DOMAIN-SUFFIX,itunes.ca
@@ -34,7 +33,6 @@ DOMAIN-SUFFIX,itunes.org
 DOMAIN-SUFFIX,itunes.rio
 DOMAIN-SUFFIX,itunes.us
 DOMAIN-SUFFIX,itunes12days.com
-DOMAIN-SUFFIX,itunesapple.cn
 DOMAIN-SUFFIX,itunesessentials.com
 DOMAIN-SUFFIX,itunesfestivals.com
 DOMAIN-SUFFIX,itunesiradio.com
@@ -42,9 +40,7 @@ DOMAIN-SUFFIX,ituneslatino.com
 DOMAIN-SUFFIX,ituneslogin.net
 DOMAIN-SUFFIX,itunesmatch.com
 DOMAIN-SUFFIX,itunesparty.com
-DOMAIN-SUFFIX,itunesradio.cn
 DOMAIN-SUFFIX,itunesradio.com
-DOMAIN-SUFFIX,itunesradio.com.cn
 DOMAIN-SUFFIX,itunesradio.rio
 DOMAIN-SUFFIX,itunesradio.tv
 DOMAIN-SUFFIX,itunesradio.tw
