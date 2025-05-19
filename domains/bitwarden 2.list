@@ -1,8 +1,0 @@
-# NAME: bitwarden
-# Updated: 2025-05-06 13:23:12 UTC
-[Rule]
-DOMAIN-SUFFIX,bitwarden.com
-DOMAIN-SUFFIX,bitwarden.eu
-DOMAIN-SUFFIX,bitwarden.net
-DOMAIN-SUFFIX,btwrdn.co
-DOMAIN-SUFFIX,btwrdn.com

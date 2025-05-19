@@ -1,7 +1,0 @@
-# NAME: cursor
-# Updated: 2025-05-06 13:26:59 UTC
-[Rule]
-DOMAIN-SUFFIX,cursor-cdn.com
-DOMAIN-SUFFIX,cursor.com
-DOMAIN-SUFFIX,cursor.sh
-DOMAIN-SUFFIX,cursorapi.com

@@ -1,7 +1,0 @@
-# NAME: godaddy
-# Updated: 2025-05-06 13:35:42 UTC
-[Rule]
-DOMAIN-SUFFIX,godaddy.com
-DOMAIN-SUFFIX,x.co # GoDaddy URL Shortener
-# All .godaddy domains
-DOMAIN-SUFFIX,godaddy

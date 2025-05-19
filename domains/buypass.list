@@ -1,8 +1,0 @@
-# NAME: buypass
-# Updated: 2025-05-06 13:23:15 UTC
-[Rule]
-DOMAIN-SUFFIX,buypass-ssl.com
-DOMAIN-SUFFIX,buypass.com
-DOMAIN-SUFFIX,buypass.no
-DOMAIN-SUFFIX,buypass.se
-DOMAIN-SUFFIX,minid.no

@@ -1,6 +1,0 @@
-# NAME: v2ray
-# Updated: 2025-05-06 13:36:46 UTC
-[Rule]
-DOMAIN-SUFFIX,v2ray.com
-DOMAIN-SUFFIX,v2ray.cool
-DOMAIN-SUFFIX,v2fly.org
