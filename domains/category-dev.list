@@ -1,8 +1,9 @@
 # Name: category-dev
-# Updated: 2025-05-18 19:27:26 UTC
-# Total: 507
+# Updated: 2025-05-27 20:54:12 UTC
+# Total: 503
 
 DOMAIN,amp.akamaized.net
+DOMAIN,android.googlesource.com
 DOMAIN,appleworldwidedeveloper.hb-api.omtrdc.net
 DOMAIN,appleworldwidedeveloper.sc.omtrdc.net
 DOMAIN,az764295.vo.msecnd.net
@@ -396,7 +397,6 @@ DOMAIN-SUFFIX,registry.k8s.io
 DOMAIN-SUFFIX,remirepo.net
 DOMAIN-SUFFIX,repo.new
 DOMAIN-SUFFIX,researchandcare.org
-DOMAIN-SUFFIX,researchkit.hk
 DOMAIN-SUFFIX,researchkit.net
 DOMAIN-SUFFIX,researchkit.org
 DOMAIN-SUFFIX,researchkit.tv
@@ -498,10 +498,6 @@ DOMAIN-SUFFIX,wireshark.org
 DOMAIN-SUFFIX,wpewebkit.org
 DOMAIN-SUFFIX,x.org
 DOMAIN-SUFFIX,xamarin.com
-DOMAIN-SUFFIX,xda-cdn.com
-DOMAIN-SUFFIX,xda-developers.com
-DOMAIN-SUFFIX,xdaforums.com
-DOMAIN-SUFFIX,xdaimages.com
 DOMAIN-SUFFIX,xposed.info
 DOMAIN-SUFFIX,yarnpkg.com
 DOMAIN-SUFFIX,yogalayout.com

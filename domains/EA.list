@@ -1,11 +1,13 @@
 # Name: ea
-# Updated: 2025-05-18 19:27:26 UTC
-# Total: 160
+# Updated: 2025-05-27 20:56:28 UTC
+# Total: 166
 
 DOMAIN,cloudsync-prod.s3.amazonaws.com
 DOMAIN,ea.tt.omtrdc.net
+DOMAIN,eaasserts-a.akamaihd.net
 DOMAIN,eaassets-a.akamaihd.net
 DOMAIN,origin-a.akamaihd.net
+DOMAIN,originasserts.akamaized.net
 DOMAIN,rtm.tnt-ea.com
 DOMAIN,ssl-lvlt.cdn.ea.com
 DOMAIN-SUFFIX,anthemgame.com
@@ -33,6 +35,7 @@ DOMAIN-SUFFIX,camelotherald.com
 DOMAIN-SUFFIX,camelotherald.net
 DOMAIN-SUFFIX,capitalgames.com
 DOMAIN-SUFFIX,chillingo.com
+DOMAIN-SUFFIX,cloudsync-prod.s3.amazonaws.com
 DOMAIN-SUFFIX,cncrivals.com
 DOMAIN-SUFFIX,commandandconquer.com
 DOMAIN-SUFFIX,conquerwithcharacter.com
@@ -51,7 +54,9 @@ DOMAIN-SUFFIX,dragonagemovie.com
 DOMAIN-SUFFIX,dungeonkeeper.com
 DOMAIN-SUFFIX,ea-anz-press.com
 DOMAIN-SUFFIX,ea.com
+DOMAIN-SUFFIX,ea.tt.omtrdc.net
 DOMAIN-SUFFIX,eaaccess.com
+DOMAIN-SUFFIX,eaassets-a.akamaihd.net
 DOMAIN-SUFFIX,eablackbox.com
 DOMAIN-SUFFIX,eacashcard.com
 DOMAIN-SUFFIX,eacodigos.com
@@ -115,6 +120,7 @@ DOMAIN-SUFFIX,needforspeedtherun.com
 DOMAIN-SUFFIX,needforspeedtimeattack.com
 DOMAIN-SUFFIX,needforspeedundergroundeast.com
 DOMAIN-SUFFIX,nfsworld.com
+DOMAIN-SUFFIX,origin-a.akamaihd.net
 DOMAIN-SUFFIX,origin.com
 DOMAIN-SUFFIX,origin.tv
 DOMAIN-SUFFIX,plantsvszombies2.com

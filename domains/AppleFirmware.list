@@ -1,6 +1,6 @@
 # Name: AppleFirmware
-# Updated: 2025-05-18 19:27:25 UTC
-# Total: 153
+# Updated: 2025-05-27 20:50:33 UTC
+# Total: 147
 
 DOMAIN-SUFFIX,12diasdepresentesdeitunes.com
 DOMAIN-SUFFIX,12diasderegalosdeitunes.cl
@@ -36,7 +36,6 @@ DOMAIN-SUFFIX,appleid-uk.us
 DOMAIN-SUFFIX,appleid.berlin
 DOMAIN-SUFFIX,appleid.com
 DOMAIN-SUFFIX,appleid.hamburg
-DOMAIN-SUFFIX,appleid.hk
 DOMAIN-SUFFIX,applemx-icloud.com
 DOMAIN-SUFFIX,appleone.audio
 DOMAIN-SUFFIX,appleone.blog
@@ -52,9 +51,7 @@ DOMAIN-SUFFIX,appleone.tech
 DOMAIN-SUFFIX,appleone.website
 DOMAIN-SUFFIX,applepay.berlin
 DOMAIN-SUFFIX,applepay.co.rs
-DOMAIN-SUFFIX,applepay.com.tw
 DOMAIN-SUFFIX,applepay.hamburg
-DOMAIN-SUFFIX,applepay.hk
 DOMAIN-SUFFIX,applepay.info
 DOMAIN-SUFFIX,applepay.rs
 DOMAIN-SUFFIX,applepay.tv
@@ -71,7 +68,6 @@ DOMAIN-SUFFIX,applewallet.tv
 DOMAIN-SUFFIX,appsto.re
 DOMAIN-SUFFIX,appstore.co.id
 DOMAIN-SUFFIX,appstore.com
-DOMAIN-SUFFIX,appstore.hk
 DOMAIN-SUFFIX,appstore.my
 DOMAIN-SUFFIX,appstore.ph
 DOMAIN-SUFFIX,asto.re
@@ -127,7 +123,6 @@ DOMAIN-SUFFIX,itunes.ca
 DOMAIN-SUFFIX,itunes.co
 DOMAIN-SUFFIX,itunes.co.th
 DOMAIN-SUFFIX,itunes.com
-DOMAIN-SUFFIX,itunes.hk
 DOMAIN-SUFFIX,itunes.mx
 DOMAIN-SUFFIX,itunes.org
 DOMAIN-SUFFIX,itunes.rio
@@ -143,7 +138,6 @@ DOMAIN-SUFFIX,itunesparty.com
 DOMAIN-SUFFIX,itunesradio.com
 DOMAIN-SUFFIX,itunesradio.rio
 DOMAIN-SUFFIX,itunesradio.tv
-DOMAIN-SUFFIX,itunesradio.tw
 DOMAIN-SUFFIX,itunesstore.co
 DOMAIN-SUFFIX,itunesu.com
 DOMAIN-SUFFIX,itunesu.net

@@ -1,6 +1,6 @@
 # Name: category-communication
-# Updated: 2025-05-18 19:27:26 UTC
-# Total: 119
+# Updated: 2025-05-27 20:52:30 UTC
+# Total: 117
 
 DOMAIN,discord-attachments-uploads-prd.storage.googleapis.com
 DOMAIN,hammerandchisel.ssl.zendesk.com
@@ -63,11 +63,9 @@ DOMAIN-SUFFIX,line.biz
 DOMAIN-SUFFIX,line.me
 DOMAIN-SUFFIX,linecorp.com
 DOMAIN-SUFFIX,linefriends.com
-DOMAIN-SUFFIX,linefriends.com.tw
 DOMAIN-SUFFIX,linemobile.com
 DOMAIN-SUFFIX,linemyshop.com
 DOMAIN-SUFFIX,lineshoppingseller.com
-DOMAIN-SUFFIX,linetv.tw
 DOMAIN-SUFFIX,m.me
 DOMAIN-SUFFIX,matrix.org
 DOMAIN-SUFFIX,matrix.to

@@ -1,13 +1,16 @@
 # Name: fox
-# Updated: 2025-05-18 19:27:26 UTC
-# Total: 245
+# Updated: 2025-05-27 20:58:20 UTC
+# Total: 260
 
 DOMAIN,foxnewsplayer-a.akamaihd.net
 DOMAIN-SUFFIX,afewmomentswith.com
 DOMAIN-SUFFIX,anidom.com
 DOMAIN-SUFFIX,bentobox.tv
 DOMAIN-SUFFIX,casoneexchange.com
+DOMAIN-SUFFIX,cdn-fox-networks-group-green.akamaized.net
 DOMAIN-SUFFIX,coronavirusnow.com
+DOMAIN-SUFFIX,d3cv4a9a9wh0bt.cloudfront.net
+DOMAIN-SUFFIX,dashasiafox.akamaized.net
 DOMAIN-SUFFIX,fox
 DOMAIN-SUFFIX,fox-corporation.com
 DOMAIN-SUFFIX,fox-news.com
@@ -52,6 +55,7 @@ DOMAIN-SUFFIX,foxacrossamerica.com
 DOMAIN-SUFFIX,foxaffiliateportal.com
 DOMAIN-SUFFIX,foxandfriends.com
 DOMAIN-SUFFIX,foxbet.com
+DOMAIN-SUFFIX,foxbroadcasting.zendesk.com
 DOMAIN-SUFFIX,foxbusiness.com
 DOMAIN-SUFFIX,foxbusiness.tv
 DOMAIN-SUFFIX,foxbusinessgo.com
@@ -107,13 +111,16 @@ DOMAIN-SUFFIX,foxnewslatino.com
 DOMAIN-SUFFIX,foxnewsmagazine.com
 DOMAIN-SUFFIX,foxnewsnetwork.com
 DOMAIN-SUFFIX,foxnewsopinion.com
+DOMAIN-SUFFIX,foxnewsplayer-a.akamaihd.net
 DOMAIN-SUFFIX,foxnewspodcasts.com
 DOMAIN-SUFFIX,foxnewspolitics.com
 DOMAIN-SUFFIX,foxnewsradio.com
 DOMAIN-SUFFIX,foxnewsrundown.com
 DOMAIN-SUFFIX,foxnewssunday.com
+DOMAIN-SUFFIX,foxnow.com
 DOMAIN-SUFFIX,foxon.com
 DOMAIN-SUFFIX,foxphiladelphia.com
+DOMAIN-SUFFIX,foxplay.com
 DOMAIN-SUFFIX,foxplus.com
 DOMAIN-SUFFIX,foxpoker.com
 DOMAIN-SUFFIX,foxrad.io
@@ -156,6 +163,9 @@ DOMAIN-SUFFIX,foxsports.net.br
 DOMAIN-SUFFIX,foxsports.pe
 DOMAIN-SUFFIX,foxsports.sv
 DOMAIN-SUFFIX,foxsports.uy
+DOMAIN-SUFFIX,foxsports01-i.akamaihd.net
+DOMAIN-SUFFIX,foxsports02-i.akamaihd.net
+DOMAIN-SUFFIX,foxsports03-i.akamaihd.net
 DOMAIN-SUFFIX,foxsports2.com
 DOMAIN-SUFFIX,foxsportsflorida.com
 DOMAIN-SUFFIX,foxsportsgo.com
@@ -218,6 +228,7 @@ DOMAIN-SUFFIX,myfoxtwincities.com
 DOMAIN-SUFFIX,myfoxzone.com
 DOMAIN-SUFFIX,myq2.com
 DOMAIN-SUFFIX,newsnowfox.com
+DOMAIN-SUFFIX,now.com
 DOMAIN-SUFFIX,orlandohurricane.com
 DOMAIN-SUFFIX,paradisehotelquizfox.com
 DOMAIN-SUFFIX,q13.com
@@ -235,15 +246,19 @@ DOMAIN-SUFFIX,speeddreamride.com
 DOMAIN-SUFFIX,speedfantasybid.com
 DOMAIN-SUFFIX,speedracegear.com
 DOMAIN-SUFFIX,speedxtra.com
+DOMAIN-SUFFIX,staticasiafox.akamaized.net
 DOMAIN-SUFFIX,teenchoice.com
 DOMAIN-SUFFIX,testonfox.com
 DOMAIN-SUFFIX,theclasshroom.com
 DOMAIN-SUFFIX,thefoxnation.com
 DOMAIN-SUFFIX,thegeorgiascene.com
+DOMAIN-SUFFIX,theplatform.com
 DOMAIN-SUFFIX,tubi.io
 DOMAIN-SUFFIX,tubitv.com
+DOMAIN-SUFFIX,uplynk.com
 DOMAIN-SUFFIX,whatthefox.com
 DOMAIN-SUFFIX,whosthehost.com
 DOMAIN-SUFFIX,wofl.tv
 DOMAIN-SUFFIX,woflthenewsstation.com
 DOMAIN-SUFFIX,wogx.com
+USER-AGENT,FOX%20NOW*

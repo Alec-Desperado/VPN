@@ -1,6 +1,6 @@
 # Name: category-ads-all
-# Updated: 2025-05-18 19:27:26 UTC
-# Total: 550
+# Updated: 2025-05-27 20:51:31 UTC
+# Total: 549
 
 DOMAIN,643108e7617ef.cdn.sohucs.com
 DOMAIN,adeventtracker.spotify.com
@@ -69,7 +69,6 @@ DOMAIN-SUFFIX,adbutter.net
 DOMAIN-SUFFIX,adcolony.com
 DOMAIN-SUFFIX,addthisedge.com
 DOMAIN-SUFFIX,adfilter.imtt.qq.com
-DOMAIN-SUFFIX,adimages.sina.com.hk
 DOMAIN-SUFFIX,adimg.uve.weibo.com
 DOMAIN-SUFFIX,adinplay.com
 DOMAIN-SUFFIX,adivery.com
@@ -88,6 +87,7 @@ DOMAIN-SUFFIX,adping.qq.com
 DOMAIN-SUFFIX,adpm.app.qq.com
 DOMAIN-SUFFIX,adq.chinaso.com
 DOMAIN-SUFFIX,ads-api.duolingo.com
+DOMAIN-SUFFIX,ads-union.jd.com
 DOMAIN-SUFFIX,ads-uo.api.leiniao.com
 DOMAIN-SUFFIX,ads-ut.api.leiniao.com
 DOMAIN-SUFFIX,ads.api.my7v.com
@@ -269,6 +269,7 @@ DOMAIN-SUFFIX,gamecenter.iqiyi.com
 DOMAIN-SUFFIX,gamex.mobile.youku.com
 DOMAIN-SUFFIX,gdt.qq.com
 DOMAIN-SUFFIX,gemini.yahoo.com
+DOMAIN-SUFFIX,gia.jd.com
 DOMAIN-SUFFIX,gma.alicdn.com
 DOMAIN-SUFFIX,go2.global
 DOMAIN-SUFFIX,golden1.sogou.com
@@ -336,7 +337,6 @@ DOMAIN-SUFFIX,intl.waptest.taobao.com
 DOMAIN-SUFFIX,ironbeast.io
 DOMAIN-SUFFIX,isdspeed.qq.com
 DOMAIN-SUFFIX,iyes.youku.com
-DOMAIN-SUFFIX,ja2.gamersky.com
 DOMAIN-SUFFIX,jads.co
 DOMAIN-SUFFIX,jl3.yjaxa.top
 DOMAIN-SUFFIX,js-agent.newrelic.com
@@ -396,7 +396,6 @@ DOMAIN-SUFFIX,nbsdk-baichuan.alicdn.com
 DOMAIN-SUFFIX,nbsdk-baichuan.taobao.com
 DOMAIN-SUFFIX,ns1p.net
 DOMAIN-SUFFIX,oascentral.sina.com
-DOMAIN-SUFFIX,oascentral.sina.com.hk
 DOMAIN-SUFFIX,ogury.co
 DOMAIN-SUFFIX,ogury.com
 DOMAIN-SUFFIX,onesignal.com

@@ -1,6 +1,7 @@
 # Name: gitbook
-# Updated: 2025-05-18 19:27:26 UTC
-# Total: 2
+# Updated: 2025-05-27 20:54:12 UTC
+# Total: 3
 
 DOMAIN-SUFFIX,gitbook.com
 DOMAIN-SUFFIX,gitbook.io
+DOMAIN-SUFFIX,gitbook.zendesk.com

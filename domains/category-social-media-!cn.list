@@ -1,6 +1,6 @@
 # Name: category-social-media-!cn
-# Updated: 2025-05-18 19:27:26 UTC
-# Total: 569
+# Updated: 2025-05-27 20:59:00 UTC
+# Total: 571
 
 DOMAIN,e122475.dscg.akamaiedge.net
 DOMAIN,fbcdn-a.akamaihd.net
@@ -475,6 +475,7 @@ DOMAIN-SUFFIX,mk.yopo.work
 DOMAIN-SUFFIX,mobilefacebook.com
 DOMAIN-SUFFIX,mof.kemomi.me
 DOMAIN-SUFFIX,moneywithfacebook.com
+DOMAIN-SUFFIX,mradx.net
 DOMAIN-SUFFIX,msk.ilnk.info
 DOMAIN-SUFFIX,msk.kitazawa.me
 DOMAIN-SUFFIX,mvk.com
@@ -528,6 +529,7 @@ DOMAIN-SUFFIX,twvid.com
 DOMAIN-SUFFIX,userapi.com
 DOMAIN-SUFFIX,viewpointsfromfacebook.com
 DOMAIN-SUFFIX,vine.co
+DOMAIN-SUFFIX,vk-analytics.ru
 DOMAIN-SUFFIX,vk-apps.com
 DOMAIN-SUFFIX,vk-apps.ru
 DOMAIN-SUFFIX,vk-cdn.me

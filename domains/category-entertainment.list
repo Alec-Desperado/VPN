@@ -1,6 +1,6 @@
 # Name: category-entertainment
-# Updated: 2025-05-18 19:27:26 UTC
-# Total: 1478
+# Updated: 2025-05-27 20:56:28 UTC
+# Total: 1460
 
 DOMAIN,a.ppy.sh
 DOMAIN,a4e8s8k3.map2.ssl.hwcdn.net
@@ -194,7 +194,6 @@ DOMAIN-SUFFIX,babble.com
 DOMAIN-SUFFIX,babyzone.com
 DOMAIN-SUFFIX,bag.itunes.apple.com
 DOMAIN-SUFFIX,bahamut.akamaized.net
-DOMAIN-SUFFIX,bahamut.com.tw
 DOMAIN-SUFFIX,bamgrid.com
 DOMAIN-SUFFIX,bandcamp.com
 DOMAIN-SUFFIX,bangumi.tv
@@ -328,8 +327,6 @@ DOMAIN-SUFFIX,disney.co.za
 DOMAIN-SUFFIX,disney.com
 DOMAIN-SUFFIX,disney.com.au
 DOMAIN-SUFFIX,disney.com.br
-DOMAIN-SUFFIX,disney.com.hk
-DOMAIN-SUFFIX,disney.com.tw
 DOMAIN-SUFFIX,disney.cz
 DOMAIN-SUFFIX,disney.de
 DOMAIN-SUFFIX,disney.dk
@@ -401,7 +398,6 @@ DOMAIN-SUFFIX,disneyworld-go.com
 DOMAIN-SUFFIX,dkr.com
 DOMAIN-SUFFIX,dl.steam.clngaa.com
 DOMAIN-SUFFIX,dlsite.com
-DOMAIN-SUFFIX,dlsite.com.tw
 DOMAIN-SUFFIX,dlsitestudio.com
 DOMAIN-SUFFIX,dm-event.net
 DOMAIN-SUFFIX,dmcdn.net
@@ -496,7 +492,6 @@ DOMAIN-SUFFIX,gamebonfire.com
 DOMAIN-SUFFIX,gameitop.com
 DOMAIN-SUFFIX,gameloop.com
 DOMAIN-SUFFIX,gamepass.com
-DOMAIN-SUFFIX,gamer.com.tw
 DOMAIN-SUFFIX,gamesfirsthelsinki.com
 DOMAIN-SUFFIX,garena.co.id
 DOMAIN-SUFFIX,garena.co.th
@@ -506,7 +501,6 @@ DOMAIN-SUFFIX,garena.my
 DOMAIN-SUFFIX,garena.ph
 DOMAIN-SUFFIX,garena.sg
 DOMAIN-SUFFIX,garena.tv
-DOMAIN-SUFFIX,garena.tw
 DOMAIN-SUFFIX,garena.vn
 DOMAIN-SUFFIX,garenanow.com
 DOMAIN-SUFFIX,gcloudcs.com
@@ -561,11 +555,9 @@ DOMAIN-SUFFIX,hbogo.co.th
 DOMAIN-SUFFIX,hbogo.com
 DOMAIN-SUFFIX,hbogo.eu
 DOMAIN-SUFFIX,hbogoasia.com
-DOMAIN-SUFFIX,hbogoasia.hk
 DOMAIN-SUFFIX,hbogoasia.id
 DOMAIN-SUFFIX,hbogoasia.ph
 DOMAIN-SUFFIX,hbogoasia.sg
-DOMAIN-SUFFIX,hbogoasia.tw
 DOMAIN-SUFFIX,hbomax-images.warnermediacdn.com
 DOMAIN-SUFFIX,hbomax.com
 DOMAIN-SUFFIX,hbomaxcdn.com
@@ -649,15 +641,12 @@ DOMAIN-SUFFIX,jtvnw.net
 DOMAIN-SUFFIX,juequling.com
 DOMAIN-SUFFIX,kamisama-maeda-lab.com
 DOMAIN-SUFFIX,kfs.io
-DOMAIN-SUFFIX,kingkong.com.tw
 DOMAIN-SUFFIX,kingkongapp.com
 DOMAIN-SUFFIX,kirbysepicyarn.com
 DOMAIN-SUFFIX,kirbysuperstarultra.com
 DOMAIN-SUFFIX,kk.stream
 DOMAIN-SUFFIX,kkbox.com
-DOMAIN-SUFFIX,kkbox.com.tw
 DOMAIN-SUFFIX,kktix.com
-DOMAIN-SUFFIX,kktv.com.tw
 DOMAIN-SUFFIX,kktv.me
 DOMAIN-SUFFIX,kurogames.com
 DOMAIN-SUFFIX,kyurem.com
@@ -675,7 +664,6 @@ DOMAIN-SUFFIX,leagueoflegendsscripts.com
 DOMAIN-SUFFIX,leaguesharp.info
 DOMAIN-SUFFIX,leaguoflegends.com
 DOMAIN-SUFFIX,learnwithleague.com
-DOMAIN-SUFFIX,linetv.tw
 DOMAIN-SUFFIX,litbus-anime.com
 DOMAIN-SUFFIX,litv.tv
 DOMAIN-SUFFIX,litvfreepc.akamaized.net
@@ -753,7 +741,6 @@ DOMAIN-SUFFIX,mo.co
 DOMAIN-SUFFIX,modrinth.com
 DOMAIN-SUFFIX,mojang.com
 DOMAIN-SUFFIX,molesports.com
-DOMAIN-SUFFIX,moov.hk
 DOMAIN-SUFFIX,motionpictureser.com
 DOMAIN-SUFFIX,movenetworks.com
 DOMAIN-SUFFIX,movetv.com
@@ -847,7 +834,6 @@ DOMAIN-SUFFIX,nintendo.co.kr
 DOMAIN-SUFFIX,nintendo.co.uk
 DOMAIN-SUFFIX,nintendo.co.za
 DOMAIN-SUFFIX,nintendo.com
-DOMAIN-SUFFIX,nintendo.com.hk
 DOMAIN-SUFFIX,nintendo.com.pt
 DOMAIN-SUFFIX,nintendo.de
 DOMAIN-SUFFIX,nintendo.dk
@@ -862,7 +848,6 @@ DOMAIN-SUFFIX,nintendo.no
 DOMAIN-SUFFIX,nintendo.pt
 DOMAIN-SUFFIX,nintendo.ru
 DOMAIN-SUFFIX,nintendo.se
-DOMAIN-SUFFIX,nintendo.tw
 DOMAIN-SUFFIX,nintendo3ds.com
 DOMAIN-SUFFIX,nintendodsi.com
 DOMAIN-SUFFIX,nintendoeurope.com
@@ -1337,7 +1322,6 @@ DOMAIN-SUFFIX,youtube.com.es
 DOMAIN-SUFFIX,youtube.com.gh
 DOMAIN-SUFFIX,youtube.com.gr
 DOMAIN-SUFFIX,youtube.com.gt
-DOMAIN-SUFFIX,youtube.com.hk
 DOMAIN-SUFFIX,youtube.com.hn
 DOMAIN-SUFFIX,youtube.com.hr
 DOMAIN-SUFFIX,youtube.com.jm
@@ -1366,7 +1350,6 @@ DOMAIN-SUFFIX,youtube.com.sg
 DOMAIN-SUFFIX,youtube.com.sv
 DOMAIN-SUFFIX,youtube.com.tn
 DOMAIN-SUFFIX,youtube.com.tr
-DOMAIN-SUFFIX,youtube.com.tw
 DOMAIN-SUFFIX,youtube.com.ua
 DOMAIN-SUFFIX,youtube.com.uy
 DOMAIN-SUFFIX,youtube.com.ve
@@ -1382,7 +1365,6 @@ DOMAIN-SUFFIX,youtube.ge
 DOMAIN-SUFFIX,youtube.googleapis.com
 DOMAIN-SUFFIX,youtube.gr
 DOMAIN-SUFFIX,youtube.gt
-DOMAIN-SUFFIX,youtube.hk
 DOMAIN-SUFFIX,youtube.hr
 DOMAIN-SUFFIX,youtube.hu
 DOMAIN-SUFFIX,youtube.ie

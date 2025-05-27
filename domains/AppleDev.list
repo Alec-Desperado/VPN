@@ -1,6 +1,6 @@
 # Name: AppleDev
-# Updated: 2025-05-18 19:27:25 UTC
-# Total: 32
+# Updated: 2025-05-27 20:50:33 UTC
+# Total: 31
 
 DOMAIN-SUFFIX,apple-cloudkit.com
 DOMAIN-SUFFIX,apple-mapkit.com
@@ -24,7 +24,6 @@ DOMAIN-SUFFIX,p-events-delivery.akamaized.net
 DOMAIN-SUFFIX,playgrounds-cdn.apple.com
 DOMAIN-SUFFIX,push-apple.com.akadns.net
 DOMAIN-SUFFIX,researchandcare.org
-DOMAIN-SUFFIX,researchkit.hk
 DOMAIN-SUFFIX,researchkit.net
 DOMAIN-SUFFIX,researchkit.org
 DOMAIN-SUFFIX,researchkit.tv

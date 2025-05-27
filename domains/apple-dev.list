@@ -1,6 +1,6 @@
 # Name: apple-dev
-# Updated: 2025-05-18 19:27:26 UTC
-# Total: 33
+# Updated: 2025-05-27 20:54:12 UTC
+# Total: 32
 
 DOMAIN,appleworldwidedeveloper.hb-api.omtrdc.net
 DOMAIN,appleworldwidedeveloper.sc.omtrdc.net
@@ -24,7 +24,6 @@ DOMAIN-SUFFIX,macruby.net
 DOMAIN-SUFFIX,macruby.org
 DOMAIN-SUFFIX,playgrounds-cdn.apple.com
 DOMAIN-SUFFIX,researchandcare.org
-DOMAIN-SUFFIX,researchkit.hk
 DOMAIN-SUFFIX,researchkit.net
 DOMAIN-SUFFIX,researchkit.org
 DOMAIN-SUFFIX,researchkit.tv

@@ -1,6 +1,6 @@
 # Name: paypal
-# Updated: 2025-05-18 19:27:26 UTC
-# Total: 232
+# Updated: 2025-05-27 20:56:33 UTC
+# Total: 230
 
 DOMAIN,venmo.s3.amazonaws.com
 DOMAIN-SUFFIX,account-paypal.info
@@ -151,9 +151,7 @@ DOMAIN-SUFFIX,paypal-team.com
 DOMAIN-SUFFIX,paypal-viewpoints.net
 DOMAIN-SUFFIX,paypal.ca
 DOMAIN-SUFFIX,paypal.com
-DOMAIN-SUFFIX,paypal.com.hk
 DOMAIN-SUFFIX,paypal.com.sg
-DOMAIN-SUFFIX,paypal.hk
 DOMAIN-SUFFIX,paypal.info
 DOMAIN-SUFFIX,paypal.me
 DOMAIN-SUFFIX,paypal.so

@@ -1,6 +1,6 @@
 # Name: github
-# Updated: 2025-05-18 19:27:26 UTC
-# Total: 28
+# Updated: 2025-05-27 21:00:24 UTC
+# Total: 34
 
 DOMAIN,github-cloud.s3.amazonaws.com
 DOMAIN-SUFFIX,atom.io
@@ -8,6 +8,9 @@ DOMAIN-SUFFIX,blob.core.windows.net
 DOMAIN-SUFFIX,dependabot.com
 DOMAIN-SUFFIX,ghcr.io
 DOMAIN-SUFFIX,git.io
+DOMAIN-SUFFIX,github-atom-io-herokuapp-com.freetls.fastly.net
+DOMAIN-SUFFIX,github-avatars.oss-cn-hongkong.aliyuncs.com
+DOMAIN-SUFFIX,github-cloud.s3.amazonaws.com
 DOMAIN-SUFFIX,github.blog
 DOMAIN-SUFFIX,github.com
 DOMAIN-SUFFIX,github.community
@@ -27,6 +30,9 @@ DOMAIN-SUFFIX,npm.community
 DOMAIN-SUFFIX,npmjs.com
 DOMAIN-SUFFIX,npmjs.org
 DOMAIN-SUFFIX,opensource.guide
+DOMAIN-SUFFIX,rawgit.com
+DOMAIN-SUFFIX,rawgithub.com
 DOMAIN-SUFFIX,repo.new
 DOMAIN-SUFFIX,thegithubshop.com
+DOMAIN-KEYWORD,github
 URL-REGEX,^github-production-release-asset-[0-9a-zA-Z]{6}\.s3\.amazonaws\.com$

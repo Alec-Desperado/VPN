@@ -1,6 +1,6 @@
 # Name: intel
-# Updated: 2025-05-18 19:27:26 UTC
-# Total: 254
+# Updated: 2025-05-27 20:56:44 UTC
+# Total: 250
 
 DOMAIN-SUFFIX,01.org
 DOMAIN-SUFFIX,acpica.com
@@ -75,7 +75,6 @@ DOMAIN-SUFFIX,intel.com.bo
 DOMAIN-SUFFIX,intel.com.br
 DOMAIN-SUFFIX,intel.com.co
 DOMAIN-SUFFIX,intel.com.ec
-DOMAIN-SUFFIX,intel.com.hk
 DOMAIN-SUFFIX,intel.com.jm
 DOMAIN-SUFFIX,intel.com.mx
 DOMAIN-SUFFIX,intel.com.my
@@ -84,7 +83,6 @@ DOMAIN-SUFFIX,intel.com.ph
 DOMAIN-SUFFIX,intel.com.pr
 DOMAIN-SUFFIX,intel.com.py
 DOMAIN-SUFFIX,intel.com.tr
-DOMAIN-SUFFIX,intel.com.tw
 DOMAIN-SUFFIX,intel.com.uy
 DOMAIN-SUFFIX,intel.com.ve
 DOMAIN-SUFFIX,intel.cr
@@ -109,7 +107,6 @@ DOMAIN-SUFFIX,intel.gr
 DOMAIN-SUFFIX,intel.gs
 DOMAIN-SUFFIX,intel.gt
 DOMAIN-SUFFIX,intel.gy
-DOMAIN-SUFFIX,intel.hk
 DOMAIN-SUFFIX,intel.hn
 DOMAIN-SUFFIX,intel.ht
 DOMAIN-SUFFIX,intel.hu
@@ -170,7 +167,6 @@ DOMAIN-SUFFIX,intel.tm
 DOMAIN-SUFFIX,intel.tn
 DOMAIN-SUFFIX,intel.tt
 DOMAIN-SUFFIX,intel.tv
-DOMAIN-SUFFIX,intel.tw
 DOMAIN-SUFFIX,intel.ua
 DOMAIN-SUFFIX,intel.uk
 DOMAIN-SUFFIX,intel.us

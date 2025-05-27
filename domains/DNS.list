@@ -1,6 +1,6 @@
 # Name: DNS
-# Updated: 2025-05-18 19:27:25 UTC
-# Total: 108
+# Updated: 2025-05-27 21:00:51 UTC
+# Total: 107
 
 DOMAIN,1dot1dot1dot1.cloudflare-dns.com
 DOMAIN,8888.google
@@ -32,7 +32,6 @@ DOMAIN,dns.nextdns.io
 DOMAIN,dns.quad9.net
 DOMAIN,dns.sb
 DOMAIN,dns.surfshark.com
-DOMAIN,dns.twnic.tw
 DOMAIN,dns10.quad9.net
 DOMAIN,dns11.quad9.net
 DOMAIN,dns9.quad9.net

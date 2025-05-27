@@ -1,6 +1,6 @@
 # Name: apple
-# Updated: 2025-05-18 19:27:26 UTC
-# Total: 1731
+# Updated: 2025-05-27 20:50:33 UTC
+# Total: 1701
 
 DOMAIN,a1.mzstatic.com
 DOMAIN,a2.mzstatic.com
@@ -283,7 +283,6 @@ DOMAIN-SUFFIX,5lml.com
 DOMAIN-SUFFIX,a0pple.net
 DOMAIN-SUFFIX,aaagradeheadphones.com
 DOMAIN-SUFFIX,aanaan.com
-DOMAIN-SUFFIX,aapl.tw
 DOMAIN-SUFFIX,aaplimg.com
 DOMAIN-SUFFIX,abcheadphones.com
 DOMAIN-SUFFIX,abeatsbydrdre.com
@@ -379,7 +378,6 @@ DOMAIN-SUFFIX,apple.com.py
 DOMAIN-SUFFIX,apple.com.sg
 DOMAIN-SUFFIX,apple.com.sv
 DOMAIN-SUFFIX,apple.com.tr
-DOMAIN-SUFFIX,apple.com.tw
 DOMAIN-SUFFIX,apple.com.uy
 DOMAIN-SUFFIX,apple.comscoreresearch.com
 DOMAIN-SUFFIX,apple.cz
@@ -423,7 +421,6 @@ DOMAIN-SUFFIX,apple.si
 DOMAIN-SUFFIX,apple.sk
 DOMAIN-SUFFIX,apple.so
 DOMAIN-SUFFIX,apple.tt
-DOMAIN-SUFFIX,apple.tw
 DOMAIN-SUFFIX,apple.uk
 DOMAIN-SUFFIX,apple.us
 DOMAIN-SUFFIX,apple.xyz
@@ -448,14 +445,11 @@ DOMAIN-SUFFIX,applecentar.rs
 DOMAIN-SUFFIX,applecentre.com.au
 DOMAIN-SUFFIX,applecentre.info
 DOMAIN-SUFFIX,appleclassicipod.com
-DOMAIN-SUFFIX,appleclub.com.hk
 DOMAIN-SUFFIX,applecom.com
 DOMAIN-SUFFIX,applecomputer-imac.com
 DOMAIN-SUFFIX,applecomputer.co.in
 DOMAIN-SUFFIX,applecomputer.co.nz
 DOMAIN-SUFFIX,applecomputer.com
-DOMAIN-SUFFIX,applecomputer.com.hk
-DOMAIN-SUFFIX,applecomputer.com.tw
 DOMAIN-SUFFIX,applecomputer.hu
 DOMAIN-SUFFIX,applecomputer.kr
 DOMAIN-SUFFIX,applecomputerimac.com
@@ -473,7 +467,6 @@ DOMAIN-SUFFIX,applefinalcutproworld.com
 DOMAIN-SUFFIX,applefinalcutproworld.net
 DOMAIN-SUFFIX,applefinalcutproworld.org
 DOMAIN-SUFFIX,applehongkong.com
-DOMAIN-SUFFIX,applehongkong.com.hk
 DOMAIN-SUFFIX,appleid-applemx.com
 DOMAIN-SUFFIX,appleid-applemx.us
 DOMAIN-SUFFIX,appleid-iclou.com
@@ -481,7 +474,6 @@ DOMAIN-SUFFIX,appleid-uk.us
 DOMAIN-SUFFIX,appleid.berlin
 DOMAIN-SUFFIX,appleid.com
 DOMAIN-SUFFIX,appleid.hamburg
-DOMAIN-SUFFIX,appleid.hk
 DOMAIN-SUFFIX,appleimac.com
 DOMAIN-SUFFIX,appleinclegal.com
 DOMAIN-SUFFIX,appleiphone.hu
@@ -524,9 +516,7 @@ DOMAIN-SUFFIX,appleoriginalproductions.com
 DOMAIN-SUFFIX,appleos.tv
 DOMAIN-SUFFIX,applepay.berlin
 DOMAIN-SUFFIX,applepay.co.rs
-DOMAIN-SUFFIX,applepay.com.tw
 DOMAIN-SUFFIX,applepay.hamburg
-DOMAIN-SUFFIX,applepay.hk
 DOMAIN-SUFFIX,applepay.info
 DOMAIN-SUFFIX,applepay.rs
 DOMAIN-SUFFIX,applepay.tv
@@ -563,7 +553,6 @@ DOMAIN-SUFFIX,applestore.com.bn
 DOMAIN-SUFFIX,applestore.com.ee
 DOMAIN-SUFFIX,applestore.com.eg
 DOMAIN-SUFFIX,applestore.com.gr
-DOMAIN-SUFFIX,applestore.com.hk
 DOMAIN-SUFFIX,applestore.com.hr
 DOMAIN-SUFFIX,applestore.com.jo
 DOMAIN-SUFFIX,applestore.com.my
@@ -573,9 +562,7 @@ DOMAIN-SUFFIX,applestore.com.pt
 DOMAIN-SUFFIX,applestore.com.ro
 DOMAIN-SUFFIX,applestore.com.ru
 DOMAIN-SUFFIX,applestore.com.sn
-DOMAIN-SUFFIX,applestore.com.tw
 DOMAIN-SUFFIX,applestore.de
-DOMAIN-SUFFIX,applestore.hk
 DOMAIN-SUFFIX,applestore.kr
 DOMAIN-SUFFIX,applestore.me
 DOMAIN-SUFFIX,applestore.net
@@ -596,9 +583,7 @@ DOMAIN-SUFFIX,appletv.wang
 DOMAIN-SUFFIX,appletvapp.apple
 DOMAIN-SUFFIX,applewallet.com
 DOMAIN-SUFFIX,applewallet.tv
-DOMAIN-SUFFIX,applewatch.hk
 DOMAIN-SUFFIX,applewatch.tv
-DOMAIN-SUFFIX,applewatch.tw
 DOMAIN-SUFFIX,applewatch.wang
 DOMAIN-SUFFIX,applewatchedition.com
 DOMAIN-SUFFIX,applewatchseries3.net
@@ -613,7 +598,6 @@ DOMAIN-SUFFIX,applw.com
 DOMAIN-SUFFIX,appmediagroup.com
 DOMAIN-SUFFIX,appsto.re
 DOMAIN-SUFFIX,appstore.co.id
-DOMAIN-SUFFIX,appstore.hk
 DOMAIN-SUFFIX,appstore.my
 DOMAIN-SUFFIX,appstore.ph
 DOMAIN-SUFFIX,appule.com
@@ -946,7 +930,6 @@ DOMAIN-SUFFIX,casquedrdrebeatssfr.com
 DOMAIN-SUFFIX,casquemonsterbeats.com
 DOMAIN-SUFFIX,casquemonsterbeatsbydre2013.com
 DOMAIN-SUFFIX,casquesbeatsaudio.com
-DOMAIN-SUFFIX,catalina.hk
 DOMAIN-SUFFIX,cdn-apple.com
 DOMAIN-SUFFIX,cheap-beats-by-dre.net
 DOMAIN-SUFFIX,cheap-beatsbydre.com
@@ -1278,9 +1261,7 @@ DOMAIN-SUFFIX,ipadair.cm
 DOMAIN-SUFFIX,ipadair.com.br
 DOMAIN-SUFFIX,ipadair.com.es
 DOMAIN-SUFFIX,ipadair.fr
-DOMAIN-SUFFIX,ipadair.hk
 DOMAIN-SUFFIX,ipadair.ie
-DOMAIN-SUFFIX,ipadair.tw
 DOMAIN-SUFFIX,ipadaustralia.com
 DOMAIN-SUFFIX,ipadmini.cm
 DOMAIN-SUFFIX,ipadmini.com.lk
@@ -1345,22 +1326,18 @@ DOMAIN-SUFFIX,ipod.co.za
 DOMAIN-SUFFIX,ipod.com
 DOMAIN-SUFFIX,ipod.com.au
 DOMAIN-SUFFIX,ipod.com.fr
-DOMAIN-SUFFIX,ipod.com.hk
 DOMAIN-SUFFIX,ipod.com.sg
-DOMAIN-SUFFIX,ipod.com.tw
 DOMAIN-SUFFIX,ipod.de
 DOMAIN-SUFFIX,ipod.es
 DOMAIN-SUFFIX,ipod.eu
 DOMAIN-SUFFIX,ipod.fr
 DOMAIN-SUFFIX,ipod.gr
-DOMAIN-SUFFIX,ipod.hk
 DOMAIN-SUFFIX,ipod.is
 DOMAIN-SUFFIX,ipod.net
 DOMAIN-SUFFIX,ipod.no
 DOMAIN-SUFFIX,ipod.pk
 DOMAIN-SUFFIX,ipod.rs
 DOMAIN-SUFFIX,ipod.ru
-DOMAIN-SUFFIX,ipod.tw
 DOMAIN-SUFFIX,ipodcentre.nl
 DOMAIN-SUFFIX,ipodcleaner.com
 DOMAIN-SUFFIX,ipoditouch.com
@@ -1387,7 +1364,6 @@ DOMAIN-SUFFIX,itunes.ca
 DOMAIN-SUFFIX,itunes.co
 DOMAIN-SUFFIX,itunes.co.th
 DOMAIN-SUFFIX,itunes.com
-DOMAIN-SUFFIX,itunes.hk
 DOMAIN-SUFFIX,itunes.mx
 DOMAIN-SUFFIX,itunes.org
 DOMAIN-SUFFIX,itunes.rio
@@ -1403,7 +1379,6 @@ DOMAIN-SUFFIX,itunesparty.com
 DOMAIN-SUFFIX,itunesradio.com
 DOMAIN-SUFFIX,itunesradio.rio
 DOMAIN-SUFFIX,itunesradio.tv
-DOMAIN-SUFFIX,itunesradio.tw
 DOMAIN-SUFFIX,itunesstore.co
 DOMAIN-SUFFIX,itunesu.com
 DOMAIN-SUFFIX,itunesu.net
@@ -1435,8 +1410,6 @@ DOMAIN-SUFFIX,mac.rs
 DOMAIN-SUFFIX,mac.wang
 DOMAIN-SUFFIX,macappsto.re
 DOMAIN-SUFFIX,macbook.co
-DOMAIN-SUFFIX,macbook.hk
-DOMAIN-SUFFIX,macbook.tw
 DOMAIN-SUFFIX,macbook.wang
 DOMAIN-SUFFIX,macbookair.co.kr
 DOMAIN-SUFFIX,macbookair.co.uk
@@ -1444,7 +1417,6 @@ DOMAIN-SUFFIX,macbookair.com
 DOMAIN-SUFFIX,macbookair.com.au
 DOMAIN-SUFFIX,macbookair.com.es
 DOMAIN-SUFFIX,macbookair.es
-DOMAIN-SUFFIX,macbookair.hk
 DOMAIN-SUFFIX,macbookair.kr
 DOMAIN-SUFFIX,macbookair.net
 DOMAIN-SUFFIX,macbookpro.co
@@ -1548,7 +1520,6 @@ DOMAIN-SUFFIX,monstersbeatbydres.com
 DOMAIN-SUFFIX,monstersdebea.com
 DOMAIN-SUFFIX,monstershopcheapbeats.net
 DOMAIN-SUFFIX,moreheadphones.com
-DOMAIN-SUFFIX,mr-apple.com.tw
 DOMAIN-SUFFIX,ms4dre.com
 DOMAIN-SUFFIX,musickit.net
 DOMAIN-SUFFIX,myappleid.com
@@ -1623,7 +1594,6 @@ DOMAIN-SUFFIX,reform-apple.com
 DOMAIN-SUFFIX,repsneakermall.com
 DOMAIN-SUFFIX,repswing.com
 DOMAIN-SUFFIX,researchandcare.org
-DOMAIN-SUFFIX,researchkit.hk
 DOMAIN-SUFFIX,researchkit.net
 DOMAIN-SUFFIX,researchkit.org
 DOMAIN-SUFFIX,researchkit.tv

@@ -1,6 +1,6 @@
 # Name: AppleHardware
-# Updated: 2025-05-18 19:27:25 UTC
-# Total: 216
+# Updated: 2025-05-27 20:50:33 UTC
+# Total: 202
 
 DOMAIN-SUFFIX,aplestore.com
 DOMAIN-SUFFIX,aplleipods.com
@@ -32,7 +32,6 @@ DOMAIN-SUFFIX,applestore.com.bn
 DOMAIN-SUFFIX,applestore.com.ee
 DOMAIN-SUFFIX,applestore.com.eg
 DOMAIN-SUFFIX,applestore.com.gr
-DOMAIN-SUFFIX,applestore.com.hk
 DOMAIN-SUFFIX,applestore.com.hr
 DOMAIN-SUFFIX,applestore.com.jo
 DOMAIN-SUFFIX,applestore.com.my
@@ -42,9 +41,7 @@ DOMAIN-SUFFIX,applestore.com.pt
 DOMAIN-SUFFIX,applestore.com.ro
 DOMAIN-SUFFIX,applestore.com.ru
 DOMAIN-SUFFIX,applestore.com.sn
-DOMAIN-SUFFIX,applestore.com.tw
 DOMAIN-SUFFIX,applestore.de
-DOMAIN-SUFFIX,applestore.hk
 DOMAIN-SUFFIX,applestore.kr
 DOMAIN-SUFFIX,applestore.me
 DOMAIN-SUFFIX,applestore.net
@@ -55,9 +52,7 @@ DOMAIN-SUFFIX,applestore.sg
 DOMAIN-SUFFIX,applestore.wang
 DOMAIN-SUFFIX,applestoreonline.com
 DOMAIN-SUFFIX,applestorepro.eu
-DOMAIN-SUFFIX,applewatch.hk
 DOMAIN-SUFFIX,applewatch.tv
-DOMAIN-SUFFIX,applewatch.tw
 DOMAIN-SUFFIX,applewatch.wang
 DOMAIN-SUFFIX,applewatchedition.com
 DOMAIN-SUFFIX,applewatchseries3.net
@@ -97,9 +92,7 @@ DOMAIN-SUFFIX,ipadair.cm
 DOMAIN-SUFFIX,ipadair.com.br
 DOMAIN-SUFFIX,ipadair.com.es
 DOMAIN-SUFFIX,ipadair.fr
-DOMAIN-SUFFIX,ipadair.hk
 DOMAIN-SUFFIX,ipadair.ie
-DOMAIN-SUFFIX,ipadair.tw
 DOMAIN-SUFFIX,ipadaustralia.com
 DOMAIN-SUFFIX,ipadmini.cm
 DOMAIN-SUFFIX,ipadmini.com.lk
@@ -160,22 +153,18 @@ DOMAIN-SUFFIX,ipod.co.za
 DOMAIN-SUFFIX,ipod.com
 DOMAIN-SUFFIX,ipod.com.au
 DOMAIN-SUFFIX,ipod.com.fr
-DOMAIN-SUFFIX,ipod.com.hk
 DOMAIN-SUFFIX,ipod.com.sg
-DOMAIN-SUFFIX,ipod.com.tw
 DOMAIN-SUFFIX,ipod.de
 DOMAIN-SUFFIX,ipod.es
 DOMAIN-SUFFIX,ipod.eu
 DOMAIN-SUFFIX,ipod.fr
 DOMAIN-SUFFIX,ipod.gr
-DOMAIN-SUFFIX,ipod.hk
 DOMAIN-SUFFIX,ipod.is
 DOMAIN-SUFFIX,ipod.net
 DOMAIN-SUFFIX,ipod.no
 DOMAIN-SUFFIX,ipod.pk
 DOMAIN-SUFFIX,ipod.rs
 DOMAIN-SUFFIX,ipod.ru
-DOMAIN-SUFFIX,ipod.tw
 DOMAIN-SUFFIX,ipodcentre.nl
 DOMAIN-SUFFIX,ipodcleaner.com
 DOMAIN-SUFFIX,ipoditouch.com
@@ -191,8 +180,6 @@ DOMAIN-SUFFIX,ipodtouch.com
 DOMAIN-SUFFIX,launchpad.wang
 DOMAIN-SUFFIX,mac.wang
 DOMAIN-SUFFIX,macbook.co
-DOMAIN-SUFFIX,macbook.hk
-DOMAIN-SUFFIX,macbook.tw
 DOMAIN-SUFFIX,macbook.wang
 DOMAIN-SUFFIX,macbookair.co.kr
 DOMAIN-SUFFIX,macbookair.co.uk
@@ -200,7 +187,6 @@ DOMAIN-SUFFIX,macbookair.com
 DOMAIN-SUFFIX,macbookair.com.au
 DOMAIN-SUFFIX,macbookair.com.es
 DOMAIN-SUFFIX,macbookair.es
-DOMAIN-SUFFIX,macbookair.hk
 DOMAIN-SUFFIX,macbookair.kr
 DOMAIN-SUFFIX,macbookair.net
 DOMAIN-SUFFIX,macbookpro.co

@@ -1,0 +1,9 @@
+# Name: YouTubeMusic
+# Updated: 2025-05-18 19:27:25 UTC
+# Total: 5
+
+DOMAIN,music.youtube.com
+USER-AGENT,*YouTubeMusic*
+USER-AGENT,*com.google.ios.youtubemusic*
+USER-AGENT,YouTubeMusic*
+USER-AGENT,com.google.ios.youtubemusic*

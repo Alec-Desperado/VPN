@@ -1,6 +1,6 @@
 # Name: youtube
-# Updated: 2025-05-18 19:27:26 UTC
-# Total: 173
+# Updated: 2025-05-27 21:01:02 UTC
+# Total: 170
 
 DOMAIN-SUFFIX,ggpht.com
 DOMAIN-SUFFIX,googlevideo.com
@@ -62,7 +62,6 @@ DOMAIN-SUFFIX,youtube.com.es
 DOMAIN-SUFFIX,youtube.com.gh
 DOMAIN-SUFFIX,youtube.com.gr
 DOMAIN-SUFFIX,youtube.com.gt
-DOMAIN-SUFFIX,youtube.com.hk
 DOMAIN-SUFFIX,youtube.com.hn
 DOMAIN-SUFFIX,youtube.com.hr
 DOMAIN-SUFFIX,youtube.com.jm
@@ -91,7 +90,6 @@ DOMAIN-SUFFIX,youtube.com.sg
 DOMAIN-SUFFIX,youtube.com.sv
 DOMAIN-SUFFIX,youtube.com.tn
 DOMAIN-SUFFIX,youtube.com.tr
-DOMAIN-SUFFIX,youtube.com.tw
 DOMAIN-SUFFIX,youtube.com.ua
 DOMAIN-SUFFIX,youtube.com.uy
 DOMAIN-SUFFIX,youtube.com.ve
@@ -107,7 +105,6 @@ DOMAIN-SUFFIX,youtube.ge
 DOMAIN-SUFFIX,youtube.googleapis.com
 DOMAIN-SUFFIX,youtube.gr
 DOMAIN-SUFFIX,youtube.gt
-DOMAIN-SUFFIX,youtube.hk
 DOMAIN-SUFFIX,youtube.hr
 DOMAIN-SUFFIX,youtube.hu
 DOMAIN-SUFFIX,youtube.ie

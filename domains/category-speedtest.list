@@ -1,5 +1,5 @@
 # Name: category-speedtest
-# Updated: 2025-05-18 19:27:26 UTC
+# Updated: 2025-05-27 20:59:06 UTC
 # Total: 27
 
 DOMAIN,hk-global-bgp.hkg.speedtest.yecaoyun.com
@@ -13,13 +13,13 @@ DOMAIN-SUFFIX,measurementlab.net
 DOMAIN-SUFFIX,nperf.com
 DOMAIN-SUFFIX,ookla.com
 DOMAIN-SUFFIX,ooklaserver.net
+DOMAIN-SUFFIX,open.cachefly.net
+DOMAIN-SUFFIX,openspeedtest.com
 DOMAIN-SUFFIX,pingtest.net
 DOMAIN-SUFFIX,speed.cloudflare.com
 DOMAIN-SUFFIX,speed.dler.io
 DOMAIN-SUFFIX,speed.hinet.net
-DOMAIN-SUFFIX,speed.nccu.edu.tw
 DOMAIN-SUFFIX,speed2.hinet.net
-DOMAIN-SUFFIX,speed5.ntu.edu.tw
 DOMAIN-SUFFIX,speedtest.co
 DOMAIN-SUFFIX,speedtest.im
 DOMAIN-SUFFIX,speedtest.mfcyun.com

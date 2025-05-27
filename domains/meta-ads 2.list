@@ -1,0 +1,10 @@
+# Name: meta-ads
+# Updated: 2025-05-18 19:27:26 UTC
+# Total: 6
+
+DOMAIN-SUFFIX,analytics.facebook.com
+DOMAIN-SUFFIX,graph-fallback.instagram.com
+DOMAIN-SUFFIX,graph.instagram.com
+DOMAIN-SUFFIX,graph.whatsapp.com
+DOMAIN-SUFFIX,graph.whatsapp.net
+DOMAIN-SUFFIX,pixel.facebook.com

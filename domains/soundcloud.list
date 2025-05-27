@@ -1,6 +1,8 @@
 # Name: soundcloud
-# Updated: 2025-05-18 19:27:26 UTC
-# Total: 2
+# Updated: 2025-05-27 20:56:28 UTC
+# Total: 4
 
+DOMAIN-SUFFIX,p-cdn.us
 DOMAIN-SUFFIX,sndcdn.com
 DOMAIN-SUFFIX,soundcloud.com
+USER-AGENT,SoundCloud*

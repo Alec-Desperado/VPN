@@ -1,6 +1,6 @@
 # Name: category-ru
-# Updated: 2025-05-18 19:27:26 UTC
-# Total: 204
+# Updated: 2025-05-27 20:58:39 UTC
+# Total: 212
 
 DOMAIN-SUFFIX,adygeya.ru
 DOMAIN-SUFFIX,altai.ru
@@ -66,6 +66,7 @@ DOMAIN-SUFFIX,mgfoms.ru
 DOMAIN-SUFFIX,mordovia.ru
 DOMAIN-SUFFIX,mos.ru
 DOMAIN-SUFFIX,mosreg.ru
+DOMAIN-SUFFIX,mradx.net
 DOMAIN-SUFFIX,murmansk.ru
 DOMAIN-SUFFIX,mvk.com
 DOMAIN-SUFFIX,mycdn.me
@@ -90,6 +91,7 @@ DOMAIN-SUFFIX,pskov.ru
 DOMAIN-SUFFIX,ptz.ru
 DOMAIN-SUFFIX,rkomi.ru
 DOMAIN-SUFFIX,rnd.ru
+DOMAIN-SUFFIX,rostaxi.org
 DOMAIN-SUFFIX,ru
 DOMAIN-SUFFIX,ryazan.ru
 DOMAIN-SUFFIX,sakhalin.ru
@@ -118,6 +120,7 @@ DOMAIN-SUFFIX,udm.ru
 DOMAIN-SUFFIX,udmurtia.ru
 DOMAIN-SUFFIX,ulan-ude.ru
 DOMAIN-SUFFIX,userapi.com
+DOMAIN-SUFFIX,vk-analytics.ru
 DOMAIN-SUFFIX,vk-apps.com
 DOMAIN-SUFFIX,vk-apps.ru
 DOMAIN-SUFFIX,vk-cdn.me
@@ -171,6 +174,8 @@ DOMAIN-SUFFIX,ya.ru
 DOMAIN-SUFFIX,yakutia.ru
 DOMAIN-SUFFIX,yamal.ru
 DOMAIN-SUFFIX,yandex
+DOMAIN-SUFFIX,yandex-bank.net
+DOMAIN-SUFFIX,yandex-images.clstorage.net
 DOMAIN-SUFFIX,yandex.aero
 DOMAIN-SUFFIX,yandex.az
 DOMAIN-SUFFIX,yandex.by
@@ -202,7 +207,10 @@ DOMAIN-SUFFIX,yandex.tj
 DOMAIN-SUFFIX,yandex.tm
 DOMAIN-SUFFIX,yandex.ua
 DOMAIN-SUFFIX,yandex.uz
+DOMAIN-SUFFIX,yandexadexchange.net
 DOMAIN-SUFFIX,yandexcloud.net
+DOMAIN-SUFFIX,yandexcom.net
+DOMAIN-SUFFIX,yandexwebcache.org
 DOMAIN-SUFFIX,yaroslavl.ru
 DOMAIN-SUFFIX,yastatic.net
 DOMAIN-SUFFIX,yuzhno-sakhalinsk.ru

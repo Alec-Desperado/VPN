@@ -1,6 +1,6 @@
 # Name: cisco
-# Updated: 2025-05-18 19:27:26 UTC
-# Total: 113
+# Updated: 2025-05-27 20:56:44 UTC
+# Total: 111
 
 DOMAIN,cisco.evergage.com
 DOMAIN,ciscolivehls-i.akamaihd.net
@@ -70,7 +70,6 @@ DOMAIN-SUFFIX,mcisco.com
 DOMAIN-SUFFIX,mearki.com
 DOMAIN-SUFFIX,mediafiles-cisco.com
 DOMAIN-SUFFIX,meraki-go.com
-DOMAIN-SUFFIX,meraki.hk
 DOMAIN-SUFFIX,merakigo.com
 DOMAIN-SUFFIX,metacloud.com
 DOMAIN-SUFFIX,mindmeld.com
@@ -107,7 +106,6 @@ DOMAIN-SUFFIX,webex.co.uk
 DOMAIN-SUFFIX,webex.com
 DOMAIN-SUFFIX,webex.com.au
 DOMAIN-SUFFIX,webex.com.br
-DOMAIN-SUFFIX,webex.com.hk
 DOMAIN-SUFFIX,webex.com.mx
 DOMAIN-SUFFIX,webex.de
 DOMAIN-SUFFIX,webex.es
