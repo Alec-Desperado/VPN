@@ -1,33 +1,10 @@
 # Name: azure
-# Updated: 2025-05-27 21:00:24 UTC
-# Total: 86
+# Updated: 2025-05-29 23:57:20 UTC
+# Total: 59
 
 DOMAIN,azure.microsoft.com
 DOMAIN,azuremarketplace.microsoft.com
-DOMAIN-SUFFIX,21vbc.com
-DOMAIN-SUFFIX,21vbluecloud.com
-DOMAIN-SUFFIX,21vbluecloud.net
 DOMAIN-SUFFIX,aadrm.com
-DOMAIN-SUFFIX,aggresmart.com
-DOMAIN-SUFFIX,azchcdna.com
-DOMAIN-SUFFIX,azchcdnb.com
-DOMAIN-SUFFIX,azchcdnc.com
-DOMAIN-SUFFIX,azchcdnd.com
-DOMAIN-SUFFIX,azchcdne.com
-DOMAIN-SUFFIX,azchcdnf.com
-DOMAIN-SUFFIX,azchcdng.com
-DOMAIN-SUFFIX,azchcdnh.com
-DOMAIN-SUFFIX,azchcdni.com
-DOMAIN-SUFFIX,azchcdnj.com
-DOMAIN-SUFFIX,azchcdnk.com
-DOMAIN-SUFFIX,azchcdnl.com
-DOMAIN-SUFFIX,azchcdnm.com
-DOMAIN-SUFFIX,azchcdnn.com
-DOMAIN-SUFFIX,azchcdno.com
-DOMAIN-SUFFIX,azchcdnp.com
-DOMAIN-SUFFIX,azchcdnq.com
-DOMAIN-SUFFIX,azchcdnr.com
-DOMAIN-SUFFIX,azchcdns.com
 DOMAIN-SUFFIX,azure
 DOMAIN-SUFFIX,azure-devices-int.net
 DOMAIN-SUFFIX,azure-devices.net
@@ -66,8 +43,6 @@ DOMAIN-SUFFIX,azureserviceprofiler.com
 DOMAIN-SUFFIX,azuresmartspaces.net
 DOMAIN-SUFFIX,azurestackvalidation.com
 DOMAIN-SUFFIX,azurewebsites.net
-DOMAIN-SUFFIX,blueaggrestore.com
-DOMAIN-SUFFIX,bluecloudprod.com
 DOMAIN-SUFFIX,botframework.com
 DOMAIN-SUFFIX,cosmosdb.info
 DOMAIN-SUFFIX,cosmosdb.net
@@ -75,12 +50,10 @@ DOMAIN-SUFFIX,devopsms.com
 DOMAIN-SUFFIX,gotcosmos.com
 DOMAIN-SUFFIX,management-azure-devices-int.net
 DOMAIN-SUFFIX,management-azure-devices.net
-DOMAIN-SUFFIX,mcchcdn.com
 DOMAIN-SUFFIX,microsoftazuread-sso.com
 DOMAIN-SUFFIX,microsoftazuresponsorships.com
 DOMAIN-SUFFIX,microsofteca.com
 DOMAIN-SUFFIX,microsoftiotcentral.com
-DOMAIN-SUFFIX,mschcdn.com
 DOMAIN-SUFFIX,msn.net
 DOMAIN-SUFFIX,playfab.com
 DOMAIN-SUFFIX,playfabapi.com

@@ -1,6 +1,6 @@
 # Name: category-speedtest
-# Updated: 2025-05-27 20:59:06 UTC
-# Total: 27
+# Updated: 2025-05-29 23:56:03 UTC
+# Total: 26
 
 DOMAIN,hk-global-bgp.hkg.speedtest.yecaoyun.com
 DOMAIN,www.speedtest.net.cdn.cloudflare.net
@@ -22,7 +22,6 @@ DOMAIN-SUFFIX,speed.hinet.net
 DOMAIN-SUFFIX,speed2.hinet.net
 DOMAIN-SUFFIX,speedtest.co
 DOMAIN-SUFFIX,speedtest.im
-DOMAIN-SUFFIX,speedtest.mfcyun.com
 DOMAIN-SUFFIX,speedtest.net
 DOMAIN-SUFFIX,speedtest.xfinity.com
 DOMAIN-SUFFIX,speedtestcustom.com

@@ -1,6 +1,6 @@
 # Name: cloudflare
-# Updated: 2025-05-27 20:59:15 UTC
-# Total: 75
+# Updated: 2025-05-29 23:56:12 UTC
+# Total: 72
 
 DOMAIN-SUFFIX,argotunnel.com
 DOMAIN-SUFFIX,cf-ipfs.com
@@ -23,17 +23,14 @@ DOMAIN-SUFFIX,cloudflare.com
 DOMAIN-SUFFIX,cloudflare.net
 DOMAIN-SUFFIX,cloudflare.tv
 DOMAIN-SUFFIX,cloudflareaccess.com
-DOMAIN-SUFFIX,cloudflareanycast.net
 DOMAIN-SUFFIX,cloudflareapps.com
 DOMAIN-SUFFIX,cloudflarebolt.com
 DOMAIN-SUFFIX,cloudflareclient.com
 DOMAIN-SUFFIX,cloudflarecn.net
-DOMAIN-SUFFIX,cloudflareglobal.net
 DOMAIN-SUFFIX,cloudflareinsights-cn.com
 DOMAIN-SUFFIX,cloudflareinsights.com
 DOMAIN-SUFFIX,cloudflareok.com
 DOMAIN-SUFFIX,cloudflarepartners.com
-DOMAIN-SUFFIX,cloudflareperf.com
 DOMAIN-SUFFIX,cloudflareportal.com
 DOMAIN-SUFFIX,cloudflarepreview.com
 DOMAIN-SUFFIX,cloudflareprod.com

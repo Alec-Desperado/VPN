@@ -1,6 +1,6 @@
 # Name: paypal
-# Updated: 2025-05-27 20:56:33 UTC
-# Total: 230
+# Updated: 2025-05-29 23:53:30 UTC
+# Total: 234
 
 DOMAIN,venmo.s3.amazonaws.com
 DOMAIN-SUFFIX,account-paypal.info
@@ -109,6 +109,7 @@ DOMAIN-SUFFIX,paypal-mainstreet.net
 DOMAIN-SUFFIX,paypal-marketing.com
 DOMAIN-SUFFIX,paypal-media.com
 DOMAIN-SUFFIX,paypal-merchantloyalty.com
+DOMAIN-SUFFIX,paypal-mktg.com
 DOMAIN-SUFFIX,paypal-mobilemoney.com
 DOMAIN-SUFFIX,paypal-network.org
 DOMAIN-SUFFIX,paypal-notice.com
@@ -222,6 +223,7 @@ DOMAIN-SUFFIX,venmo.com
 DOMAIN-SUFFIX,venmo.info
 DOMAIN-SUFFIX,venmo.net
 DOMAIN-SUFFIX,venmo.org
+DOMAIN-SUFFIX,venmo.s3.amazonaws.com
 DOMAIN-SUFFIX,webmoneyinfo.com
 DOMAIN-SUFFIX,wiremoneytoirelandwithxoomeasierandcheaper.com
 DOMAIN-SUFFIX,www-paypal.info
@@ -232,3 +234,5 @@ DOMAIN-SUFFIX,xoom.com
 DOMAIN-SUFFIX,xoom.io
 DOMAIN-SUFFIX,xoom.us
 DOMAIN-SUFFIX,xoomcom.com
+DOMAIN-KEYWORD,paypal
+USER-AGENT,PayPal*

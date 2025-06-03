@@ -1,11 +1,10 @@
 # Name: category-entertainment
-# Updated: 2025-05-27 20:56:28 UTC
-# Total: 1460
+# Updated: 2025-05-29 23:53:25 UTC
+# Total: 1349
 
 DOMAIN,a.ppy.sh
 DOMAIN,a4e8s8k3.map2.ssl.hwcdn.net
 DOMAIN,abematv.akamaized.net
-DOMAIN,alibaba.cdn.steampipe.steamcontent.com
 DOMAIN,api.viu.now.com
 DOMAIN,apl-hamivideo.cdn.hinet.net
 DOMAIN,apple-tv-plus-press.apple.com
@@ -68,10 +67,6 @@ DOMAIN,f3b7q2p3.ssl.hwcdn.net
 DOMAIN,gamedownloads-rockstargames-com.akamaized.net
 DOMAIN,gamer-cds.cdn.hinet.net
 DOMAIN,gamer2-cds.cdn.hinet.net
-DOMAIN,gog-cdn-fastly.gog.com
-DOMAIN,gog-cdn.akamaized.net
-DOMAIN,gog.qtlglb.com
-DOMAIN,gogalaxy.gog-statics.com
 DOMAIN,hamivideo.hinet.net
 DOMAIN,heads-ak-spotify-com.akamaized.net
 DOMAIN,heads4-ak-spotify-com.akamaized.net
@@ -85,7 +80,6 @@ DOMAIN,linear-abematv.akamaized.net
 DOMAIN,lolstatic-a.akamaihd.net
 DOMAIN,m1.ppy.sh
 DOMAIN,media-rockstargames-com.akamaized.net
-DOMAIN,menu-static.gog-statics.com
 DOMAIN,mobilelive-hamivideo.cdn.hinet.net
 DOMAIN,netflix.com.edgesuite.net
 DOMAIN,notify.ppy.sh
@@ -96,7 +90,6 @@ DOMAIN,osu.ppy.sh
 DOMAIN,p16-tiktokcdn-com.akamaized.net
 DOMAIN,play-edge.itunes.apple.com
 DOMAIN,prd-priconne-redive.akamaized.net
-DOMAIN,productcard.gog-statics.com
 DOMAIN,pvr-hamivideo.cdn.hinet.net
 DOMAIN,rtm.tnt-ea.com
 DOMAIN,scc.ott.hinet.net
@@ -107,7 +100,6 @@ DOMAIN,spotify.map.fastly.net
 DOMAIN,spotify.map.fastlylb.net
 DOMAIN,ssl-lvlt.cdn.ea.com
 DOMAIN,static-hamivideo.cdn.hinet.net
-DOMAIN,static-login.gog-statics.com
 DOMAIN,steambroadcast.akamaized.net
 DOMAIN,steamcdn-a.akamaihd.net
 DOMAIN,steamcommunity-a.akamaihd.net
@@ -125,16 +117,12 @@ DOMAIN,tvcastlive-hamivideo.cdn.hinet.net
 DOMAIN,ubisoft-orbit-savegames.s3.amazonaws.com
 DOMAIN,ubisoft-uplay-savegames.s3.amazonaws.com
 DOMAIN,ubistatic3-a.akamaihd.net
-DOMAIN,uplaypc-s-ubisoft.cdn.ubi.com
 DOMAIN,uts-api.itunes.apple.com
 DOMAIN,videos-rockstargames-com.akamaized.net
 DOMAIN,vod-abematv.akamaized.net
 DOMAIN,weblive-hamivideo.cdn.hinet.net
-DOMAIN,www4-static.gog-statics.com
-DOMAIN,xz.pphimalayanrt.com
 DOMAIN-SUFFIX,100classicbooks.com
 DOMAIN-SUFFIX,112263.com
-DOMAIN-SUFFIX,17roco.com
 DOMAIN-SUFFIX,20thcenturystudios.com.au
 DOMAIN-SUFFIX,20thcenturystudios.com.br
 DOMAIN-SUFFIX,2k.com
@@ -162,7 +150,6 @@ DOMAIN-SUFFIX,agedm.tv
 DOMAIN-SUFFIX,agefans.com
 DOMAIN-SUFFIX,agemys.org
 DOMAIN-SUFFIX,aiv-cdn.net
-DOMAIN-SUFFIX,aki-game.com
 DOMAIN-SUFFIX,amazonprimevideos.com
 DOMAIN-SUFFIX,amazonvideo.cc
 DOMAIN-SUFFIX,amazonvideo.com
@@ -178,7 +165,6 @@ DOMAIN-SUFFIX,amp-api.podcast.apple.com
 DOMAIN-SUFFIX,animedao-tv.com
 DOMAIN-SUFFIX,anthemgame.com
 DOMAIN-SUFFIX,anthemthegame.com
-DOMAIN-SUFFIX,anticheatexpert.com
 DOMAIN-SUFFIX,ao3.org
 DOMAIN-SUFFIX,apexlegends.com
 DOMAIN-SUFFIX,archiveofourown.com
@@ -199,7 +185,6 @@ DOMAIN-SUFFIX,bandcamp.com
 DOMAIN-SUFFIX,bangumi.tv
 DOMAIN-SUFFIX,battle.net
 DOMAIN-SUFFIX,battlebreakers.com
-DOMAIN-SUFFIX,battlecare.net
 DOMAIN-SUFFIX,battlefield.com
 DOMAIN-SUFFIX,battlefield1943.com
 DOMAIN-SUFFIX,battlefield3.com
@@ -212,31 +197,21 @@ DOMAIN-SUFFIX,battlefront2.com
 DOMAIN-SUFFIX,battlefrontii.com
 DOMAIN-SUFFIX,battlelog.com
 DOMAIN-SUFFIX,bcbits.com
-DOMAIN-SUFFIX,bcfmglobal.com
 DOMAIN-SUFFIX,beautyandthebeastmusical.co.uk
 DOMAIN-SUFFIX,bejeweledstars.com
 DOMAIN-SUFFIX,bejewled-stars.com
-DOMAIN-SUFFIX,benghuai.com
 DOMAIN-SUFFIX,beth.games
 DOMAIN-SUFFIX,bethesda.net
 DOMAIN-SUFFIX,bethesdagamestudios.com
 DOMAIN-SUFFIX,bethsoft.com
 DOMAIN-SUFFIX,bgm.tv
-DOMAIN-SUFFIX,bh3.com
-DOMAIN-SUFFIX,bhsr.com
 DOMAIN-SUFFIX,biggggg.com
-DOMAIN-SUFFIX,bilibiligame.co
-DOMAIN-SUFFIX,bilibiligame.net
-DOMAIN-SUFFIX,biligame.co
-DOMAIN-SUFFIX,biligame.com
-DOMAIN-SUFFIX,biligame.net
 DOMAIN-SUFFIX,bioware.com
 DOMAIN-SUFFIX,biowarestore.com
 DOMAIN-SUFFIX,blackboxgames.com
 DOMAIN-SUFFIX,blizzard.com
 DOMAIN-SUFFIX,blizzardgearstore.com
 DOMAIN-SUFFIX,blubrry.com
-DOMAIN-SUFFIX,bluearchive-cn.com
 DOMAIN-SUFFIX,bluearchive.nexon.com
 DOMAIN-SUFFIX,blz-contentstack.com
 DOMAIN-SUFFIX,bookeeper.itunes.apple.com
@@ -271,9 +246,7 @@ DOMAIN-SUFFIX,clashmini.com
 DOMAIN-SUFFIX,clashofclans.com
 DOMAIN-SUFFIX,clashroyale.com
 DOMAIN-SUFFIX,clashroyaleapp.com
-DOMAIN-SUFFIX,client-update.queniuqe.com
 DOMAIN-SUFFIX,cncrivals.com
-DOMAIN-SUFFIX,codm.com
 DOMAIN-SUFFIX,commandandconquer.com
 DOMAIN-SUFFIX,conquerwithcharacter.com
 DOMAIN-SUFFIX,content-ause1-ur-discovery1.uplynk.com
@@ -396,7 +369,6 @@ DOMAIN-SUFFIX,disneyturkiye.com.tr
 DOMAIN-SUFFIX,disneytvajobs.com
 DOMAIN-SUFFIX,disneyworld-go.com
 DOMAIN-SUFFIX,dkr.com
-DOMAIN-SUFFIX,dl.steam.clngaa.com
 DOMAIN-SUFFIX,dlsite.com
 DOMAIN-SUFFIX,dlsitestudio.com
 DOMAIN-SUFFIX,dm-event.net
@@ -466,7 +438,6 @@ DOMAIN-SUFFIX,fanatical.com
 DOMAIN-SUFFIX,fanbox.cc
 DOMAIN-SUFFIX,fandango.com
 DOMAIN-SUFFIX,fast.com
-DOMAIN-SUFFIX,ffbuddy.com
 DOMAIN-SUFFIX,fifastreet.com
 DOMAIN-SUFFIX,fifastreet3.com
 DOMAIN-SUFFIX,findyourlimits.com
@@ -488,9 +459,6 @@ DOMAIN-SUFFIX,funimation.com
 DOMAIN-SUFFIX,futpromos.com
 DOMAIN-SUFFIX,futunited.com
 DOMAIN-SUFFIX,game-repack.site
-DOMAIN-SUFFIX,gamebonfire.com
-DOMAIN-SUFFIX,gameitop.com
-DOMAIN-SUFFIX,gameloop.com
 DOMAIN-SUFFIX,gamepass.com
 DOMAIN-SUFFIX,gamesfirsthelsinki.com
 DOMAIN-SUFFIX,garena.co.id
@@ -503,12 +471,6 @@ DOMAIN-SUFFIX,garena.sg
 DOMAIN-SUFFIX,garena.tv
 DOMAIN-SUFFIX,garena.vn
 DOMAIN-SUFFIX,garenanow.com
-DOMAIN-SUFFIX,gcloudcs.com
-DOMAIN-SUFFIX,gcloudcstest.com
-DOMAIN-SUFFIX,gcloudcstestonly.com
-DOMAIN-SUFFIX,gclouddolphin.com
-DOMAIN-SUFFIX,gcloudsdk.com
-DOMAIN-SUFFIX,gdtimg.com
 DOMAIN-SUFFIX,genshinimpact.com
 DOMAIN-SUFFIX,ggpht.com
 DOMAIN-SUFFIX,ghostgames.com
@@ -530,17 +492,9 @@ DOMAIN-SUFFIX,gogocdn.net
 DOMAIN-SUFFIX,gogotaku.info
 DOMAIN-SUFFIX,goodreads.com
 DOMAIN-SUFFIX,googlevideo.com
-DOMAIN-SUFFIX,goto-game.com
-DOMAIN-SUFFIX,goto-game.mobi
-DOMAIN-SUFFIX,goto-game.org
-DOMAIN-SUFFIX,gotolink.net
-DOMAIN-SUFFIX,gouhuo.qq.com
 DOMAIN-SUFFIX,gr-assets.com
-DOMAIN-SUFFIX,gstore.val.manlaxy.com
-DOMAIN-SUFFIX,gtgres.com
 DOMAIN-SUFFIX,hackyourconsole.com
 DOMAIN-SUFFIX,haiwaikan.com
-DOMAIN-SUFFIX,happyhlddz.com
 DOMAIN-SUFFIX,hayabusa.dev
 DOMAIN-SUFFIX,hayabusa.io
 DOMAIN-SUFFIX,hayabusa.media
@@ -563,7 +517,6 @@ DOMAIN-SUFFIX,hbomax.com
 DOMAIN-SUFFIX,hbomaxcdn.com
 DOMAIN-SUFFIX,hbomaxdash.s.llnwi.net
 DOMAIN-SUFFIX,hbonow.com
-DOMAIN-SUFFIX,hdyxgame.com
 DOMAIN-SUFFIX,heaven-burns-red.com
 DOMAIN-SUFFIX,heroesofdragonage.com
 DOMAIN-SUFFIX,heroesofthestorm.com
@@ -571,7 +524,6 @@ DOMAIN-SUFFIX,hidive.com
 DOMAIN-SUFFIX,historyofdota.com
 DOMAIN-SUFFIX,historyofdota.net
 DOMAIN-SUFFIX,historyofdota.org
-DOMAIN-SUFFIX,hkgcloudcs.com
 DOMAIN-SUFFIX,honkaiimpact3.com
 DOMAIN-SUFFIX,honkaistarrail.com
 DOMAIN-SUFFIX,hooloo.tv
@@ -619,12 +571,10 @@ DOMAIN-SUFFIX,huluusa.com
 DOMAIN-SUFFIX,humblebundle.com
 DOMAIN-SUFFIX,hutpromos.com
 DOMAIN-SUFFIX,hyprsense.com
-DOMAIN-SUFFIX,ihappystudio.com
 DOMAIN-SUFFIX,imageworks.com
 DOMAIN-SUFFIX,imdb
 DOMAIN-SUFFIX,imdb.com
 DOMAIN-SUFFIX,imdb.to
-DOMAIN-SUFFIX,in.th
 DOMAIN-SUFFIX,indazn.com
 DOMAIN-SUFFIX,indaznlab.com
 DOMAIN-SUFFIX,industrialtoys.com
@@ -638,7 +588,6 @@ DOMAIN-SUFFIX,joinmaidez.com
 DOMAIN-SUFFIX,joox.com
 DOMAIN-SUFFIX,joyjoy.net
 DOMAIN-SUFFIX,jtvnw.net
-DOMAIN-SUFFIX,juequling.com
 DOMAIN-SUFFIX,kamisama-maeda-lab.com
 DOMAIN-SUFFIX,kfs.io
 DOMAIN-SUFFIX,kingkongapp.com
@@ -648,7 +597,6 @@ DOMAIN-SUFFIX,kk.stream
 DOMAIN-SUFFIX,kkbox.com
 DOMAIN-SUFFIX,kktix.com
 DOMAIN-SUFFIX,kktv.me
-DOMAIN-SUFFIX,kurogames.com
 DOMAIN-SUFFIX,kyurem.com
 DOMAIN-SUFFIX,last.fm
 DOMAIN-SUFFIX,lcsmerch.com
@@ -681,15 +629,11 @@ DOMAIN-SUFFIX,lolusercontent.com
 DOMAIN-SUFFIX,lordofultima.com
 DOMAIN-SUFFIX,loverslab.com
 DOMAIN-SUFFIX,lowiro.com
-DOMAIN-SUFFIX,ludoworld.net
 DOMAIN-SUFFIX,maddenchampionship.com
 DOMAIN-SUFFIX,maddenrewards.com
 DOMAIN-SUFFIX,maddenseason.info
 DOMAIN-SUFFIX,maddenseason.net
 DOMAIN-SUFFIX,maddenseason.org
-DOMAIN-SUFFIX,mahjongai.net
-DOMAIN-SUFFIX,mahjongcup.com
-DOMAIN-SUFFIX,mahjongcup.net
 DOMAIN-SUFFIX,manhuagui.com
 DOMAIN-SUFFIX,marioandluigidreamteam.com
 DOMAIN-SUFFIX,mariobroswii.com
@@ -712,18 +656,9 @@ DOMAIN-SUFFIX,maxgo.com
 DOMAIN-SUFFIX,maxis.com
 DOMAIN-SUFFIX,media-imdb.com
 DOMAIN-SUFFIX,megaphone.fm
-DOMAIN-SUFFIX,metalrevolution.com
 DOMAIN-SUFFIX,mgo-images.com
 DOMAIN-SUFFIX,mgo.com
-DOMAIN-SUFFIX,mhystatic.com
 DOMAIN-SUFFIX,mickey.tv
-DOMAIN-SUFFIX,midasbuy.com
-DOMAIN-SUFFIX,mihayo.com
-DOMAIN-SUFFIX,mihayou.com
-DOMAIN-SUFFIX,mihoyo.com
-DOMAIN-SUFFIX,mihoyocg.com
-DOMAIN-SUFFIX,mihoyogift.com
-DOMAIN-SUFFIX,mihoyomall.com
 DOMAIN-SUFFIX,miitomo.com
 DOMAIN-SUFFIX,miiverse.com
 DOMAIN-SUFFIX,mikanani.me
@@ -736,7 +671,6 @@ DOMAIN-SUFFIX,mirrorsedge.com
 DOMAIN-SUFFIX,mirrorsedge.net
 DOMAIN-SUFFIX,mirrorsedge2.com
 DOMAIN-SUFFIX,mirrorsedge2d.com
-DOMAIN-SUFFIX,miyoushe.com
 DOMAIN-SUFFIX,mo.co
 DOMAIN-SUFFIX,modrinth.com
 DOMAIN-SUFFIX,mojang.com
@@ -746,8 +680,6 @@ DOMAIN-SUFFIX,movenetworks.com
 DOMAIN-SUFFIX,movetv.com
 DOMAIN-SUFFIX,moviesanywhere.com
 DOMAIN-SUFFIX,mox.moe
-DOMAIN-SUFFIX,mszdld.com
-DOMAIN-SUFFIX,mszdld.net
 DOMAIN-SUFFIX,mubi.com
 DOMAIN-SUFFIX,mubicdn.net
 DOMAIN-SUFFIX,mudvod.tv
@@ -762,7 +694,6 @@ DOMAIN-SUFFIX,mythicentertainment.net
 DOMAIN-SUFFIX,mythicgames.com
 DOMAIN-SUFFIX,mytvsuper.com
 DOMAIN-SUFFIX,n0vadesktop.com
-DOMAIN-SUFFIX,nagcloudcs.com
 DOMAIN-SUFFIX,natgeomaps.com
 DOMAIN-SUFFIX,nationalgeographic.com
 DOMAIN-SUFFIX,nationalgeographicpartners.com
@@ -806,8 +737,6 @@ DOMAIN-SUFFIX,newsupermariobrosu.com
 DOMAIN-SUFFIX,nexon.com
 DOMAIN-SUFFIX,nexon.io
 DOMAIN-SUFFIX,nexoncdn.co.kr
-DOMAIN-SUFFIX,nextstudios.com
-DOMAIN-SUFFIX,nextworkshop.net
 DOMAIN-SUFFIX,nexusmods.com
 DOMAIN-SUFFIX,nflxext.com
 DOMAIN-SUFFIX,nflximg.com
@@ -949,17 +878,13 @@ DOMAIN-SUFFIX,primevideo.tv
 DOMAIN-SUFFIX,prismlauncher.org
 DOMAIN-SUFFIX,projectapex.com
 DOMAIN-SUFFIX,protondb.com
-DOMAIN-SUFFIX,proximabeta.com
 DOMAIN-SUFFIX,pscdn.co
 DOMAIN-SUFFIX,ptzwx.com
-DOMAIN-SUFFIX,pubghelper.com
-DOMAIN-SUFFIX,pubgtool.com
 DOMAIN-SUFFIX,pvp.net
 DOMAIN-SUFFIX,pvp.tv
 DOMAIN-SUFFIX,pvzgw2.com
 DOMAIN-SUFFIX,pvzheroes.com
 DOMAIN-SUFFIX,pximg.net
-DOMAIN-SUFFIX,qqgameapp.com
 DOMAIN-SUFFIX,quanben-xiaoshuo.com
 DOMAIN-SUFFIX,quanben.io
 DOMAIN-SUFFIX,quiltmc.org
@@ -967,7 +892,6 @@ DOMAIN-SUFFIX,quixel.com
 DOMAIN-SUFFIX,quixel.se
 DOMAIN-SUFFIX,radgametools.com
 DOMAIN-SUFFIX,ravm.tv
-DOMAIN-SUFFIX,realcybertron.com
 DOMAIN-SUFFIX,realityscan.com
 DOMAIN-SUFFIX,registerhulu.com
 DOMAIN-SUFFIX,renovacionxboxlive.com
@@ -985,11 +909,8 @@ DOMAIN-SUFFIX,riotgames.net
 DOMAIN-SUFFIX,riotgames.tv
 DOMAIN-SUFFIX,riotpin.com
 DOMAIN-SUFFIX,riotpoints.com
-DOMAIN-SUFFIX,rmwxgame.com
-DOMAIN-SUFFIX,roblox.qq.com
 DOMAIN-SUFFIX,roborecall.com
 DOMAIN-SUFFIX,rockstargames.com
-DOMAIN-SUFFIX,roco.qq.com
 DOMAIN-SUFFIX,roku.com
 DOMAIN-SUFFIX,rokutime.com
 DOMAIN-SUFFIX,rsg.sc
@@ -1010,7 +931,6 @@ DOMAIN-SUFFIX,simcity-buildit.com
 DOMAIN-SUFFIX,simcity.com
 DOMAIN-SUFFIX,skate2.com
 DOMAIN-SUFFIX,sketchfab.com
-DOMAIN-SUFFIX,sl916.com
 DOMAIN-SUFFIX,sling.com
 DOMAIN-SUFFIX,slinginternational.com
 DOMAIN-SUFFIX,sndcdn.com
@@ -1045,9 +965,6 @@ DOMAIN-SUFFIX,spotifyjobs.com
 DOMAIN-SUFFIX,spyjinx.com
 DOMAIN-SUFFIX,squadbusters.com
 DOMAIN-SUFFIX,ssx3.com
-DOMAIN-SUFFIX,st.dl.bscstorage.net
-DOMAIN-SUFFIX,st.dl.eccdnx.com
-DOMAIN-SUFFIX,st.dl.pinyuncloud.com
 DOMAIN-SUFFIX,star-brasil.com
 DOMAIN-SUFFIX,star-latam.com
 DOMAIN-SUFFIX,star.api.edge.bamgrid.com
@@ -1078,17 +995,14 @@ DOMAIN-SUFFIX,steam.eca.qtlglb.com
 DOMAIN-SUFFIX,steam.naeu.qtlglb.com
 DOMAIN-SUFFIX,steam.ru.qtlglb.com
 DOMAIN-SUFFIX,steam.tv
-DOMAIN-SUFFIX,steamchina.com
 DOMAIN-SUFFIX,steamcommunity.com
 DOMAIN-SUFFIX,steamcontent.com
 DOMAIN-SUFFIX,steamdb.info
 DOMAIN-SUFFIX,steamdeck.com
 DOMAIN-SUFFIX,steamgames.com
 DOMAIN-SUFFIX,steampowered.com
-DOMAIN-SUFFIX,steampowered.com.8686c.com
 DOMAIN-SUFFIX,steamserver.net
 DOMAIN-SUFFIX,steamstatic.com
-DOMAIN-SUFFIX,steamstatic.com.8686c.com
 DOMAIN-SUFFIX,steamunlocked.net
 DOMAIN-SUFFIX,steamusercontent.com
 DOMAIN-SUFFIX,streamingdisney.net
@@ -1112,22 +1026,15 @@ DOMAIN-SUFFIX,swjfo.com
 DOMAIN-SUFFIX,swtor.com
 DOMAIN-SUFFIX,swtor.net
 DOMAIN-SUFFIX,syosetu.com
-DOMAIN-SUFFIX,syxlgame.com
 DOMAIN-SUFFIX,take2games.com
 DOMAIN-SUFFIX,tarkov.com
-DOMAIN-SUFFIX,tcfmglobal.com
 DOMAIN-SUFFIX,teamneedforspeed.com
 DOMAIN-SUFFIX,tellmewhygame.com
-DOMAIN-SUFFIX,tencent-gcloud.com
-DOMAIN-SUFFIX,tencentstart.com
-DOMAIN-SUFFIX,texasholdemcup.com
-DOMAIN-SUFFIX,texasholdemcup.net
 DOMAIN-SUFFIX,theater-kktv.cdn.hinet.net
 DOMAIN-SUFFIX,thedreadwolfrises.com
 DOMAIN-SUFFIX,thehulubraintrust.com
 DOMAIN-SUFFIX,thelegendarystarfy.com
 DOMAIN-SUFFIX,themarvelexperiencetour.com
-DOMAIN-SUFFIX,themisweeps.com
 DOMAIN-SUFFIX,themoviedb.org
 DOMAIN-SUFFIX,thesims.com
 DOMAIN-SUFFIX,thesims3.com
@@ -1155,7 +1062,6 @@ DOMAIN-SUFFIX,tiktokv.eu
 DOMAIN-SUFFIX,tiktokv.us
 DOMAIN-SUFFIX,tiktokw.eu
 DOMAIN-SUFFIX,tiktokw.us
-DOMAIN-SUFFIX,timibase.com
 DOMAIN-SUFFIX,titanfall.com
 DOMAIN-SUFFIX,tmdb.org
 DOMAIN-SUFFIX,tnt-ea.com
@@ -1193,7 +1099,6 @@ DOMAIN-SUFFIX,vhxqa2.com
 DOMAIN-SUFFIX,vhxqa3.com
 DOMAIN-SUFFIX,vhxqa4.com
 DOMAIN-SUFFIX,vhxqa6.com
-DOMAIN-SUFFIX,videoxiaoyouxi.com
 DOMAIN-SUFFIX,vimeo-staging.com
 DOMAIN-SUFFIX,vimeo-staging2.com
 DOMAIN-SUFFIX,vimeo.com
@@ -1214,10 +1119,7 @@ DOMAIN-SUFFIX,wariowarediy.com
 DOMAIN-SUFFIX,watchdisneyfe.com
 DOMAIN-SUFFIX,watchespn.com
 DOMAIN-SUFFIX,wbdnbo.net
-DOMAIN-SUFFIX,wcbygame.com
 DOMAIN-SUFFIX,webnovel.com
-DOMAIN-SUFFIX,wegame.com
-DOMAIN-SUFFIX,wegameplus.com
 DOMAIN-SUFFIX,weverse.io
 DOMAIN-SUFFIX,wheelpop.com
 DOMAIN-SUFFIX,wide-youtube.l.google.com
@@ -1231,7 +1133,6 @@ DOMAIN-SUFFIX,wiiugamepad.com
 DOMAIN-SUFFIX,wiivc.net
 DOMAIN-SUFFIX,wimpmusic.com
 DOMAIN-SUFFIX,withyoutube.com
-DOMAIN-SUFFIX,wmsjsteam.com
 DOMAIN-SUFFIX,worldflipper.akamaized.net
 DOMAIN-SUFFIX,worldofwarcraft.com
 DOMAIN-SUFFIX,wwe.com
@@ -1432,13 +1333,8 @@ DOMAIN-SUFFIX,youtubekids.com
 DOMAIN-SUFFIX,youtubemobilesupport.com
 DOMAIN-SUFFIX,yt.be
 DOMAIN-SUFFIX,ytimg.com
-DOMAIN-SUFFIX,yuanshen.com
-DOMAIN-SUFFIX,yxdmgame.com
-DOMAIN-SUFFIX,yxwsgame.com
-DOMAIN-SUFFIX,yzyxgame.com
 DOMAIN-SUFFIX,z5.app
 DOMAIN-SUFFIX,z5.com
-DOMAIN-SUFFIX,zcjbgame.com
 DOMAIN-SUFFIX,zee5.com
 DOMAIN-SUFFIX,zee5.in
 DOMAIN-SUFFIX,zee5.tv
@@ -1447,18 +1343,11 @@ DOMAIN-SUFFIX,zeetv.co.uk
 DOMAIN-SUFFIX,zeetv.com
 DOMAIN-SUFFIX,zeeuk.com
 DOMAIN-SUFFIX,zenlesszonezero.com
-DOMAIN-SUFFIX,zhuoyuegame.com
 URL-REGEX,(^|\.)apiproxy-device-prod-nlb-.+\.amazonaws\.com$
 URL-REGEX,(^|\.)apiproxy-website-nlb-prod-.+\.amazonaws\.com$
 URL-REGEX,(^|\.)dualstack\.apiproxy-.+\.amazonaws\.com$
 URL-REGEX,(^|\.)dualstack\.ichnaea-web-.+\.amazonaws\.com$
-URL-REGEX,^.+-mihayo\.akamaized\.net$
 URL-REGEX,^[0-9]+vod-adaptive\.akamaized\.net$
-URL-REGEX,^cdn-akamai-.+\.gog-services\.com$
-URL-REGEX,^cdn\d-epicgames-\d+\.file\.myqcloud\.com$
-URL-REGEX,^epicgames-download\d-\d+\.file\.myqcloud\.com$
 URL-REGEX,^epicgames-download\d\.akamaized\.net$
 URL-REGEX,^ewcdn[0-9]{2}\.nowe\.com$
-URL-REGEX,^gog-cdn-.+\.footprint\.net$
 URL-REGEX,^hses[1-7]?\.akamaized\.net$
-URL-REGEX,^images(-\d)?\.gog-statics\.com$

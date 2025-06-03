@@ -1,6 +1,6 @@
 # Name: qualcomm
-# Updated: 2025-05-27 20:56:44 UTC
-# Total: 39
+# Updated: 2025-05-29 23:53:41 UTC
+# Total: 40
 
 DOMAIN,qualcomm.sc.omtrdc.net
 DOMAIN-SUFFIX,airgonetworks.com
@@ -29,6 +29,7 @@ DOMAIN-SUFFIX,qualcomm.com
 DOMAIN-SUFFIX,qualcomm.com.br
 DOMAIN-SUFFIX,qualcomm.de
 DOMAIN-SUFFIX,qualcomm.fr
+DOMAIN-SUFFIX,qualcomm.sc.omtrdc.net
 DOMAIN-SUFFIX,qualcommhalo.com
 DOMAIN-SUFFIX,qualcommlabs.com
 DOMAIN-SUFFIX,qualcommmea.com

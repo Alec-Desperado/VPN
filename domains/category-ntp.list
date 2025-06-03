@@ -1,33 +1,19 @@
 # Name: category-ntp
-# Updated: 2025-05-27 20:58:24 UTC
-# Total: 78
+# Updated: 2025-05-29 23:55:19 UTC
+# Total: 61
 
 DOMAIN,ntp-b.nist.gov
 DOMAIN,ntp-c.colorado.edu
 DOMAIN,ntp-d.nist.gov
 DOMAIN,ntp-wwv.nist.gov
-DOMAIN,ntp.aliyun.com
-DOMAIN,ntp.tencent.com
 DOMAIN,ntp.ubuntu.com
 DOMAIN,ntp0.ntp-servers.net
-DOMAIN,ntp1.aliyun.com
 DOMAIN,ntp1.ntp-servers.net
-DOMAIN,ntp1.tencent.com
-DOMAIN,ntp2.aliyun.com
 DOMAIN,ntp2.ntp-servers.net
-DOMAIN,ntp2.tencent.com
-DOMAIN,ntp3.aliyun.com
 DOMAIN,ntp3.ntp-servers.net
-DOMAIN,ntp3.tencent.com
-DOMAIN,ntp4.aliyun.com
 DOMAIN,ntp4.ntp-servers.net
-DOMAIN,ntp4.tencent.com
-DOMAIN,ntp5.aliyun.com
 DOMAIN,ntp5.ntp-servers.net
-DOMAIN,ntp5.tencent.com
-DOMAIN,ntp6.aliyun.com
 DOMAIN,ntp6.ntp-servers.net
-DOMAIN,ntp7.aliyun.com
 DOMAIN,ntp7.ntp-servers.net
 DOMAIN,time-a-b.nist.gov
 DOMAIN,time-a-g.nist.gov
@@ -50,10 +36,8 @@ DOMAIN,time.cloudflare.com
 DOMAIN,time.euro.apple.com
 DOMAIN,time.facebook.com
 DOMAIN,time.google.com
-DOMAIN,time.izatcloud.net
 DOMAIN,time.nist.gov
 DOMAIN,time.windows.com
-DOMAIN,time.xtracloud.net
 DOMAIN,time1.facebook.com
 DOMAIN,time1.google.com
 DOMAIN,time2.facebook.com
@@ -69,7 +53,6 @@ DOMAIN,utcnist.colorado.edu
 DOMAIN,utcnist2.colorado.edu
 DOMAIN,utcnist3.colorado.edu
 DOMAIN-SUFFIX,clock.isc.org
-DOMAIN-SUFFIX,cn.pool.ntp.org
 DOMAIN-SUFFIX,ntp.fiord.ru
 DOMAIN-SUFFIX,ntp.nat.ms
 DOMAIN-SUFFIX,ntp.nic.cz

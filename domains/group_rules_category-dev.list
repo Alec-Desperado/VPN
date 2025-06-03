@@ -1,6 +1,6 @@
 # Name: group_rules_category-dev
-# Updated: 2025-05-27 20:54:12 UTC
-# Total: 552
+# Updated: 2025-05-29 23:51:12 UTC
+# Total: 549
 
 DOMAIN,aida.googleapis.com
 DOMAIN,amp.akamaized.net
@@ -9,7 +9,6 @@ DOMAIN,appleworldwidedeveloper.hb-api.omtrdc.net
 DOMAIN,appleworldwidedeveloper.sc.omtrdc.net
 DOMAIN,az764295.vo.msecnd.net
 DOMAIN,bingsettingssearch.trafficmanager.net
-DOMAIN,cdn.ampproject.org
 DOMAIN,cdn.jsdelivr.net
 DOMAIN,d1q6f0aelx0por.cloudfront.net
 DOMAIN,d29vzk4ow07wi7.cloudfront.net
@@ -22,7 +21,6 @@ DOMAIN,docker-images-prod.6aa30f8b08e16409b46e0173d6de2f56.r2.cloudflarestorage.
 DOMAIN,docker-pinata-support.s3.amazonaws.com
 DOMAIN,download.visualstudio.microsoft.com
 DOMAIN,dtlgalleryint.cloudapp.net
-DOMAIN,firebase-settings.crashlytics.com
 DOMAIN,firebase.google.com
 DOMAIN,firebase.googleapis.com
 DOMAIN,firebaseappcheck.googleapis.com
@@ -101,7 +99,6 @@ DOMAIN-SUFFIX,buckbuild.com
 DOMAIN-SUFFIX,calendarserver.org
 DOMAIN-SUFFIX,canonical.com
 DOMAIN-SUFFIX,carekit.org
-DOMAIN-SUFFIX,cdn.jetbrains.com
 DOMAIN-SUFFIX,cdnjs.com
 DOMAIN-SUFFIX,centos.org
 DOMAIN-SUFFIX,chocolatey.org

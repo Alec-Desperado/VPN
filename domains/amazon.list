@@ -1,10 +1,8 @@
 # Name: amazon
-# Updated: 2025-05-27 20:49:57 UTC
-# Total: 192
+# Updated: 2025-05-29 23:46:59 UTC
+# Total: 185
 
 DOMAIN,URL-REGEX,^https?:\/\/www\.amazon\.com\/(Amazon-Video|gp\/video)\/
-DOMAIN,images-cn-8.ssl-images-amazon.com
-DOMAIN,images-cn.ssl-images-amazon.com
 DOMAIN-SUFFIX,a2z.com
 DOMAIN-SUFFIX,aboutamazon.co.uk
 DOMAIN-SUFFIX,aboutamazon.com
@@ -85,9 +83,6 @@ DOMAIN-SUFFIX,amplifyframework.com
 DOMAIN-SUFFIX,amzn.asia
 DOMAIN-SUFFIX,amzn.com
 DOMAIN-SUFFIX,amzn.to
-DOMAIN-SUFFIX,amzndns-cn.biz
-DOMAIN-SUFFIX,amzndns-cn.com
-DOMAIN-SUFFIX,amzndns-cn.net
 DOMAIN-SUFFIX,amzndns.co.uk
 DOMAIN-SUFFIX,amzndns.com
 DOMAIN-SUFFIX,amzndns.net
@@ -118,7 +113,6 @@ DOMAIN-SUFFIX,awstrack.me
 DOMAIN-SUFFIX,awstrust.com
 DOMAIN-SUFFIX,boxofficemojo.com
 DOMAIN-SUFFIX,cdkworkshop.com
-DOMAIN-SUFFIX,cloudfront-cn.net
 DOMAIN-SUFFIX,cloudfront.com
 DOMAIN-SUFFIX,cloudfront.net
 DOMAIN-SUFFIX,containersonaws.com
@@ -178,7 +172,6 @@ DOMAIN-KEYWORD,avoddashs
 USER-AGENT,InstantVideo.US*
 USER-AGENT,Prime%20Video*
 URL-REGEX,.+\.awsdns-[0-9][0-9]\.(co\.uk|com|net|org)$
-URL-REGEX,.+\.awsdns-cn-[0-9][0-9]\.(biz|com|net|top)$
 IP-CIDR,13.32.0.0/15,no-resolve
 IP-CIDR,13.35.0.0/17,no-resolve
 IP-CIDR,18.184.0.0/15,no-resolve

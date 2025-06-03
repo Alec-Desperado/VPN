@@ -1,6 +1,6 @@
 # Name: category-media
-# Updated: 2025-05-27 20:58:20 UTC
-# Total: 1236
+# Updated: 2025-05-29 23:55:15 UTC
+# Total: 1234
 
 DOMAIN,aod-pod-uk-live.akamaized.net
 DOMAIN,as-dash-uk-live.akamaized.net
@@ -215,7 +215,6 @@ DOMAIN-SUFFIX,chinaeconomicreview.com
 DOMAIN-SUFFIX,chinapress.com.my
 DOMAIN-SUFFIX,chinatimes.com
 DOMAIN-SUFFIX,citylab.com
-DOMAIN-SUFFIX,cn-cdn1.skymansion.net
 DOMAIN-SUFFIX,cnbc.com
 DOMAIN-SUFFIX,cnbcfm.com
 DOMAIN-SUFFIX,cnbeta.com
@@ -1066,7 +1065,6 @@ DOMAIN-SUFFIX,thesun.ie
 DOMAIN-SUFFIX,thesundaytimes.co.uk
 DOMAIN-SUFFIX,thetimes.co.uk
 DOMAIN-SUFFIX,thetimes.ie
-DOMAIN-SUFFIX,thetype.cloud
 DOMAIN-SUFFIX,thetype.com
 DOMAIN-SUFFIX,theverge.com
 DOMAIN-SUFFIX,theweek.in

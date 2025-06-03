@@ -1,6 +1,6 @@
 # Name: epicgames
-# Updated: 2025-05-27 20:56:28 UTC
-# Total: 30
+# Updated: 2025-05-29 23:53:25 UTC
+# Total: 28
 
 DOMAIN-SUFFIX,3lateral.com
 DOMAIN-SUFFIX,artstation.com
@@ -29,6 +29,4 @@ DOMAIN-SUFFIX,spyjinx.com
 DOMAIN-SUFFIX,twinmotion.com
 DOMAIN-SUFFIX,unrealengine.com
 DOMAIN-SUFFIX,unrealtournament.com
-URL-REGEX,^cdn\d-epicgames-\d+\.file\.myqcloud\.com$
-URL-REGEX,^epicgames-download\d-\d+\.file\.myqcloud\.com$
 URL-REGEX,^epicgames-download\d\.akamaized\.net$

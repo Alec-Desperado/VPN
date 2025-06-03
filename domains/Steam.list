@@ -1,9 +1,8 @@
 # Name: steam
-# Updated: 2025-05-27 20:56:28 UTC
-# Total: 73
+# Updated: 2025-05-29 23:53:25 UTC
+# Total: 68
 
 DOMAIN,a4e8s8k3.map2.ssl.hwcdn.net
-DOMAIN,alibaba.cdn.steampipe.steamcontent.com
 DOMAIN,f3b7q2p3.ssl.hwcdn.net
 DOMAIN,steambroadcast.akamaized.net
 DOMAIN,steamcdn-a.akamaihd.net
@@ -16,17 +15,14 @@ DOMAIN,steamstore-a.akamaihd.net
 DOMAIN,steamusercontent-a.akamaihd.net
 DOMAIN,steamuserimages-a.akamaihd.net
 DOMAIN,steamvideo-a.akamaihd.net
-DOMAIN,xz.pphimalayanrt.com
 DOMAIN-SUFFIX,cdn-ali.content.steamchina.com
 DOMAIN-SUFFIX,cdn-qc.content.steamchina.com
 DOMAIN-SUFFIX,cdn-ws.content.steamchina.com
-DOMAIN-SUFFIX,client-update.queniuqe.com
 DOMAIN-SUFFIX,dl.steam.clngaa.com
 DOMAIN-SUFFIX,dl.steam.ksyna.com
 DOMAIN-SUFFIX,edge.steam-dns.top.comcast.net
 DOMAIN-SUFFIX,f3b7q2p3.ssl.hwcdn.net
 DOMAIN-SUFFIX,fanatical.com
-DOMAIN-SUFFIX,gstore.val.manlaxy.com
 DOMAIN-SUFFIX,humblebundle.com
 DOMAIN-SUFFIX,playartifact.com
 DOMAIN-SUFFIX,s.team
@@ -46,7 +42,6 @@ DOMAIN-SUFFIX,steam.ru.qtlglb.com
 DOMAIN-SUFFIX,steam.tv
 DOMAIN-SUFFIX,steambroadcast.akamaized.net
 DOMAIN-SUFFIX,steamcdn-a.akamaihd.net
-DOMAIN-SUFFIX,steamchina.com
 DOMAIN-SUFFIX,steamcommunity-a.akamaihd.net
 DOMAIN-SUFFIX,steamcommunity.com
 DOMAIN-SUFFIX,steamcontent.com

@@ -1,6 +1,6 @@
 # Name: intel
-# Updated: 2025-05-27 20:56:44 UTC
-# Total: 250
+# Updated: 2025-05-29 23:53:41 UTC
+# Total: 252
 
 DOMAIN-SUFFIX,01.org
 DOMAIN-SUFFIX,acpica.com
@@ -198,6 +198,7 @@ DOMAIN-SUFFIX,intellinuxgraphics.net
 DOMAIN-SUFFIX,intellinuxwireless.net
 DOMAIN-SUFFIX,intelnervana.com
 DOMAIN-SUFFIX,intelnet.Component
+DOMAIN-SUFFIX,intelnet.component
 DOMAIN-SUFFIX,intelplay.com
 DOMAIN-SUFFIX,intelquark.com
 DOMAIN-SUFFIX,intelrealsense.com
@@ -235,6 +236,7 @@ DOMAIN-SUFFIX,pentium.com
 DOMAIN-SUFFIX,pentium.net
 DOMAIN-SUFFIX,pintool.com
 DOMAIN-SUFFIX,poweredbyintel.com
+DOMAIN-SUFFIX,qualtrics.com
 DOMAIN-SUFFIX,reconinstruments.com
 DOMAIN-SUFFIX,reconjet.com
 DOMAIN-SUFFIX,researchintel.com

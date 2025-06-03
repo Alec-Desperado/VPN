@@ -1,6 +1,6 @@
 # Name: cisco
-# Updated: 2025-05-27 20:56:44 UTC
-# Total: 111
+# Updated: 2025-05-29 23:57:43 UTC
+# Total: 113
 
 DOMAIN,cisco.evergage.com
 DOMAIN,ciscolivehls-i.akamaihd.net
@@ -20,6 +20,7 @@ DOMAIN-SUFFIX,cisco
 DOMAIN-SUFFIX,cisco-returns.com
 DOMAIN-SUFFIX,cisco-warrantyfinder.com
 DOMAIN-SUFFIX,cisco.com
+DOMAIN-SUFFIX,cisco.evergage.com
 DOMAIN-SUFFIX,cisco.mobi
 DOMAIN-SUFFIX,ciscoccservice.com
 DOMAIN-SUFFIX,ciscoconnectcloud.com
@@ -35,6 +36,7 @@ DOMAIN-SUFFIX,ciscoknowledgenetwork.com
 DOMAIN-SUFFIX,ciscolearningsociety.org
 DOMAIN-SUFFIX,ciscolearningsystem.com
 DOMAIN-SUFFIX,ciscolive.com
+DOMAIN-SUFFIX,ciscolivehls-i.akamaihd.net
 DOMAIN-SUFFIX,cisconetapp.com
 DOMAIN-SUFFIX,cisconetspace.com
 DOMAIN-SUFFIX,cisconetspace.info

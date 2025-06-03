@@ -1,7 +1,8 @@
 # Name: notion
-# Updated: 2025-05-27 21:00:51 UTC
-# Total: 8
+# Updated: 2025-05-29 23:57:43 UTC
+# Total: 9
 
+DOMAIN,http-inputs-notion.splunkcloud.com
 DOMAIN-SUFFIX,api.notion.com
 DOMAIN-SUFFIX,img.notionusercontent.com
 DOMAIN-SUFFIX,notion-static.com

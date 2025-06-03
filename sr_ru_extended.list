@@ -1,9 +1,10 @@
 # NAME: sr_ru_extended.list
 # Selective routing rules
 
-DOMAIN-SUFFIX,data-ai.microsoft.com,PROXY
+RULE-SET,https://raw.githubusercontent.com/misha-tgshv/shadowrocket-configuration-file/refs/heads/release/rules/domains_banking.list,DIRECT
 
-DOMAIN-SUFFIX,calltouch.ru,REJECT-DROP
+DOMAIN,copilot-proxy.githubusercontent.com,PROXY
+
 DOMAIN-SUFFIX,10minutemail.com,PROXY
 DOMAIN-SUFFIX,1337x.to,PROXY
 DOMAIN-SUFFIX,4pda.to,PROXY
@@ -11,12 +12,14 @@ DOMAIN-SUFFIX,4pda.ws,PROXY
 DOMAIN-SUFFIX,7tv.app,PROXY
 DOMAIN-SUFFIX,amnezia.org,PROXY
 DOMAIN-SUFFIX,appstorrent.ru,PROXY
+DOMAIN-SUFFIX,calltouch.ru,REJECT-DROP
 DOMAIN-SUFFIX,camunda.com,PROXY
 DOMAIN-SUFFIX,canva.com,PROXY
 DOMAIN-SUFFIX,cisco.com,PROXY
 DOMAIN-SUFFIX,clamav.net,PROXY
 DOMAIN-SUFFIX,codeium.com,PROXY
 DOMAIN-SUFFIX,colombodesign.com,PROXY
+DOMAIN-SUFFIX,data-ai.microsoft.com,PROXY
 DOMAIN-SUFFIX,deviantart.com,PROXY
 DOMAIN-SUFFIX,devops.com,PROXY
 DOMAIN-SUFFIX,dw.com,PROXY
@@ -83,11 +86,11 @@ DOMAIN-SUFFIX,utterly.app,PROXY
 DOMAIN-SUFFIX,wetransfer.com,PROXY
 DOMAIN-SUFFIX,wheather.com,PROXY
 
-DOMAIN,copilot-proxy.githubusercontent.com,PROXY
+# A-GPS Broadcom
+DOMAIN-SUFFIX,glpals.com,PROXY
 
 # A-GPS Qualcomm
 IP-CIDR,18.66.97.0/24,PROXY
-# A-GPS Broadcom
-DOMAIN-SUFFIX,glpals.com,PROXY
+
 # AnthropicPBC
 IP-CIDR,160.79.104.0/23,PROXY

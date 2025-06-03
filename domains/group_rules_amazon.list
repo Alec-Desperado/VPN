@@ -1,6 +1,6 @@
 # Name: group_rules_amazon
-# Updated: 2025-05-27 20:49:57 UTC
-# Total: 1988
+# Updated: 2025-05-29 23:46:59 UTC
+# Total: 1981
 
 DOMAIN,URL-REGEX,^https?:\/\/www\.amazon\.com\/(Amazon-Video|gp\/video)\/
 DOMAIN,atv-ps.amazon.com
@@ -11,8 +11,6 @@ DOMAIN,d25xi40x97liuc.cloudfront.net
 DOMAIN,d27xxe7juh1us6.cloudfront.net
 DOMAIN,dmqdd6hw24ucf.cloudfront.net
 DOMAIN,fls-na.amazon.com
-DOMAIN,images-cn-8.ssl-images-amazon.com
-DOMAIN,images-cn.ssl-images-amazon.com
 DOMAIN,www.amazon.com
 DOMAIN-KEYWORD,avoddashs
 DOMAIN-SUFFIX,a2z.com
@@ -95,9 +93,6 @@ DOMAIN-SUFFIX,amplifyframework.com
 DOMAIN-SUFFIX,amzn.asia
 DOMAIN-SUFFIX,amzn.com
 DOMAIN-SUFFIX,amzn.to
-DOMAIN-SUFFIX,amzndns-cn.biz
-DOMAIN-SUFFIX,amzndns-cn.com
-DOMAIN-SUFFIX,amzndns-cn.net
 DOMAIN-SUFFIX,amzndns.co.uk
 DOMAIN-SUFFIX,amzndns.com
 DOMAIN-SUFFIX,amzndns.net
@@ -128,7 +123,6 @@ DOMAIN-SUFFIX,awstrack.me
 DOMAIN-SUFFIX,awstrust.com
 DOMAIN-SUFFIX,boxofficemojo.com
 DOMAIN-SUFFIX,cdkworkshop.com
-DOMAIN-SUFFIX,cloudfront-cn.net
 DOMAIN-SUFFIX,cloudfront.com
 DOMAIN-SUFFIX,cloudfront.net
 DOMAIN-SUFFIX,containersonaws.com
@@ -1987,6 +1981,5 @@ IP-CIDR,99.86.0.0/16,no-resolve
 IP-CIDR,99.87.0.0/19,no-resolve
 IP-CIDR,99.87.32.0/22,no-resolve
 URL-REGEX,.+\.awsdns-[0-9][0-9]\.(co\.uk|com|net|org)$
-URL-REGEX,.+\.awsdns-cn-[0-9][0-9]\.(biz|com|net|top)$
 USER-AGENT,InstantVideo.US*
 USER-AGENT,Prime%20Video*
