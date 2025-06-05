@@ -1,34 +1,22 @@
-#!name = 💯DNS mapping
-#!desc = 1.Specific domain names are resolved using the specified DNS 2.Special addresses are resolved using canonical DNS
-#!icon = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Server.png
-#!author = B3TT3R
-#!homepage = https://github.com/VirgilClyne/GetSomeFries/wiki/🌐-DNS
-#!update = 2025-03-20
+#!name=DNS mapping
+#!desc=1.Specific domain names are resolved using the specified DNS 2.Special addresses are resolved using canonical DNS
+#!author=
+#!updated=2025-06-05 19:13:05 UTC
+#!homepage=
+#!moduleurl=https://raw.githubusercontent.com/Alec-Desperado/VPN/refs/heads/main/modules/DNS.sgmodule
+#!icon=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Server.png
+#!category=General
 
 [Host]
-# --- CUSTOM DNS ---
+# --- CUSTOM HOSTS ---
 # > Encrypted DNS
 dns.google = 8.8.8.8, 8.8.4.4, 2001:4860:4860::8888, 2001:4860:4860::8844 // https://dns.google/dns-query
 dns64.dns.google = 2001:4860:4860::6464, 2001:4860:4860::64 // https://dns64.dns.google/dns-query
 cloudflare-dns.com = 104.16.249.249, 104.16.248.249, 2606:4700::6810:f8f9, 2606:4700::6810:f9f9 // https://cloudflare-dns.com/dns-query
 1dot1dot1dot1.cloudflare-dns.com = 1.1.1.1, 1.0.0.1, 2606:4700:4700::1001, 2606:4700:4700::1111 // 1dot1dot1dot1.cloudflare-dns.com:853
 one.one.one.one = 1.1.1.1, 1.0.0.1, 2606:4700:4700::1001, 2606:4700:4700::1111  // one.one.one.one:853
-dns.alidns.com = 223.5.5.5, 223.6.6.6, 2400:3200:baba::1, 2400:3200::1 // https://dns.alidns.com/dns-query
-doh.pub = 1.12.12.12, 120.53.53.53 // https://doh.pub/dns-query
-dot.pub = 1.12.12.12, 120.53.53.53 // dot.pub:853
-doh.360.cn = 23.6.48.18, 112.65.69.15 // https://doh.360.cn/dns-query
-dot.360.cn = 101.198.198.198, 101.198.199.200, 101.198.192.33, 112.65.69.15 // dot.360.cn:853
-dns.twnic.tw = 101.101.101.101, 2001:de4::101, 2001:de4::102 // https://dns.twnic.tw/dns-query
-ordns.he.net = 74.82.42.42, 2001:470:20::2 // https://ordns.he.net/dns-query
 
-# Synology Router
-*.router.synology.com = server:system
-# Asus Router
-*.router.asus.com = server:system
-# 小米 Mi WiFi Router
-*.www.miwifi.com = server:system
-*.miwifi.com = server:system
-
+# --- CUSTOM DNS ---
 # > Apple
 # refer: https://support.apple.com/zh-cn/HT210060
 *.networking.apple = server:https://doh.dns.apple.com/dns-query
@@ -42,11 +30,13 @@ ordns.he.net = 74.82.42.42, 2001:470:20::2 // https://ordns.he.net/dns-query
 *.netcts.cdn-apple.com = server:https://doh.dns.apple.com/dns-query
 *.apple-mapkit.com = server:https://doh.dns.apple.com/dns-query
 
+
 # > Router/system DNS
 *.lan = server:system
 *.home.arpa = server:system
-*.router.asus.com = server:system
+*.in-addr.arpa = server:system
 *.repeater.asus.com = server:system
+*.router.asus.com = server:system
 *.asusrouter.com = server:system
 *.routerlogin.net = server:system
 *.tendawifi.com = server:system
@@ -54,9 +44,12 @@ ordns.he.net = 74.82.42.42, 2001:470:20::2 // https://ordns.he.net/dns-query
 *.tplogin.cn = server:system
 *.tplinkap.net = server:system
 *.tplinkeap.net = server:system
+*.tplinklogin.net = server:system
 *.tplinkmodem.net = server:system
 *.tplinkplclogin.net = server:system
 *.tplinkrepeater.net = server:system
+*.www.miwifi.com = server:system
+*.mediarouter.home = server:system
 *.miwifi.com = server:system
 *.zte.home = server:system
 *.ui.direct = server:system
@@ -65,4 +58,4 @@ ordns.he.net = 74.82.42.42, 2001:470:20::2 // https://ordns.he.net/dns-query
 *.my.router = server:system
 *.routerlogin.com = server:system
 *.samsung.router = server:system
-*.in-addr.arpa = server:system
+*.router.synology.com = server:system
