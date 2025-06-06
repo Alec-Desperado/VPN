@@ -1,7 +1,7 @@
 #!name=DNS mapping
 #!desc=1.Specific domain names are resolved using the specified DNS 2.Special addresses are resolved using canonical DNS
 #!author=
-#!updated=2025-06-05 19:13:05 UTC
+#!updated=2025-06-06 22:41:54 UTC
 #!homepage=
 #!moduleurl=https://raw.githubusercontent.com/Alec-Desperado/VPN/refs/heads/main/modules/DNS.sgmodule
 #!icon=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Server.png

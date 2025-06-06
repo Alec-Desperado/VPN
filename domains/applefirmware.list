@@ -1,9 +1,8 @@
 # Name: applefirmware
-# Updated: 2025-05-29 23:47:36 UTC
-# Total: 147
+# Updated: 2025-06-06 22:31:23 UTC
+# Total: 142
 
 DOMAIN-SUFFIX,12diasdepresentesdeitunes.com
-DOMAIN-SUFFIX,12diasderegalosdeitunes.cl
 DOMAIN-SUFFIX,12diasderegalosdeitunes.co
 DOMAIN-SUFFIX,12diasderegalosdeitunes.co.cr
 DOMAIN-SUFFIX,12diasderegalosdeitunes.co.ni
@@ -16,7 +15,6 @@ DOMAIN-SUFFIX,12diasderegalosdeitunes.com.ve
 DOMAIN-SUFFIX,12diasderegalosdeitunes.cr
 DOMAIN-SUFFIX,12diasderegalosdeitunes.gt
 DOMAIN-SUFFIX,12diasderegalosdeitunes.hn
-DOMAIN-SUFFIX,12diasderegalosdeitunes.pe
 DOMAIN-SUFFIX,12joursdecadeauxdeitunes.com
 DOMAIN-SUFFIX,aaplimg.com
 DOMAIN-SUFFIX,app-store.wang
@@ -77,17 +75,15 @@ DOMAIN-SUFFIX,darwinsource.org
 DOMAIN-SUFFIX,darwinsourcecode.com
 DOMAIN-SUFFIX,icloud-content.com
 DOMAIN-SUFFIX,icloud-isupport.com
+DOMAIN-SUFFIX,icloud-sandbox.com
 DOMAIN-SUFFIX,icloud.ch
 DOMAIN-SUFFIX,icloud.com
 DOMAIN-SUFFIX,icloud.com.akadns.net
 DOMAIN-SUFFIX,icloud.de
-DOMAIN-SUFFIX,icloud.ee
-DOMAIN-SUFFIX,icloud.fi
 DOMAIN-SUFFIX,icloud.fr
 DOMAIN-SUFFIX,icloud.hu
 DOMAIN-SUFFIX,icloud.ie
 DOMAIN-SUFFIX,icloud.is
-DOMAIN-SUFFIX,icloud.lv
 DOMAIN-SUFFIX,icloud.om
 DOMAIN-SUFFIX,icloud.org
 DOMAIN-SUFFIX,icloud.pt
@@ -119,7 +115,6 @@ DOMAIN-SUFFIX,itunbes.com
 DOMAIN-SUFFIX,ituneas.com
 DOMAIN-SUFFIX,itunes-apple.com.akadns.net
 DOMAIN-SUFFIX,itunes-radio.net
-DOMAIN-SUFFIX,itunes.ca
 DOMAIN-SUFFIX,itunes.co
 DOMAIN-SUFFIX,itunes.co.th
 DOMAIN-SUFFIX,itunes.com

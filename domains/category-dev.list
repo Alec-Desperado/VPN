@@ -1,6 +1,6 @@
 # Name: category-dev
-# Updated: 2025-05-29 23:51:12 UTC
-# Total: 500
+# Updated: 2025-06-06 22:35:01 UTC
+# Total: 499
 
 DOMAIN,amp.akamaized.net
 DOMAIN,android.googlesource.com
@@ -307,7 +307,6 @@ DOMAIN-SUFFIX,mingw.org
 DOMAIN-SUFFIX,mmdnn.com
 DOMAIN-SUFFIX,mobatek.net
 DOMAIN-SUFFIX,mochajs.org
-DOMAIN-SUFFIX,modperl.pl
 DOMAIN-SUFFIX,mongodb.com
 DOMAIN-SUFFIX,mongodb.org
 DOMAIN-SUFFIX,mono-project.com

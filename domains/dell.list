@@ -1,6 +1,6 @@
 # Name: dell
-# Updated: 2025-05-29 23:53:41 UTC
-# Total: 119
+# Updated: 2025-06-06 22:37:32 UTC
+# Total: 117
 
 DOMAIN,vmware.tt.omtrdc.net
 DOMAIN-SUFFIX,air-watch.com
@@ -37,9 +37,7 @@ DOMAIN-SUFFIX,dell.co.kr
 DOMAIN-SUFFIX,dell.co.nz
 DOMAIN-SUFFIX,dell.co.th
 DOMAIN-SUFFIX,dell.com
-DOMAIN-SUFFIX,dell.com.au
 DOMAIN-SUFFIX,dell.com.my
-DOMAIN-SUFFIX,dell.com.sg
 DOMAIN-SUFFIX,dellcdn.com
 DOMAIN-SUFFIX,dellsupportcenter.com
 DOMAIN-SUFFIX,delltechnologies.com

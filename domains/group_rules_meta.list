@@ -1,6 +1,6 @@
 # Name: group_rules_meta
-# Updated: 2025-05-29 23:56:59 UTC
-# Total: 585
+# Updated: 2025-06-06 22:40:53 UTC
+# Total: 582
 
 DOMAIN,developers.facebook.com
 DOMAIN,fbcdn-a.akamaihd.net
@@ -116,8 +116,6 @@ DOMAIN-SUFFIX,facebook-studio.com
 DOMAIN-SUFFIX,facebook-support.org
 DOMAIN-SUFFIX,facebook-texas-holdem.com
 DOMAIN-SUFFIX,facebook-texas-holdem.net
-DOMAIN-SUFFIX,facebook.br
-DOMAIN-SUFFIX,facebook.ca
 DOMAIN-SUFFIX,facebook.cc
 DOMAIN-SUFFIX,facebook.com
 DOMAIN-SUFFIX,facebook.design
@@ -423,7 +421,6 @@ DOMAIN-SUFFIX,instagda.com
 DOMAIN-SUFFIX,instagify.com
 DOMAIN-SUFFIX,instagmania.com
 DOMAIN-SUFFIX,instagor.com
-DOMAIN-SUFFIX,instagr.am
 DOMAIN-SUFFIX,instagram-brand.com
 DOMAIN-SUFFIX,instagram-engineering.com
 DOMAIN-SUFFIX,instagram-help.com

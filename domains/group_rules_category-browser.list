@@ -1,6 +1,6 @@
 # Name: group_rules_category-browser
-# Updated: 2025-05-29 23:49:02 UTC
-# Total: 120
+# Updated: 2025-06-06 22:32:50 UTC
+# Total: 117
 
 DOMAIN,mdn.mozillademos.org
 DOMAIN-SUFFIX,1npq4.tk
@@ -34,7 +34,6 @@ DOMAIN-SUFFIX,duck.co
 DOMAIN-SUFFIX,duck.com
 DOMAIN-SUFFIX,duckduckco.com
 DOMAIN-SUFFIX,duckduckco.de
-DOMAIN-SUFFIX,duckduckgo.ca
 DOMAIN-SUFFIX,duckduckgo.co
 DOMAIN-SUFFIX,duckduckgo.co.uk
 DOMAIN-SUFFIX,duckduckgo.com
@@ -46,8 +45,6 @@ DOMAIN-SUFFIX,duckduckgo.ke
 DOMAIN-SUFFIX,duckduckgo.mx
 DOMAIN-SUFFIX,duckduckgo.nl
 DOMAIN-SUFFIX,duckduckgo.org
-DOMAIN-SUFFIX,duckduckgo.pl
-DOMAIN-SUFFIX,duckduckgo.sg
 DOMAIN-SUFFIX,duckduckgo.uk
 DOMAIN-SUFFIX,duckduckhack.com
 DOMAIN-SUFFIX,duckgo.com

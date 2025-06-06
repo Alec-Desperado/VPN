@@ -1,6 +1,6 @@
 # Name: category-ntp
-# Updated: 2025-05-29 23:55:19 UTC
-# Total: 61
+# Updated: 2025-06-06 22:39:12 UTC
+# Total: 60
 
 DOMAIN,ntp-b.nist.gov
 DOMAIN,ntp-c.colorado.edu
@@ -62,4 +62,3 @@ DOMAIN-SUFFIX,ntp.ufe.cz
 DOMAIN-SUFFIX,ntp1.wakwak.com
 DOMAIN-SUFFIX,ntp2.wakwak.com
 DOMAIN-SUFFIX,pool.ntp.org
-DOMAIN-SUFFIX,time.nrc.ca

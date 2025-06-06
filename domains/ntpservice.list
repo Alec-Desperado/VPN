@@ -1,9 +1,10 @@
 # Name: ntpservice
-# Updated: 2025-05-29 23:55:19 UTC
+# Updated: 2025-06-06 22:39:12 UTC
 # Total: 55
 
 DOMAIN-SUFFIX,ntp.aliyun.com
 DOMAIN-SUFFIX,ntp.cloud.aliyuncs.com
+DOMAIN-SUFFIX,ntp.tencent.com
 DOMAIN-SUFFIX,ntp1.aliyun.com
 DOMAIN-SUFFIX,ntp1.cloud.aliyuncs.com
 DOMAIN-SUFFIX,ntp10.cloud.aliyuncs.com
@@ -25,7 +26,6 @@ DOMAIN-SUFFIX,ntp8.cloud.aliyuncs.com
 DOMAIN-SUFFIX,ntp9.cloud.aliyuncs.com
 DOMAIN-SUFFIX,pool.ntp.org
 DOMAIN-SUFFIX,time.apple.com
-DOMAIN-SUFFIX,time.asia.apple.com
 DOMAIN-SUFFIX,time.nist.gov
 DOMAIN-SUFFIX,time.pool.aliyun.com
 DOMAIN-SUFFIX,time.windows.com

@@ -1,6 +1,6 @@
 # Name: fox
-# Updated: 2025-05-29 23:55:15 UTC
-# Total: 260
+# Updated: 2025-06-06 22:39:08 UTC
+# Total: 250
 
 DOMAIN,foxnewsplayer-a.akamaihd.net
 DOMAIN-SUFFIX,afewmomentswith.com
@@ -141,26 +141,17 @@ DOMAIN-SUFFIX,foxsoccershop.com
 DOMAIN-SUFFIX,foxsports-chicago.com
 DOMAIN-SUFFIX,foxsports-newyork.com
 DOMAIN-SUFFIX,foxsports-world.com
-DOMAIN-SUFFIX,foxsports.cl
 DOMAIN-SUFFIX,foxsports.co
 DOMAIN-SUFFIX,foxsports.co.ve
 DOMAIN-SUFFIX,foxsports.com
-DOMAIN-SUFFIX,foxsports.com.ar
-DOMAIN-SUFFIX,foxsports.com.bo
-DOMAIN-SUFFIX,foxsports.com.br
 DOMAIN-SUFFIX,foxsports.com.co
-DOMAIN-SUFFIX,foxsports.com.ec
 DOMAIN-SUFFIX,foxsports.com.gt
 DOMAIN-SUFFIX,foxsports.com.mx
-DOMAIN-SUFFIX,foxsports.com.pe
-DOMAIN-SUFFIX,foxsports.com.py
 DOMAIN-SUFFIX,foxsports.com.uy
 DOMAIN-SUFFIX,foxsports.com.ve
 DOMAIN-SUFFIX,foxsports.gt
 DOMAIN-SUFFIX,foxsports.info
 DOMAIN-SUFFIX,foxsports.net
-DOMAIN-SUFFIX,foxsports.net.br
-DOMAIN-SUFFIX,foxsports.pe
 DOMAIN-SUFFIX,foxsports.sv
 DOMAIN-SUFFIX,foxsports.uy
 DOMAIN-SUFFIX,foxsports01-i.akamaihd.net
@@ -179,7 +170,6 @@ DOMAIN-SUFFIX,foxsportsworld.com
 DOMAIN-SUFFIX,foxstudiolot.com
 DOMAIN-SUFFIX,foxsuper6.com
 DOMAIN-SUFFIX,foxtel.com
-DOMAIN-SUFFIX,foxtel.com.au
 DOMAIN-SUFFIX,foxtelevisionstations.com
 DOMAIN-SUFFIX,foxtv.com
 DOMAIN-SUFFIX,foxtvdvd.com

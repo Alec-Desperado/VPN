@@ -1,6 +1,6 @@
 # Name: category-communication
-# Updated: 2025-05-29 23:49:31 UTC
-# Total: 117
+# Updated: 2025-06-06 22:33:19 UTC
+# Total: 115
 
 DOMAIN,discord-attachments-uploads-prd.storage.googleapis.com
 DOMAIN,hammerandchisel.ssl.zendesk.com
@@ -52,7 +52,6 @@ DOMAIN-SUFFIX,intercomcdn.com
 DOMAIN-SUFFIX,joinclubhouse.com
 DOMAIN-SUFFIX,keybase.io
 DOMAIN-SUFFIX,keybaseapi.com
-DOMAIN-SUFFIX,lin.ee
 DOMAIN-SUFFIX,line-apps-beta.com
 DOMAIN-SUFFIX,line-apps-rc.com
 DOMAIN-SUFFIX,line-apps.com
@@ -101,7 +100,6 @@ DOMAIN-SUFFIX,telegram.dog
 DOMAIN-SUFFIX,telegram.me
 DOMAIN-SUFFIX,telegram.org
 DOMAIN-SUFFIX,telegram.space
-DOMAIN-SUFFIX,telesco.pe
 DOMAIN-SUFFIX,tg.dev
 DOMAIN-SUFFIX,tx.me
 DOMAIN-SUFFIX,usercontent.dev

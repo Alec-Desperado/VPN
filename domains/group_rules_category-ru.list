@@ -1,6 +1,6 @@
 # Name: group_rules_category-ru
-# Updated: 2025-05-29 23:55:35 UTC
-# Total: 231
+# Updated: 2025-06-06 22:39:28 UTC
+# Total: 223
 
 DOMAIN-SUFFIX,adygeya.ru
 DOMAIN-SUFFIX,altai.ru
@@ -177,37 +177,19 @@ DOMAIN-SUFFIX,yamal.ru
 DOMAIN-SUFFIX,yandex
 DOMAIN-SUFFIX,yandex-bank.net
 DOMAIN-SUFFIX,yandex-images.clstorage.net
-DOMAIN-SUFFIX,yandex.aero
-DOMAIN-SUFFIX,yandex.az
 DOMAIN-SUFFIX,yandex.by
-DOMAIN-SUFFIX,yandex.co.il
 DOMAIN-SUFFIX,yandex.com
-DOMAIN-SUFFIX,yandex.com.am
-DOMAIN-SUFFIX,yandex.com.ge
 DOMAIN-SUFFIX,yandex.com.ru
-DOMAIN-SUFFIX,yandex.com.tr
 DOMAIN-SUFFIX,yandex.com.ua
 DOMAIN-SUFFIX,yandex.de
-DOMAIN-SUFFIX,yandex.ee
 DOMAIN-SUFFIX,yandex.eu
-DOMAIN-SUFFIX,yandex.fi
 DOMAIN-SUFFIX,yandex.fr
 DOMAIN-SUFFIX,yandex.jobs
-DOMAIN-SUFFIX,yandex.kg
-DOMAIN-SUFFIX,yandex.kz
-DOMAIN-SUFFIX,yandex.lt
-DOMAIN-SUFFIX,yandex.lv
 DOMAIN-SUFFIX,yandex.md
 DOMAIN-SUFFIX,yandex.net
 DOMAIN-SUFFIX,yandex.org
-DOMAIN-SUFFIX,yandex.pl
 DOMAIN-SUFFIX,yandex.ru
-DOMAIN-SUFFIX,yandex.st
-DOMAIN-SUFFIX,yandex.sx
-DOMAIN-SUFFIX,yandex.tj
-DOMAIN-SUFFIX,yandex.tm
 DOMAIN-SUFFIX,yandex.ua
-DOMAIN-SUFFIX,yandex.uz
 DOMAIN-SUFFIX,yandexadexchange.net
 DOMAIN-SUFFIX,yandexcloud.net
 DOMAIN-SUFFIX,yandexcom.net
@@ -215,6 +197,16 @@ DOMAIN-SUFFIX,yandexwebcache.org
 DOMAIN-SUFFIX,yaroslavl.ru
 DOMAIN-SUFFIX,yastatic.net
 DOMAIN-SUFFIX,yuzhno-sakhalinsk.ru
+AS12389
+AS12714
+AS25513
+AS31200
+AS3216
+AS42610
+AS49505
+AS8342
+AS8359
+AS8402
 IP-CIDR,100.43.64.0/19,no-resolve
 IP-CIDR,141.8.128.0/18,no-resolve
 IP-CIDR,178.154.128.0/18,no-resolve

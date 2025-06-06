@@ -1,6 +1,6 @@
 # Name: icloud
-# Updated: 2025-05-29 23:47:36 UTC
-# Total: 56
+# Updated: 2025-06-06 22:31:23 UTC
+# Total: 53
 
 DOMAIN,www-cdn.icloud.com.akadns.net
 DOMAIN-SUFFIX,apple-cloudkit.com
@@ -16,13 +16,10 @@ DOMAIN-SUFFIX,icloud.apple.com
 DOMAIN-SUFFIX,icloud.ch
 DOMAIN-SUFFIX,icloud.com
 DOMAIN-SUFFIX,icloud.de
-DOMAIN-SUFFIX,icloud.ee
-DOMAIN-SUFFIX,icloud.fi
 DOMAIN-SUFFIX,icloud.fr
 DOMAIN-SUFFIX,icloud.hu
 DOMAIN-SUFFIX,icloud.ie
 DOMAIN-SUFFIX,icloud.is
-DOMAIN-SUFFIX,icloud.lv
 DOMAIN-SUFFIX,icloud.om
 DOMAIN-SUFFIX,icloud.org
 DOMAIN-SUFFIX,icloud.pt

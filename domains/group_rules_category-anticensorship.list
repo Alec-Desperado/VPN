@@ -1,9 +1,8 @@
 # Name: group_rules_category-anticensorship
-# Updated: 2025-05-29 23:48:49 UTC
-# Total: 92
+# Updated: 2025-06-06 22:32:36 UTC
+# Total: 89
 
 DOMAIN-SUFFIX,4everland.io
-DOMAIN-SUFFIX,ahmia.fi
 DOMAIN-SUFFIX,akasha.world
 DOMAIN-SUFFIX,applecensorship.com
 DOMAIN-SUFFIX,browserleaks.com
@@ -12,7 +11,6 @@ DOMAIN-SUFFIX,c4rex.co
 DOMAIN-SUFFIX,censorship.ai
 DOMAIN-SUFFIX,censorship.no
 DOMAIN-SUFFIX,cf-ipfs.com
-DOMAIN-SUFFIX,citizenlab.ca
 DOMAIN-SUFFIX,citizenlab.org
 DOMAIN-SUFFIX,cloudflare-ipfs.com
 DOMAIN-SUFFIX,crustwebsites.net
@@ -63,7 +61,6 @@ DOMAIN-SUFFIX,pao-pao.net
 DOMAIN-SUFFIX,paskoocheh.com
 DOMAIN-SUFFIX,privacytools.io
 DOMAIN-SUFFIX,proxifier.com
-DOMAIN-SUFFIX,psiphon.ca
 DOMAIN-SUFFIX,psiphon3.com
 DOMAIN-SUFFIX,pwnedpasswords.com
 DOMAIN-SUFFIX,sagernet.org

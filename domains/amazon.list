@@ -1,19 +1,17 @@
 # Name: amazon
-# Updated: 2025-05-29 23:46:59 UTC
-# Total: 185
+# Updated: 2025-06-06 22:30:46 UTC
+# Total: 176
 
 DOMAIN,URL-REGEX,^https?:\/\/www\.amazon\.com\/(Amazon-Video|gp\/video)\/
 DOMAIN-SUFFIX,a2z.com
 DOMAIN-SUFFIX,aboutamazon.co.uk
 DOMAIN-SUFFIX,aboutamazon.com
-DOMAIN-SUFFIX,aboutamazon.com.au
 DOMAIN-SUFFIX,aboutamazon.de
 DOMAIN-SUFFIX,aboutamazon.es
 DOMAIN-SUFFIX,aboutamazon.eu
 DOMAIN-SUFFIX,aboutamazon.fr
 DOMAIN-SUFFIX,aboutamazon.in
 DOMAIN-SUFFIX,aboutamazon.it
-DOMAIN-SUFFIX,aboutamazon.pl
 DOMAIN-SUFFIX,acmvalidations.com
 DOMAIN-SUFFIX,acmvalidationsaws.com
 DOMAIN-SUFFIX,aesworkshops.com
@@ -27,14 +25,9 @@ DOMAIN-SUFFIX,amazon-fashions.com
 DOMAIN-SUFFIX,amazon-jp-recruiting.com
 DOMAIN-SUFFIX,amazon-lantern.com
 DOMAIN-SUFFIX,amazon-launchpad.com
-DOMAIN-SUFFIX,amazon.ae
-DOMAIN-SUFFIX,amazon.ca
 DOMAIN-SUFFIX,amazon.co.uk
 DOMAIN-SUFFIX,amazon.com
-DOMAIN-SUFFIX,amazon.com.au
-DOMAIN-SUFFIX,amazon.com.br
 DOMAIN-SUFFIX,amazon.com.mx
-DOMAIN-SUFFIX,amazon.com.tr
 DOMAIN-SUFFIX,amazon.de
 DOMAIN-SUFFIX,amazon.dev
 DOMAIN-SUFFIX,amazon.es
@@ -44,7 +37,6 @@ DOMAIN-SUFFIX,amazon.it
 DOMAIN-SUFFIX,amazon.jobs
 DOMAIN-SUFFIX,amazon.nl
 DOMAIN-SUFFIX,amazon.red
-DOMAIN-SUFFIX,amazon.sg
 DOMAIN-SUFFIX,amazonalexavoxcon.com
 DOMAIN-SUFFIX,amazonauthorinsights.com
 DOMAIN-SUFFIX,amazonaws-china.com
@@ -80,7 +72,6 @@ DOMAIN-SUFFIX,amazonvideodirect.com
 DOMAIN-SUFFIX,amazonworkdocs.com
 DOMAIN-SUFFIX,amplifyapp.com
 DOMAIN-SUFFIX,amplifyframework.com
-DOMAIN-SUFFIX,amzn.asia
 DOMAIN-SUFFIX,amzn.com
 DOMAIN-SUFFIX,amzn.to
 DOMAIN-SUFFIX,amzndns.co.uk

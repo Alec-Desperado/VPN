@@ -1,11 +1,14 @@
 # Name: xbox
-# Updated: 2025-05-29 23:57:20 UTC
-# Total: 46
+# Updated: 2025-06-06 22:41:17 UTC
+# Total: 50
 
+DOMAIN,flightsimulator.azureedge.net
 DOMAIN,img-prod-cms-rt-microsoft-com.akamaized.net
 DOMAIN,login.live.com
 DOMAIN,logincdn.msauth.net
+DOMAIN,prodforza.blob.core.windows.net
 DOMAIN,store-images.s-microsoft.com
+DOMAIN-SUFFIX,asobostudio.com
 DOMAIN-SUFFIX,beth.games
 DOMAIN-SUFFIX,bethesda.net
 DOMAIN-SUFFIX,bethesdagamestudios.com
@@ -13,6 +16,8 @@ DOMAIN-SUFFIX,bethsoft.com
 DOMAIN-SUFFIX,callersbane.com
 DOMAIN-SUFFIX,doom.com
 DOMAIN-SUFFIX,elderscrolls.com
+DOMAIN-SUFFIX,flightsimulator.com
+DOMAIN-SUFFIX,forza.net
 DOMAIN-SUFFIX,forzamotorsport.net
 DOMAIN-SUFFIX,forzaracingchampionship.com
 DOMAIN-SUFFIX,forzarc.com
@@ -47,4 +52,3 @@ DOMAIN-SUFFIX,xboxplayanywhere.com
 DOMAIN-SUFFIX,xboxservice.com
 DOMAIN-SUFFIX,xboxservices.com
 DOMAIN-SUFFIX,xboxstudios.com
-DOMAIN-SUFFIX,xbx.lv

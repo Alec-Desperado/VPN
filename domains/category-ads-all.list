@@ -1,6 +1,6 @@
 # Name: category-ads-all
-# Updated: 2025-05-29 23:48:33 UTC
-# Total: 549
+# Updated: 2025-06-06 22:32:20 UTC
+# Total: 547
 
 DOMAIN,643108e7617ef.cdn.sohucs.com
 DOMAIN,adeventtracker.spotify.com
@@ -382,7 +382,6 @@ DOMAIN-SUFFIX,mobilemsg.youku.com
 DOMAIN-SUFFIX,mobwithad.com
 DOMAIN-SUFFIX,mopub.com
 DOMAIN-SUFFIX,mpush.qq.com
-DOMAIN-SUFFIX,msg.71.am
 DOMAIN-SUFFIX,msg.m.letv.com
 DOMAIN-SUFFIX,msg.video.qiyi.com
 DOMAIN-SUFFIX,msg.youku.com
@@ -403,7 +402,6 @@ DOMAIN-SUFFIX,openx.net
 DOMAIN-SUFFIX,openxadexchange.com
 DOMAIN-SUFFIX,openxcdn.net
 DOMAIN-SUFFIX,openxenterprise.com
-DOMAIN-SUFFIX,openxmarket.asia
 DOMAIN-SUFFIX,osfota.cdn.aliyun.com
 DOMAIN-SUFFIX,osupdate.aliyun.com
 DOMAIN-SUFFIX,osupdateservice.yunos.com

@@ -1,6 +1,6 @@
 # Name: group_rules_category-media
-# Updated: 2025-05-29 23:55:15 UTC
-# Total: 1276
+# Updated: 2025-06-06 22:39:08 UTC
+# Total: 1173
 
 DOMAIN,aod-dash-uk-live.akamaized.net
 DOMAIN,aod-hls-uk-live.akamaized.net
@@ -30,22 +30,17 @@ DOMAIN,vs-hls-pushb-uk-live.akamaized.net
 DOMAIN,zeenews-fonts.s3.amazonaws.com
 DOMAIN-KEYWORD,bbcfmt
 DOMAIN-KEYWORD,uk-live
-DOMAIN-SUFFIX,1degree.com.au
 DOMAIN-SUFFIX,4gtv.tv
 DOMAIN-SUFFIX,6park.com
 DOMAIN-SUFFIX,6parkbbs.com
 DOMAIN-SUFFIX,6parknews.com
 DOMAIN-SUFFIX,881903.com
 DOMAIN-SUFFIX,9cdn.net
-DOMAIN-SUFFIX,9nation.com.au
-DOMAIN-SUFFIX,9news.com.au
-DOMAIN-SUFFIX,9now.com.au
 DOMAIN-SUFFIX,9to5google.com
 DOMAIN-SUFFIX,9to5mac.com
 DOMAIN-SUFFIX,9to5terminal.com
 DOMAIN-SUFFIX,9to5toys.com
 DOMAIN-SUFFIX,aboluowang.com
-DOMAIN-SUFFIX,adelaidenow.com.au
 DOMAIN-SUFFIX,adhelpnews.com
 DOMAIN-SUFFIX,afewmomentswith.com
 DOMAIN-SUFFIX,afp.com
@@ -85,7 +80,6 @@ DOMAIN-SUFFIX,azathabar.com
 DOMAIN-SUFFIX,azatliq.org
 DOMAIN-SUFFIX,azattyk.org
 DOMAIN-SUFFIX,azattyq.org
-DOMAIN-SUFFIX,azatutyun.am
 DOMAIN-SUFFIX,banned.video
 DOMAIN-SUFFIX,bannedbook.net
 DOMAIN-SUFFIX,bannedbook.org
@@ -118,7 +112,6 @@ DOMAIN-SUFFIX,bbthat.com
 DOMAIN-SUFFIX,benliton.com
 DOMAIN-SUFFIX,bentobox.tv
 DOMAIN-SUFFIX,bestmallawards.com
-DOMAIN-SUFFIX,bestrecipes.com.au
 DOMAIN-SUFFIX,bgov.com
 DOMAIN-SUFFIX,bgr.in
 DOMAIN-SUFFIX,bidi.net.uk
@@ -127,7 +120,6 @@ DOMAIN-SUFFIX,bigcharts.com
 DOMAIN-SUFFIX,bloomberg
 DOMAIN-SUFFIX,bloomberg.co.kr
 DOMAIN-SUFFIX,bloomberg.com
-DOMAIN-SUFFIX,bloomberg.com.br
 DOMAIN-SUFFIX,bloomberg.fm
 DOMAIN-SUFFIX,bloomberg.tv
 DOMAIN-SUFFIX,bloombergapps.com
@@ -168,7 +160,6 @@ DOMAIN-SUFFIX,blpevents.com
 DOMAIN-SUFFIX,blpprofessional.com
 DOMAIN-SUFFIX,bmia.org
 DOMAIN-SUFFIX,bnef.com
-DOMAIN-SUFFIX,bodyandsoul.com.au
 DOMAIN-SUFFIX,bollywoodlife.com
 DOMAIN-SUFFIX,bookclubgirl.com
 DOMAIN-SUFFIX,bowenpress.com
@@ -179,8 +170,6 @@ DOMAIN-SUFFIX,broadpressinc.com
 DOMAIN-SUFFIX,businessfocus.io
 DOMAIN-SUFFIX,businessinsider.co.za
 DOMAIN-SUFFIX,businessinsider.com
-DOMAIN-SUFFIX,businessinsider.com.au
-DOMAIN-SUFFIX,businessinsider.com.pl
 DOMAIN-SUFFIX,businessinsider.de
 DOMAIN-SUFFIX,businessinsider.es
 DOMAIN-SUFFIX,businessinsider.fr
@@ -188,14 +177,12 @@ DOMAIN-SUFFIX,businessinsider.in
 DOMAIN-SUFFIX,businessinsider.mx
 DOMAIN-SUFFIX,businessinsider.my
 DOMAIN-SUFFIX,businessinsider.nl
-DOMAIN-SUFFIX,businessinsider.sg
 DOMAIN-SUFFIX,businessweek.com
 DOMAIN-SUFFIX,businessweekmag.com
 DOMAIN-SUFFIX,bwbx.io
 DOMAIN-SUFFIX,c-span.org
 DOMAIN-SUFFIX,c-spanvideo.org
 DOMAIN-SUFFIX,caijinglengyan.com
-DOMAIN-SUFFIX,cairnspost.com.au
 DOMAIN-SUFFIX,careerfundas.com
 DOMAIN-SUFFIX,careerjournal.com
 DOMAIN-SUFFIX,casoneexchange.com
@@ -234,7 +221,6 @@ DOMAIN-SUFFIX,cnbc.com
 DOMAIN-SUFFIX,cnbcfm.com
 DOMAIN-SUFFIX,cnbeta.com
 DOMAIN-SUFFIX,cnbetacdn.com
-DOMAIN-SUFFIX,cnivogue.com.au
 DOMAIN-SUFFIX,cnn.com
 DOMAIN-SUFFIX,cnn.io
 DOMAIN-SUFFIX,cnn.it
@@ -251,7 +237,6 @@ DOMAIN-SUFFIX,collins.in
 DOMAIN-SUFFIX,cool18.com
 DOMAIN-SUFFIX,corepublishingsolutions.com
 DOMAIN-SUFFIX,coronavirusnow.com
-DOMAIN-SUFFIX,couriermail.com.au
 DOMAIN-SUFFIX,cricketcountry.com
 DOMAIN-SUFFIX,cstatic.net
 DOMAIN-SUFFIX,ctwant.com
@@ -266,17 +251,14 @@ DOMAIN-SUFFIX,dafahao.com
 DOMAIN-SUFFIX,dailym.ai
 DOMAIN-SUFFIX,dailymail.co.uk
 DOMAIN-SUFFIX,dailymail.com
-DOMAIN-SUFFIX,dailymail.com.au
 DOMAIN-SUFFIX,dailymail.dk
 DOMAIN-SUFFIX,dailymailonline.com
-DOMAIN-SUFFIX,dailytelegraph.com.au
 DOMAIN-SUFFIX,dajiyuan.com
 DOMAIN-SUFFIX,dajiyuan.eu
 DOMAIN-SUFFIX,dandalinvoa.com
 DOMAIN-SUFFIX,darivoa.com
 DOMAIN-SUFFIX,dashasiafox.akamaized.net
 DOMAIN-SUFFIX,dc8xl0ndzn2cb.cloudfront.net
-DOMAIN-SUFFIX,delicious.com.au
 DOMAIN-SUFFIX,dengeamerika.com
 DOMAIN-SUFFIX,dengiamerika.com
 DOMAIN-SUFFIX,dev-guardianapis.com
@@ -313,7 +295,6 @@ DOMAIN-SUFFIX,encoretvb.com
 DOMAIN-SUFFIX,engadget.com
 DOMAIN-SUFFIX,epicreads.com
 DOMAIN-SUFFIX,epoch.cloud
-DOMAIN-SUFFIX,epoch.org.il
 DOMAIN-SUFFIX,epochbase.com
 DOMAIN-SUFFIX,epochbuy.com
 DOMAIN-SUFFIX,epochcar.com
@@ -326,13 +307,9 @@ DOMAIN-SUFFIX,epochtime.com
 DOMAIN-SUFFIX,epochtimes-bg.com
 DOMAIN-SUFFIX,epochtimes-romania.com
 DOMAIN-SUFFIX,epochtimes.bg
-DOMAIN-SUFFIX,epochtimes.co.il
 DOMAIN-SUFFIX,epochtimes.co.kr
 DOMAIN-SUFFIX,epochtimes.co.uk
 DOMAIN-SUFFIX,epochtimes.com
-DOMAIN-SUFFIX,epochtimes.com.au
-DOMAIN-SUFFIX,epochtimes.com.br
-DOMAIN-SUFFIX,epochtimes.com.sg
 DOMAIN-SUFFIX,epochtimes.com.ua
 DOMAIN-SUFFIX,epochtimes.cz
 DOMAIN-SUFFIX,epochtimes.de
@@ -340,7 +317,6 @@ DOMAIN-SUFFIX,epochtimes.eu
 DOMAIN-SUFFIX,epochtimes.fr
 DOMAIN-SUFFIX,epochtimes.it
 DOMAIN-SUFFIX,epochtimes.nl
-DOMAIN-SUFFIX,epochtimes.pl
 DOMAIN-SUFFIX,epochtimes.ru
 DOMAIN-SUFFIX,epochtimes.se
 DOMAIN-SUFFIX,epochtimeshk.org
@@ -349,7 +325,6 @@ DOMAIN-SUFFIX,epochweek.com
 DOMAIN-SUFFIX,epochweekly.com
 DOMAIN-SUFFIX,erabaru.net
 DOMAIN-SUFFIX,es-visiontimes.com
-DOMAIN-SUFFIX,escape.com.au
 DOMAIN-SUFFIX,ettoday.net
 DOMAIN-SUFFIX,etviet.com
 DOMAIN-SUFFIX,etwealth.com
@@ -369,7 +344,6 @@ DOMAIN-SUFFIX,fayuanbooks.com
 DOMAIN-SUFFIX,fdiintelligence.com
 DOMAIN-SUFFIX,fgmtv.org
 DOMAIN-SUFFIX,financialadvisoriq.com
-DOMAIN-SUFFIX,flatmates.com.au
 DOMAIN-SUFFIX,fnlondon.com
 DOMAIN-SUFFIX,forbes.com
 DOMAIN-SUFFIX,forbesimg.com
@@ -504,26 +478,17 @@ DOMAIN-SUFFIX,foxsoccershop.com
 DOMAIN-SUFFIX,foxsports-chicago.com
 DOMAIN-SUFFIX,foxsports-newyork.com
 DOMAIN-SUFFIX,foxsports-world.com
-DOMAIN-SUFFIX,foxsports.cl
 DOMAIN-SUFFIX,foxsports.co
 DOMAIN-SUFFIX,foxsports.co.ve
 DOMAIN-SUFFIX,foxsports.com
-DOMAIN-SUFFIX,foxsports.com.ar
-DOMAIN-SUFFIX,foxsports.com.bo
-DOMAIN-SUFFIX,foxsports.com.br
 DOMAIN-SUFFIX,foxsports.com.co
-DOMAIN-SUFFIX,foxsports.com.ec
 DOMAIN-SUFFIX,foxsports.com.gt
 DOMAIN-SUFFIX,foxsports.com.mx
-DOMAIN-SUFFIX,foxsports.com.pe
-DOMAIN-SUFFIX,foxsports.com.py
 DOMAIN-SUFFIX,foxsports.com.uy
 DOMAIN-SUFFIX,foxsports.com.ve
 DOMAIN-SUFFIX,foxsports.gt
 DOMAIN-SUFFIX,foxsports.info
 DOMAIN-SUFFIX,foxsports.net
-DOMAIN-SUFFIX,foxsports.net.br
-DOMAIN-SUFFIX,foxsports.pe
 DOMAIN-SUFFIX,foxsports.sv
 DOMAIN-SUFFIX,foxsports.uy
 DOMAIN-SUFFIX,foxsports01-i.akamaihd.net
@@ -542,7 +507,6 @@ DOMAIN-SUFFIX,foxsportsworld.com
 DOMAIN-SUFFIX,foxstudiolot.com
 DOMAIN-SUFFIX,foxsuper6.com
 DOMAIN-SUFFIX,foxtel.com
-DOMAIN-SUFFIX,foxtel.com.au
 DOMAIN-SUFFIX,foxtelevisionstations.com
 DOMAIN-SUFFIX,foxtv.com
 DOMAIN-SUFFIX,foxtvdvd.com
@@ -550,7 +514,6 @@ DOMAIN-SUFFIX,foxuv.com
 DOMAIN-SUFFIX,foxweatherwatch.com
 DOMAIN-SUFFIX,freebeacon.com
 DOMAIN-SUFFIX,freedomplatform.tv
-DOMAIN-SUFFIX,freeviewplus.net.au
 DOMAIN-SUFFIX,fse.tv
 DOMAIN-SUFFIX,fssta.com
 DOMAIN-SUFFIX,ft.com
@@ -571,7 +534,6 @@ DOMAIN-SUFFIX,gannett.com
 DOMAIN-SUFFIX,gannettdigital.com
 DOMAIN-SUFFIX,gbnews.uk
 DOMAIN-SUFFIX,gclubs.com
-DOMAIN-SUFFIX,geelongadvertiser.com.au
 DOMAIN-SUFFIX,gendai.net
 DOMAIN-SUFFIX,geraldoatlarge.com
 DOMAIN-SUFFIX,gettr.com
@@ -582,7 +544,6 @@ DOMAIN-SUFFIX,globalriskregulator.com
 DOMAIN-SUFFIX,globalvoices.org
 DOMAIN-SUFFIX,globalvoicesonline.org
 DOMAIN-SUFFIX,gnews.org
-DOMAIN-SUFFIX,goldcoastbulletin.com.au
 DOMAIN-SUFFIX,golos-ameriki.ru
 DOMAIN-SUFFIX,golosameriki.com
 DOMAIN-SUFFIX,gooddaychicago.com
@@ -600,20 +561,16 @@ DOMAIN-SUFFIX,guimcode.co.uk
 DOMAIN-SUFFIX,guo.media
 DOMAIN-SUFFIX,gwiki.net
 DOMAIN-SUFFIX,gwins.org
-DOMAIN-SUFFIX,hackday.com.au
 DOMAIN-SUFFIX,harperacademic.com
 DOMAIN-SUFFIX,harperapps.com
-DOMAIN-SUFFIX,harpercollins.ca
 DOMAIN-SUFFIX,harpercollins.co.in
 DOMAIN-SUFFIX,harpercollins.co.uk
 DOMAIN-SUFFIX,harpercollins.com
-DOMAIN-SUFFIX,harpercollins.com.au
 DOMAIN-SUFFIX,harpercollinsadvantage.com
 DOMAIN-SUFFIX,harpercollinschildrensbooks.co.uk
 DOMAIN-SUFFIX,harpercollinschristian.com
 DOMAIN-SUFFIX,harpercollinsspeakersbureau.com
 DOMAIN-SUFFIX,hcpdts.com
-DOMAIN-SUFFIX,heraldsun.com.au
 DOMAIN-SUFFIX,herringnetwork.com
 DOMAIN-SUFFIX,himalaya.exchange
 DOMAIN-SUFFIX,hk01.com
@@ -626,17 +583,14 @@ DOMAIN-SUFFIX,hkgpao.com
 DOMAIN-SUFFIX,hkheadline.com
 DOMAIN-SUFFIX,hkopentv.com
 DOMAIN-SUFFIX,hochi.news
-DOMAIN-SUFFIX,hometrack.com.au
 DOMAIN-SUFFIX,hongkongfp.com
 DOMAIN-SUFFIX,housing.com
 DOMAIN-SUFFIX,housingcdn.com
 DOMAIN-SUFFIX,hpayshop.com
 DOMAIN-SUFFIX,huanyuju.com
-DOMAIN-SUFFIX,huffingtonpost.ca
 DOMAIN-SUFFIX,huffingtonpost.co.uk
 DOMAIN-SUFFIX,huffingtonpost.co.za
 DOMAIN-SUFFIX,huffingtonpost.com
-DOMAIN-SUFFIX,huffingtonpost.com.au
 DOMAIN-SUFFIX,huffingtonpost.com.mx
 DOMAIN-SUFFIX,huffingtonpost.de
 DOMAIN-SUFFIX,huffingtonpost.es
@@ -667,13 +621,10 @@ DOMAIN-SUFFIX,insider-intelligence.com
 DOMAIN-SUFFIX,insider.com
 DOMAIN-SUFFIX,insiderintelligence.com
 DOMAIN-SUFFIX,insidevoa.com
-DOMAIN-SUFFIX,intheknow.com.au
-DOMAIN-SUFFIX,inventorship.com.au
 DOMAIN-SUFFIX,investorschronicle.co.uk
 DOMAIN-SUFFIX,ippstatic.com
 DOMAIN-SUFFIX,iproperty.com
 DOMAIN-SUFFIX,iproperty.com.my
-DOMAIN-SUFFIX,iproperty.com.sg
 DOMAIN-SUFFIX,itripto.com
 DOMAIN-SUFFIX,japan-forward.com
 DOMAIN-SUFFIX,jfengtime.com
@@ -684,7 +635,6 @@ DOMAIN-SUFFIX,kanzhongguo.eu
 DOMAIN-SUFFIX,kavkazr.com
 DOMAIN-SUFFIX,keiba.net
 DOMAIN-SUFFIX,kicu.tv
-DOMAIN-SUFFIX,kidspot.com.au
 DOMAIN-SUFFIX,kilmeadeandfriends.com
 DOMAIN-SUFFIX,krymr.com
 DOMAIN-SUFFIX,ktvu.com
@@ -695,7 +645,6 @@ DOMAIN-SUFFIX,landofhope.tv
 DOMAIN-SUFFIX,lecoin.cc
 DOMAIN-SUFFIX,legaltracker.com
 DOMAIN-SUFFIX,librarylovefest.com
-DOMAIN-SUFFIX,livrariart.com.br
 DOMAIN-SUFFIX,localpresshk.com
 DOMAIN-SUFFIX,londonmithraeum.com
 DOMAIN-SUFFIX,londonreal.tv
@@ -734,7 +683,6 @@ DOMAIN-SUFFIX,meridian.net
 DOMAIN-SUFFIX,metro.co.uk
 DOMAIN-SUFFIX,metropolitana.tokyo
 DOMAIN-SUFFIX,mhradio.org
-DOMAIN-SUFFIX,mi9.com.au
 DOMAIN-SUFFIX,mi9cdn.com
 DOMAIN-SUFFIX,minghui.org
 DOMAIN-SUFFIX,mingpao.com
@@ -792,7 +740,6 @@ DOMAIN-SUFFIX,mysinchew.com
 DOMAIN-SUFFIX,mytimesplus.co.uk
 DOMAIN-SUFFIX,mytvsuper.com
 DOMAIN-SUFFIX,natgeokidsbooks.co.uk
-DOMAIN-SUFFIX,nativeincolour.com.au
 DOMAIN-SUFFIX,nbc.co
 DOMAIN-SUFFIX,nbc.com
 DOMAIN-SUFFIX,nbcnews.com
@@ -803,19 +750,12 @@ DOMAIN-SUFFIX,nbcuni.com
 DOMAIN-SUFFIX,nbcuniversal.com
 DOMAIN-SUFFIX,neow.in
 DOMAIN-SUFFIX,neowin.net
-DOMAIN-SUFFIX,newcastlenewslocal.com.au
 DOMAIN-SUFFIX,neweconomyforum.com
 DOMAIN-SUFFIX,newenergyfinance.com
 DOMAIN-SUFFIX,news.co.uk
-DOMAIN-SUFFIX,news.com.au
-DOMAIN-SUFFIX,news.net.au
-DOMAIN-SUFFIX,newsadds.com.au
 DOMAIN-SUFFIX,newsamerica.com
-DOMAIN-SUFFIX,newsapi.com.au
 DOMAIN-SUFFIX,newscareers.co.uk
-DOMAIN-SUFFIX,newscdn.com.au
 DOMAIN-SUFFIX,newscommercial.co.uk
-DOMAIN-SUFFIX,newsconcierge.com.au
 DOMAIN-SUFFIX,newscorp.com
 DOMAIN-SUFFIX,newscorpaustralia.com
 DOMAIN-SUFFIX,newsgawakaru.com
@@ -824,11 +764,9 @@ DOMAIN-SUFFIX,newsmax.com
 DOMAIN-SUFFIX,newsmax.in
 DOMAIN-SUFFIX,newsmaxtv.com
 DOMAIN-SUFFIX,newsnowfox.com
-DOMAIN-SUFFIX,newsprestigenetwork.com.au
 DOMAIN-SUFFIX,newsprinters.co.uk
 DOMAIN-SUFFIX,newssyndication.com
 DOMAIN-SUFFIX,newsukadops.com
-DOMAIN-SUFFIX,newsxtend.com.au
 DOMAIN-SUFFIX,newyorker.com
 DOMAIN-SUFFIX,nextapple.com
 DOMAIN-SUFFIX,nextmedia.com
@@ -840,12 +778,7 @@ DOMAIN-SUFFIX,nikkan-gendai.com
 DOMAIN-SUFFIX,nikkansports.com
 DOMAIN-SUFFIX,nikkei.com
 DOMAIN-SUFFIX,nikkei4946.com
-DOMAIN-SUFFIX,nine.com.au
 DOMAIN-SUFFIX,ninecommentaries.com
-DOMAIN-SUFFIX,nineentertainment.com.au
-DOMAIN-SUFFIX,nineentertainmentco.com.au
-DOMAIN-SUFFIX,ninemediaroom.com.au
-DOMAIN-SUFFIX,ninemsn.com.au
 DOMAIN-SUFFIX,nlm.io
 DOMAIN-SUFFIX,now-ashare.com
 DOMAIN-SUFFIX,now-tv.com
@@ -858,7 +791,6 @@ DOMAIN-SUFFIX,ntd.tv
 DOMAIN-SUFFIX,ntdca.com
 DOMAIN-SUFFIX,ntdimg.com
 DOMAIN-SUFFIX,ntdtv-dc.com
-DOMAIN-SUFFIX,ntdtv.ca
 DOMAIN-SUFFIX,ntdtv.co.kr
 DOMAIN-SUFFIX,ntdtv.com
 DOMAIN-SUFFIX,ntdtv.kr
@@ -866,7 +798,6 @@ DOMAIN-SUFFIX,ntdtv.org
 DOMAIN-SUFFIX,ntdtv.ru
 DOMAIN-SUFFIX,ntdtvla.com
 DOMAIN-SUFFIX,ntdvn.com
-DOMAIN-SUFFIX,ntnews.com.au
 DOMAIN-SUFFIX,nypost.com
 DOMAIN-SUFFIX,nypost.help
 DOMAIN-SUFFIX,nypostreprints.com
@@ -903,7 +834,6 @@ DOMAIN-SUFFIX,peacocktv.com
 DOMAIN-SUFFIX,pensions-expert.com
 DOMAIN-SUFFIX,persagg.com
 DOMAIN-SUFFIX,persianepochtimes.com
-DOMAIN-SUFFIX,placemyad.com.au
 DOMAIN-SUFFIX,pluto.tv
 DOMAIN-SUFFIX,plutotv.net
 DOMAIN-SUFFIX,polygon.com
@@ -911,7 +841,6 @@ DOMAIN-SUFFIX,popo8.com
 DOMAIN-SUFFIX,post852.com
 DOMAIN-SUFFIX,pplusstatic.com
 DOMAIN-SUFFIX,prepsure.com
-DOMAIN-SUFFIX,property.com.au
 DOMAIN-SUFFIX,proptiger.com
 DOMAIN-SUFFIX,pwmnet.com
 DOMAIN-SUFFIX,q13.com
@@ -923,7 +852,6 @@ DOMAIN-SUFFIX,radiofarda.com
 DOMAIN-SUFFIX,radiomango.fm
 DOMAIN-SUFFIX,radiomarsho.com
 DOMAIN-SUFFIX,radiosvoboda.org
-DOMAIN-SUFFIX,radiotavisupleba.ge
 DOMAIN-SUFFIX,radiyoyacuvoa.com
 DOMAIN-SUFFIX,rea-asia.com
 DOMAIN-SUFFIX,rea-group.com
@@ -953,8 +881,6 @@ DOMAIN-SUFFIX,realclearpublicaffairs.com
 DOMAIN-SUFFIX,realclearreligion.org
 DOMAIN-SUFFIX,realclearscience.com
 DOMAIN-SUFFIX,realclearworld.com
-DOMAIN-SUFFIX,realcommercial.com.au
-DOMAIN-SUFFIX,realestate.com.au
 DOMAIN-SUFFIX,realestatejournal.com
 DOMAIN-SUFFIX,realmilwaukeenow.com
 DOMAIN-SUFFIX,realtor.com
@@ -985,7 +911,6 @@ DOMAIN-SUFFIX,sankei-tours.com
 DOMAIN-SUFFIX,sankei.com
 DOMAIN-SUFFIX,sanspo.com
 DOMAIN-SUFFIX,sarajevopodopsadom.com
-DOMAIN-SUFFIX,savvyshopper.net.au
 DOMAIN-SUFFIX,sbnation.com
 DOMAIN-SUFFIX,scmp.com
 DOMAIN-SUFFIX,seasidestory.tokyo
@@ -1028,7 +953,6 @@ DOMAIN-SUFFIX,skysportsracing.com
 DOMAIN-SUFFIX,slashdot.org
 DOMAIN-SUFFIX,slobodnaevropa.mk
 DOMAIN-SUFFIX,smartexpos.com
-DOMAIN-SUFFIX,smartline.com.au
 DOMAIN-SUFFIX,soccerfanz.com.my
 DOMAIN-SUFFIX,soccermatchpass.com
 DOMAIN-SUFFIX,socrec.org
@@ -1038,7 +962,6 @@ DOMAIN-SUFFIX,soundofhope.eu
 DOMAIN-SUFFIX,soundofhope.kr
 DOMAIN-SUFFIX,soundofhope.org
 DOMAIN-SUFFIX,spaceexplored.com
-DOMAIN-SUFFIX,spacely.com.au
 DOMAIN-SUFFIX,speeddreamride.com
 DOMAIN-SUFFIX,speedfantasybid.com
 DOMAIN-SUFFIX,speedracegear.com
@@ -1049,13 +972,11 @@ DOMAIN-SUFFIX,srebrenica360.com
 DOMAIN-SUFFIX,starp2p.com
 DOMAIN-SUFFIX,startupjournal.com
 DOMAIN-SUFFIX,startupschool.org
-DOMAIN-SUFFIX,static9.net.au
 DOMAIN-SUFFIX,staticasiafox.akamaized.net
 DOMAIN-SUFFIX,stheadline.com
 DOMAIN-SUFFIX,storm.mg
 DOMAIN-SUFFIX,storyful.com
 DOMAIN-SUFFIX,sunbingo.co.uk
-DOMAIN-SUFFIX,supercoach.com.au
 DOMAIN-SUFFIX,svaboda.org
 DOMAIN-SUFFIX,svoboda.org
 DOMAIN-SUFFIX,svobodnaevropa.bg
@@ -1064,7 +985,6 @@ DOMAIN-SUFFIX,syhacked.com
 DOMAIN-SUFFIX,szabadeuropa.hu
 DOMAIN-SUFFIX,taipeitimes.com
 DOMAIN-SUFFIX,talksport.com
-DOMAIN-SUFFIX,taste.com.au
 DOMAIN-SUFFIX,techatbloomberg.com
 DOMAIN-SUFFIX,techradar.com
 DOMAIN-SUFFIX,teenchoice.com
@@ -1073,10 +993,8 @@ DOMAIN-SUFFIX,the-japan-news.com
 DOMAIN-SUFFIX,the-tls.co.uk
 DOMAIN-SUFFIX,theaffairs.com
 DOMAIN-SUFFIX,theatlantic.com
-DOMAIN-SUFFIX,theaustralian.com.au
 DOMAIN-SUFFIX,thebanker.com
 DOMAIN-SUFFIX,thebankerdatabase.com
-DOMAIN-SUFFIX,thechronicle.com.au
 DOMAIN-SUFFIX,theclasshroom.com
 DOMAIN-SUFFIX,theepochtimes.com
 DOMAIN-SUFFIX,theepochtimessubscribe.com
@@ -1089,8 +1007,6 @@ DOMAIN-SUFFIX,theguardiandns.com
 DOMAIN-SUFFIX,thehealthsite.com
 DOMAIN-SUFFIX,theinitium.com
 DOMAIN-SUFFIX,theman.in
-DOMAIN-SUFFIX,themercury.com.au
-DOMAIN-SUFFIX,themessengeradelaide.com.au
 DOMAIN-SUFFIX,thenationalpulse.com
 DOMAIN-SUFFIX,thenewslens.com
 DOMAIN-SUFFIX,thenextweb.com
@@ -1107,19 +1023,11 @@ DOMAIN-SUFFIX,theverge.com
 DOMAIN-SUFFIX,theweek.in
 DOMAIN-SUFFIX,thinkofliving.com
 DOMAIN-SUFFIX,thisismoney.co.uk
-DOMAIN-SUFFIX,thismon.ee
-DOMAIN-SUFFIX,thomsonreuters.ca
 DOMAIN-SUFFIX,thomsonreuters.co.kr
 DOMAIN-SUFFIX,thomsonreuters.co.nz
 DOMAIN-SUFFIX,thomsonreuters.co.uk
 DOMAIN-SUFFIX,thomsonreuters.com
-DOMAIN-SUFFIX,thomsonreuters.com.ar
-DOMAIN-SUFFIX,thomsonreuters.com.au
-DOMAIN-SUFFIX,thomsonreuters.com.br
 DOMAIN-SUFFIX,thomsonreuters.com.my
-DOMAIN-SUFFIX,thomsonreuters.com.pe
-DOMAIN-SUFFIX,thomsonreuters.com.sg
-DOMAIN-SUFFIX,thomsonreuters.com.tr
 DOMAIN-SUFFIX,thomsonreuters.es
 DOMAIN-SUFFIX,thomsonreuters.in
 DOMAIN-SUFFIX,thomsonreuters.ru
@@ -1133,7 +1041,6 @@ DOMAIN-SUFFIX,tmsnrt.rs
 DOMAIN-SUFFIX,tnntoday.com
 DOMAIN-SUFFIX,tomonews.net
 DOMAIN-SUFFIX,tomsguide.com
-DOMAIN-SUFFIX,townsvillebulletin.com.au
 DOMAIN-SUFFIX,tr.com
 DOMAIN-SUFFIX,trithucvn.net
 DOMAIN-SUFFIX,trithucvn.org
@@ -1141,12 +1048,9 @@ DOMAIN-SUFFIX,tubi.io
 DOMAIN-SUFFIX,tubitv.com
 DOMAIN-SUFFIX,tuidang.org
 DOMAIN-SUFFIX,tvb.com
-DOMAIN-SUFFIX,tvb.com.au
 DOMAIN-SUFFIX,tvbanywhere.com
-DOMAIN-SUFFIX,tvbanywhere.com.sg
 DOMAIN-SUFFIX,tvbusa.com
 DOMAIN-SUFFIX,tvbweekly.com
-DOMAIN-SUFFIX,tvmedia.net.au
 DOMAIN-SUFFIX,twgreatnews.com
 DOMAIN-SUFFIX,twnextdigital.com
 DOMAIN-SUFFIX,tynt.com
@@ -1222,12 +1126,8 @@ DOMAIN-SUFFIX,warroom.org
 DOMAIN-SUFFIX,washingtonpost.com
 DOMAIN-SUFFIX,watchinese.com
 DOMAIN-SUFFIX,weekly-economist.com
-DOMAIN-SUFFIX,weeklytimesnow.com.au
 DOMAIN-SUFFIX,weiyuksj.com
-DOMAIN-SUFFIX,wenzhao.ca
 DOMAIN-SUFFIX,whatthefox.com
-DOMAIN-SUFFIX,whereilive.com.au
-DOMAIN-SUFFIX,whimn.com.au
 DOMAIN-SUFFIX,whosthehost.com
 DOMAIN-SUFFIX,wionews.com
 DOMAIN-SUFFIX,wired.com
@@ -1254,13 +1154,10 @@ DOMAIN-SUFFIX,yo1health.com
 DOMAIN-SUFFIX,yomilogi.com
 DOMAIN-SUFFIX,yomiuri-shimbun.pressreader.com
 DOMAIN-SUFFIX,youlucky.com
-DOMAIN-SUFFIX,yourtv.com.au
 DOMAIN-SUFFIX,yuanming.net
 DOMAIN-SUFFIX,yuming.qxbbs.org
 DOMAIN-SUFFIX,yzzk.com
 DOMAIN-SUFFIX,zaobao.com
-DOMAIN-SUFFIX,zaobao.com.sg
-DOMAIN-SUFFIX,zaobao.sg
 DOMAIN-SUFFIX,zdnet.com
 DOMAIN-SUFFIX,zdnet.redvideo.io
 DOMAIN-SUFFIX,zee.com

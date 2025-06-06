@@ -1,6 +1,6 @@
 # Name: stun
-# Updated: 2025-05-29 23:49:31 UTC
-# Total: 365
+# Updated: 2025-06-06 22:33:19 UTC
+# Total: 354
 
 DOMAIN,iphone-stun.strato-iphone.de
 DOMAIN,relay.webwormhole.io
@@ -45,7 +45,6 @@ DOMAIN,stun.callwithus.com
 DOMAIN,stun.carlovizzini.it
 DOMAIN,stun.cellmail.com
 DOMAIN,stun.cheapvoip.com
-DOMAIN,stun.cibercloud.com.br
 DOMAIN,stun.clickphone.ro
 DOMAIN,stun.coffee-sen.com
 DOMAIN,stun.comrex.com
@@ -63,7 +62,6 @@ DOMAIN,stun.dls.net
 DOMAIN,stun.dunyatelekom.com
 DOMAIN,stun.dus.net
 DOMAIN,stun.easter-eggs.com
-DOMAIN,stun.easycall.pl
 DOMAIN,stun.easyvoip.com
 DOMAIN,stun.edwin-wiegele.at
 DOMAIN,stun.ekiga.net
@@ -105,7 +103,6 @@ DOMAIN,stun.gravitel.ru
 DOMAIN,stun.grazertrinkwasseringefahr.at
 DOMAIN,stun.groenewold-newmedia.de
 DOMAIN,stun.h4v.eu
-DOMAIN,stun.halonet.pl
 DOMAIN,stun.healthtap.com
 DOMAIN,stun.heeds.eu
 DOMAIN,stun.hicare.net
@@ -124,7 +121,6 @@ DOMAIN,stun.ippi.com
 DOMAIN,stun.ippi.fr
 DOMAIN,stun.ipshka.com
 DOMAIN,stun.irishvoip.com
-DOMAIN,stun.isp.net.au
 DOMAIN,stun.istitutogramscisiciliano.it
 DOMAIN,stun.it1.hr
 DOMAIN,stun.ixc.ua
@@ -147,7 +143,6 @@ DOMAIN,stun.ladridiricette.it
 DOMAIN,stun.landvast.nl
 DOMAIN,stun.lebendigefluesse.at
 DOMAIN,stun.leonde.org
-DOMAIN,stun.leucotron.com.br
 DOMAIN,stun.levigo.de
 DOMAIN,stun.lineaencasa.com
 DOMAIN,stun.linphone.org
@@ -181,7 +176,6 @@ DOMAIN,stun.nanocosmos.de
 DOMAIN,stun.ncic.com
 DOMAIN,stun.neomedia.it
 DOMAIN,stun.netappel.com
-DOMAIN,stun.netgsm.com.tr
 DOMAIN,stun.newrocktech.com
 DOMAIN,stun.nexphone.ch
 DOMAIN,stun.next-gen.ro
@@ -197,12 +191,10 @@ DOMAIN,stun.openjobs.hu
 DOMAIN,stun.openvoip.it
 DOMAIN,stun.optdyn.com
 DOMAIN,stun.ortopediacoam.it
-DOMAIN,stun.otos.pl
 DOMAIN,stun.ozekiphone.com
 DOMAIN,stun.peeters.com
 DOMAIN,stun.peethultra.be
 DOMAIN,stun.piratenbrandenburg.de
-DOMAIN,stun.planetarium.com.br
 DOMAIN,stun.plexicomm.net
 DOMAIN,stun.poetamatusel.org
 DOMAIN,stun.poivy.com
@@ -243,7 +235,6 @@ DOMAIN,stun.siptraffic.com
 DOMAIN,stun.siptrunk.com
 DOMAIN,stun.sipy.cz
 DOMAIN,stun.sky.od.ua
-DOMAIN,stun.skydrone.aero
 DOMAIN,stun.sma.de
 DOMAIN,stun.smartvoip.com
 DOMAIN,stun.smsdiscount.com
@@ -293,7 +284,6 @@ DOMAIN,stun.uabrides.com
 DOMAIN,stun.uiltucssicilia.it
 DOMAIN,stun.ukh.de
 DOMAIN,stun.uls.co.za
-DOMAIN,stun.url.net.au
 DOMAIN,stun.usfamily.net
 DOMAIN,stun.vadacom.co.nz
 DOMAIN,stun.vavadating.com
@@ -335,7 +325,6 @@ DOMAIN,stun.voztovoice.org
 DOMAIN,stun.waterpolopalermo.it
 DOMAIN,stun.wcoil.com
 DOMAIN,stun.webcalldirect.com
-DOMAIN,stun.webmatrix.com.br
 DOMAIN,stun.wemag.com
 DOMAIN,stun.westtel.ky
 DOMAIN,stun.wia.cz

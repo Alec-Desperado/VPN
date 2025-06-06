@@ -1,6 +1,6 @@
 # Name: lastfm
-# Updated: 2025-05-29 23:53:25 UTC
-# Total: 31
+# Updated: 2025-06-06 22:37:15 UTC
+# Total: 30
 
 DOMAIN,last.us11.list-manage.com
 DOMAIN,lastfm-img2.akamaized.net
@@ -22,7 +22,6 @@ DOMAIN-SUFFIX,lastfm.es
 DOMAIN-SUFFIX,lastfm.eu
 DOMAIN-SUFFIX,lastfm.freetls.fastly.net
 DOMAIN-SUFFIX,lastfm.ph
-DOMAIN-SUFFIX,lastfm.pl
 DOMAIN-SUFFIX,lastfm.ru
 DOMAIN-SUFFIX,lastfmpresents.com
 DOMAIN-SUFFIX,mwrel.tk

@@ -1,6 +1,6 @@
 # Name: group_rules_category-hardware
-# Updated: 2025-05-29 23:53:41 UTC
-# Total: 528
+# Updated: 2025-06-06 22:37:32 UTC
+# Total: 490
 
 DOMAIN,cisco.evergage.com
 DOMAIN,ciscolivehls-i.akamaihd.net
@@ -89,7 +89,6 @@ DOMAIN-SUFFIX,ciscopowercube.com
 DOMAIN-SUFFIX,ciscoprice.com
 DOMAIN-SUFFIX,ciscoresearch.com
 DOMAIN-SUFFIX,ciscosoftware.com
-DOMAIN-SUFFIX,ciscospark.ca
 DOMAIN-SUFFIX,ciscospark.com
 DOMAIN-SUFFIX,ciscotaccc.com
 DOMAIN-SUFFIX,ciscotr.com
@@ -125,9 +124,7 @@ DOMAIN-SUFFIX,dell.co.kr
 DOMAIN-SUFFIX,dell.co.nz
 DOMAIN-SUFFIX,dell.co.th
 DOMAIN-SUFFIX,dell.com
-DOMAIN-SUFFIX,dell.com.au
 DOMAIN-SUFFIX,dell.com.my
-DOMAIN-SUFFIX,dell.com.sg
 DOMAIN-SUFFIX,dellcdn.com
 DOMAIN-SUFFIX,dellsupportcenter.com
 DOMAIN-SUFFIX,delltechnologies.com
@@ -170,48 +167,31 @@ DOMAIN-SUFFIX,intel
 DOMAIN-SUFFIX,intel-research.net
 DOMAIN-SUFFIX,intel-university-collaboration.net
 DOMAIN-SUFFIX,intel.ac
-DOMAIN-SUFFIX,intel.ae
 DOMAIN-SUFFIX,intel.af
-DOMAIN-SUFFIX,intel.ag
 DOMAIN-SUFFIX,intel.ai
-DOMAIN-SUFFIX,intel.ar
 DOMAIN-SUFFIX,intel.at
-DOMAIN-SUFFIX,intel.az
 DOMAIN-SUFFIX,intel.ba
 DOMAIN-SUFFIX,intel.bg
 DOMAIN-SUFFIX,intel.bh
 DOMAIN-SUFFIX,intel.bi
-DOMAIN-SUFFIX,intel.bo
 DOMAIN-SUFFIX,intel.bs
 DOMAIN-SUFFIX,intel.by
-DOMAIN-SUFFIX,intel.ca
 DOMAIN-SUFFIX,intel.cc
 DOMAIN-SUFFIX,intel.cg
 DOMAIN-SUFFIX,intel.ch
-DOMAIN-SUFFIX,intel.cl
 DOMAIN-SUFFIX,intel.cm
-DOMAIN-SUFFIX,intel.co.ae
 DOMAIN-SUFFIX,intel.co.cr
 DOMAIN-SUFFIX,intel.co.id
-DOMAIN-SUFFIX,intel.co.il
 DOMAIN-SUFFIX,intel.co.kr
 DOMAIN-SUFFIX,intel.co.uk
 DOMAIN-SUFFIX,intel.co.za
 DOMAIN-SUFFIX,intel.com
-DOMAIN-SUFFIX,intel.com.ar
-DOMAIN-SUFFIX,intel.com.au
-DOMAIN-SUFFIX,intel.com.bo
-DOMAIN-SUFFIX,intel.com.br
 DOMAIN-SUFFIX,intel.com.co
-DOMAIN-SUFFIX,intel.com.ec
 DOMAIN-SUFFIX,intel.com.jm
 DOMAIN-SUFFIX,intel.com.mx
 DOMAIN-SUFFIX,intel.com.my
-DOMAIN-SUFFIX,intel.com.pe
 DOMAIN-SUFFIX,intel.com.ph
 DOMAIN-SUFFIX,intel.com.pr
-DOMAIN-SUFFIX,intel.com.py
-DOMAIN-SUFFIX,intel.com.tr
 DOMAIN-SUFFIX,intel.com.uy
 DOMAIN-SUFFIX,intel.com.ve
 DOMAIN-SUFFIX,intel.cr
@@ -220,16 +200,12 @@ DOMAIN-SUFFIX,intel.cz
 DOMAIN-SUFFIX,intel.de
 DOMAIN-SUFFIX,intel.dk
 DOMAIN-SUFFIX,intel.dz
-DOMAIN-SUFFIX,intel.ec
-DOMAIN-SUFFIX,intel.ee
 DOMAIN-SUFFIX,intel.eg
 DOMAIN-SUFFIX,intel.es
 DOMAIN-SUFFIX,intel.eu
-DOMAIN-SUFFIX,intel.fi
 DOMAIN-SUFFIX,intel.fr
 DOMAIN-SUFFIX,intel.ga
 DOMAIN-SUFFIX,intel.gd
-DOMAIN-SUFFIX,intel.ge
 DOMAIN-SUFFIX,intel.gl
 DOMAIN-SUFFIX,intel.gm
 DOMAIN-SUFFIX,intel.gr
@@ -249,7 +225,6 @@ DOMAIN-SUFFIX,intel.ke
 DOMAIN-SUFFIX,intel.la
 DOMAIN-SUFFIX,intel.lc
 DOMAIN-SUFFIX,intel.lk
-DOMAIN-SUFFIX,intel.lt
 DOMAIN-SUFFIX,intel.lu
 DOMAIN-SUFFIX,intel.ly
 DOMAIN-SUFFIX,intel.ma
@@ -269,9 +244,7 @@ DOMAIN-SUFFIX,intel.nl
 DOMAIN-SUFFIX,intel.nu
 DOMAIN-SUFFIX,intel.nz
 DOMAIN-SUFFIX,intel.pa
-DOMAIN-SUFFIX,intel.pe
 DOMAIN-SUFFIX,intel.ph
-DOMAIN-SUFFIX,intel.pl
 DOMAIN-SUFFIX,intel.pn
 DOMAIN-SUFFIX,intel.re
 DOMAIN-SUFFIX,intel.ro
@@ -280,19 +253,14 @@ DOMAIN-SUFFIX,intel.rw
 DOMAIN-SUFFIX,intel.sa
 DOMAIN-SUFFIX,intel.sc
 DOMAIN-SUFFIX,intel.se
-DOMAIN-SUFFIX,intel.sg
 DOMAIN-SUFFIX,intel.si
 DOMAIN-SUFFIX,intel.sk
 DOMAIN-SUFFIX,intel.sn
 DOMAIN-SUFFIX,intel.sr
-DOMAIN-SUFFIX,intel.st
 DOMAIN-SUFFIX,intel.sv
-DOMAIN-SUFFIX,intel.sx
 DOMAIN-SUFFIX,intel.sy
 DOMAIN-SUFFIX,intel.tf
-DOMAIN-SUFFIX,intel.tj
 DOMAIN-SUFFIX,intel.tl
-DOMAIN-SUFFIX,intel.tm
 DOMAIN-SUFFIX,intel.tn
 DOMAIN-SUFFIX,intel.tt
 DOMAIN-SUFFIX,intel.tv
@@ -300,7 +268,6 @@ DOMAIN-SUFFIX,intel.ua
 DOMAIN-SUFFIX,intel.uk
 DOMAIN-SUFFIX,intel.us
 DOMAIN-SUFFIX,intel.uy
-DOMAIN-SUFFIX,intel.uz
 DOMAIN-SUFFIX,intel.vg
 DOMAIN-SUFFIX,intel.vn
 DOMAIN-SUFFIX,intel.vu
@@ -366,7 +333,6 @@ DOMAIN-SUFFIX,mikrotik.com
 DOMAIN-SUFFIX,mindmeld.com
 DOMAIN-SUFFIX,movidius.com
 DOMAIN-SUFFIX,movidius.net
-DOMAIN-SUFFIX,mt.lv
 DOMAIN-SUFFIX,multiplydiversity.com
 DOMAIN-SUFFIX,myciscobenefits.com
 DOMAIN-SUFFIX,mynetname.net
@@ -412,7 +378,6 @@ DOMAIN-SUFFIX,qualcomm.co.in
 DOMAIN-SUFFIX,qualcomm.co.kr
 DOMAIN-SUFFIX,qualcomm.co.uk
 DOMAIN-SUFFIX,qualcomm.com
-DOMAIN-SUFFIX,qualcomm.com.br
 DOMAIN-SUFFIX,qualcomm.de
 DOMAIN-SUFFIX,qualcomm.fr
 DOMAIN-SUFFIX,qualcomm.sc.omtrdc.net
@@ -500,15 +465,12 @@ DOMAIN-SUFFIX,vpro.net
 DOMAIN-SUFFIX,vsphere.com
 DOMAIN-SUFFIX,vsphere.net
 DOMAIN-SUFFIX,wballiance.com
-DOMAIN-SUFFIX,webex.ca
 DOMAIN-SUFFIX,webex.co.in
 DOMAIN-SUFFIX,webex.co.it
 DOMAIN-SUFFIX,webex.co.kr
 DOMAIN-SUFFIX,webex.co.nz
 DOMAIN-SUFFIX,webex.co.uk
 DOMAIN-SUFFIX,webex.com
-DOMAIN-SUFFIX,webex.com.au
-DOMAIN-SUFFIX,webex.com.br
 DOMAIN-SUFFIX,webex.com.mx
 DOMAIN-SUFFIX,webex.de
 DOMAIN-SUFFIX,webex.es

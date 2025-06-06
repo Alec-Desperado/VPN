@@ -1,6 +1,6 @@
 # Name: group_rules_ai
-# Updated: 2025-05-29 23:46:43 UTC
-# Total: 150
+# Updated: 2025-06-06 22:30:29 UTC
+# Total: 149
 
 DOMAIN,ai.google.dev
 DOMAIN,alkalicore-pa.clients6.google.com
@@ -14,7 +14,6 @@ DOMAIN,chat.openai.com.cdn.cloudflare.net
 DOMAIN,copilot.microsoft.com
 DOMAIN,gateway.bingviz.microsoft.net
 DOMAIN,gateway.bingviz.microsoftapp.net
-DOMAIN,gemini.google.com
 DOMAIN,generativelanguage.googleapis.com
 DOMAIN,in.appcenter.ms
 DOMAIN,location.microsoft.com

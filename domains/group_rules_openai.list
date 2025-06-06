@@ -1,10 +1,9 @@
 # Name: group_rules_openai
-# Updated: 2025-05-29 23:57:21 UTC
-# Total: 44
+# Updated: 2025-06-06 22:41:18 UTC
+# Total: 43
 
 DOMAIN,browser-intake-datadoghq.com
 DOMAIN,chat.openai.com.cdn.cloudflare.net
-DOMAIN,gemini.google.com
 DOMAIN,o33249.ingest.sentry.io
 DOMAIN,openai-api.arkoselabs.com
 DOMAIN,openaiapi-site.azureedge.net

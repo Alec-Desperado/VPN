@@ -1,6 +1,6 @@
 # Name: netflix
-# Updated: 2025-05-29 23:53:25 UTC
-# Total: 1161
+# Updated: 2025-06-06 22:37:15 UTC
+# Total: 1159
 
 DOMAIN,e13252.dscg.akamaiedge.net
 DOMAIN,h-netflix.online-metrix.net
@@ -8,9 +8,7 @@ DOMAIN,netflix.com.edgesuite.net
 DOMAIN-SUFFIX,cookielaw.org
 DOMAIN-SUFFIX,fast.com
 DOMAIN-SUFFIX,flxvpn.net
-DOMAIN-SUFFIX,netflix.ca
 DOMAIN-SUFFIX,netflix.com
-DOMAIN-SUFFIX,netflix.com.au
 DOMAIN-SUFFIX,netflix.com.edgesuite.net
 DOMAIN-SUFFIX,netflix.net
 DOMAIN-SUFFIX,netflixdnstest0.com

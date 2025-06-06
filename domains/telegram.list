@@ -1,6 +1,6 @@
 # Name: telegram
-# Updated: 2025-05-29 23:57:43 UTC
-# Total: 39
+# Updated: 2025-06-06 22:41:41 UTC
+# Total: 38
 
 DOMAIN,api.imem.app
 DOMAIN,api.swiftgram.app
@@ -23,7 +23,6 @@ DOMAIN-SUFFIX,telegram.me
 DOMAIN-SUFFIX,telegram.org
 DOMAIN-SUFFIX,telegram.space
 DOMAIN-SUFFIX,telegramdownload.com
-DOMAIN-SUFFIX,telesco.pe
 DOMAIN-SUFFIX,tg.dev
 DOMAIN-SUFFIX,tx.me
 DOMAIN-SUFFIX,usercontent.dev
