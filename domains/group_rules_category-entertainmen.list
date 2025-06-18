@@ -1,6 +1,6 @@
 # Name: group_rules_category-entertainmen
-# Updated: 2025-06-06 22:37:15 UTC
-# Total: 2652
+# Updated: 2025-06-18 14:38:29 UTC
+# Total: 2654
 
 DOMAIN,a.ppy.sh
 DOMAIN,a4e8s8k3.map2.ssl.hwcdn.net
@@ -1276,6 +1276,7 @@ DOMAIN-SUFFIX,viu.tv
 DOMAIN-SUFFIX,vod360.net
 DOMAIN-SUFFIX,vol.moe
 DOMAIN-SUFFIX,vrv.co
+DOMAIN-SUFFIX,wallhaven.cc
 DOMAIN-SUFFIX,wariolandshakeit.com
 DOMAIN-SUFFIX,wariowarediy.com
 DOMAIN-SUFFIX,warnermediacdn.com
@@ -1285,6 +1286,7 @@ DOMAIN-SUFFIX,wbdnbo.net
 DOMAIN-SUFFIX,webnovel.com
 DOMAIN-SUFFIX,weverse.io
 DOMAIN-SUFFIX,wheelpop.com
+DOMAIN-SUFFIX,whvn.cc
 DOMAIN-SUFFIX,wide-youtube.l.google.com
 DOMAIN-SUFFIX,wii-u.com
 DOMAIN-SUFFIX,wiifit.com

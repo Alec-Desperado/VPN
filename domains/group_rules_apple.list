@@ -1,6 +1,6 @@
 # Name: group_rules_apple
-# Updated: 2025-06-06 22:31:23 UTC
-# Total: 1575
+# Updated: 2025-06-18 14:33:07 UTC
+# Total: 1576
 
 DOMAIN,afs.ampaeservices.com
 DOMAIN,amp-api.fitness.apple.com
@@ -1219,6 +1219,7 @@ DOMAIN-SUFFIX,lexuemei.com
 DOMAIN-SUFFIX,livephotos.tv
 DOMAIN-SUFFIX,lovebeatsdr.com
 DOMAIN-SUFFIX,lovemarca.com
+DOMAIN-SUFFIX,ls-apple.com.akadns.net
 DOMAIN-SUFFIX,ls.apple.com.edgesuite.net
 DOMAIN-SUFFIX,luckyissue.com
 DOMAIN-SUFFIX,lyzsxx.com

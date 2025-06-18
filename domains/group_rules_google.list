@@ -1,6 +1,6 @@
 # Name: group_rules_google
-# Updated: 2025-06-06 22:40:36 UTC
-# Total: 966
+# Updated: 2025-06-18 14:40:53 UTC
+# Total: 967
 
 DOMAIN,ai.google.dev
 DOMAIN,aida.googleapis.com
@@ -933,6 +933,7 @@ DOMAIN-SUFFIX,yt.be
 DOMAIN-SUFFIX,ytimg.com
 DOMAIN-SUFFIX,zukunftswerkstatt.de
 DOMAIN-SUFFIX,zynamics.com
+AS15169
 IP-CIDR,108.177.125.188/32,no-resolve
 IP-CIDR,142.250.10.188/32,no-resolve
 IP-CIDR,142.250.31.188/32,no-resolve

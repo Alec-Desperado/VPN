@@ -1,6 +1,6 @@
 # Name: group_rules_category-ru
-# Updated: 2025-06-06 22:39:28 UTC
-# Total: 223
+# Updated: 2025-06-18 14:33:45 UTC
+# Total: 224
 
 DOMAIN-SUFFIX,adygeya.ru
 DOMAIN-SUFFIX,altai.ru
@@ -67,6 +67,7 @@ DOMAIN-SUFFIX,mordovia.ru
 DOMAIN-SUFFIX,mos.ru
 DOMAIN-SUFFIX,mosreg.ru
 DOMAIN-SUFFIX,mradx.net
+DOMAIN-SUFFIX,mts.ru
 DOMAIN-SUFFIX,murmansk.ru
 DOMAIN-SUFFIX,mvk.com
 DOMAIN-SUFFIX,mycdn.me
@@ -197,16 +198,16 @@ DOMAIN-SUFFIX,yandexwebcache.org
 DOMAIN-SUFFIX,yaroslavl.ru
 DOMAIN-SUFFIX,yastatic.net
 DOMAIN-SUFFIX,yuzhno-sakhalinsk.ru
-AS12389
-AS12714
-AS25513
-AS31200
-AS3216
-AS42610
-AS49505
-AS8342
-AS8359
-AS8402
+IP-ASN,AS12389,no-resolve
+IP-ASN,AS12714,no-resolve
+IP-ASN,AS25513,no-resolve
+IP-ASN,AS31200,no-resolve
+IP-ASN,AS3216,no-resolve
+IP-ASN,AS42610,no-resolve
+IP-ASN,AS49505,no-resolve
+IP-ASN,AS8342,no-resolve
+IP-ASN,AS8359,no-resolve
+IP-ASN,AS8402,no-resolve
 IP-CIDR,100.43.64.0/19,no-resolve
 IP-CIDR,141.8.128.0/18,no-resolve
 IP-CIDR,178.154.128.0/18,no-resolve
