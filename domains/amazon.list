@@ -1,5 +1,5 @@
 # Name: amazon
-# Updated: 2025-06-18 14:32:36 UTC
+# Updated: 2025-06-19 11:03:40 UTC
 # Total: 176
 
 DOMAIN,URL-REGEX,^https?:\/\/www\.amazon\.com\/(Amazon-Video|gp\/video)\/

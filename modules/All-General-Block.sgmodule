@@ -1,6 +1,6 @@
 #!name=General Block 🌐
 #!desc=General configuration block
-#!updated=2025-06-19 04:08:53 UTC
+#!updated=2025-06-19 12:06:11 UTC
 #!homepage=
 #!moduleurl=https://raw.githubusercontent.com/Alec-Desperado/VPN/refs/heads/main/modules/All-General-Block.sgmodule
 #!icon=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Bypass.png
@@ -54,7 +54,7 @@ dns-direct-fallback-proxy = true
 
 # Override DNS. Override the system default DNS using normal DNS or encrypted DNS (e.g. doh, doq, dot, etc.).
 # Some DNS over https support http3, so try querying and switching to http3 if it is supported. You can add #no-h3 after the doh link to close it.
-dns-server = tls://1.1.1.1:853,tls://1.0.0.1:853,tls://8.8.8.8:853,tls://8.8.4.4:853,tls://2606:4700:4700::1111,tls://2606:4700:4700::1001
+dns-server = tls://8.8.8.8:853,tls://1.1.1.1:853,tls://8.8.4.4:853,tls://1.0.0.1:853,tls://2606:4700:4700::1111,tls://2606:4700:4700::1001
 
 # Alternate DNS. Returns to the backup DNS when the resolution of the overwritten DNS fails.
 # If you need to specify multiple DNSs, you can separate them with commas. system means return to the system DNS.

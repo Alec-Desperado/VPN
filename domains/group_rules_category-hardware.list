@@ -1,6 +1,6 @@
 # Name: group_rules_category-hardware
-# Updated: 2025-06-18 14:33:34 UTC
-# Total: 490
+# Updated: 2025-06-19 11:04:52 UTC
+# Total: 495
 
 DOMAIN,cisco.evergage.com
 DOMAIN,ciscolivehls-i.akamaihd.net
@@ -140,6 +140,10 @@ DOMAIN-SUFFIX,exascale-tech.com
 DOMAIN-SUFFIX,experience-vmware.com
 DOMAIN-SUFFIX,exploreintel.com
 DOMAIN-SUFFIX,flipshare.com
+DOMAIN-SUFFIX,flir.com
+DOMAIN-SUFFIX,flir.eu
+DOMAIN-SUFFIX,fluke.com
+DOMAIN-SUFFIX,flukenetworks.com
 DOMAIN-SUFFIX,gemfire.net
 DOMAIN-SUFFIX,geodesummit.com
 DOMAIN-SUFFIX,getboxer.com
@@ -342,6 +346,7 @@ DOMAIN-SUFFIX,mysdn.net
 DOMAIN-SUFFIX,nervanasys.com
 DOMAIN-SUFFIX,netacad.com
 DOMAIN-SUFFIX,netacad.net
+DOMAIN-SUFFIX,netgate.com
 DOMAIN-SUFFIX,nevex.com
 DOMAIN-SUFFIX,nextgenerationcenter.com
 DOMAIN-SUFFIX,niosii.com

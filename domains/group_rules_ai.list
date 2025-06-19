@@ -1,6 +1,6 @@
 # Name: group_rules_ai
-# Updated: 2025-06-18 14:32:22 UTC
-# Total: 292
+# Updated: 2025-06-19 11:03:23 UTC
+# Total: 294
 
 DOMAIN,ai.google.dev
 DOMAIN,aida.googleapis.com
@@ -106,6 +106,7 @@ DOMAIN-KEYWORD,openai
 DOMAIN-KEYWORD,openaiapi
 DOMAIN-KEYWORD,openaicom
 DOMAIN-KEYWORD,openaicom-api
+DOMAIN-KEYWORD,proactivebackend-pa.googleapis.com
 DOMAIN-SUFFIX,ai.com
 DOMAIN-SUFFIX,ai.google
 DOMAIN-SUFFIX,ai.google.dev
@@ -251,6 +252,7 @@ DOMAIN-SUFFIX,poe.com
 DOMAIN-SUFFIX,poecdn.net
 DOMAIN-SUFFIX,pplx.ai
 DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
+DOMAIN-SUFFIX,recraft.ai
 DOMAIN-SUFFIX,renovacionoffice.com
 DOMAIN-SUFFIX,replicate.com
 DOMAIN-SUFFIX,runwayml.com
