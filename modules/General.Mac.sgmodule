@@ -1,7 +1,7 @@
 #!name=General Enhanced 🌐
 #!desc=(🖥️ macOS edition) 1.Override the content of the skip-agent segment 2.Add the return of real IP segment content 3. Add non-MitM domain names to prevent interruption of the connection
 #!author=
-#!updated=2025-06-19 12:46:13 UTC
+#!updated=2025-06-19 12:57:15 UTC
 #!homepage=
 #!moduleurl=https://raw.githubusercontent.com/Alec-Desperado/VPN/refs/heads/main/modules/General.Mac.sgmodule
 #!icon=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Bypass.png
