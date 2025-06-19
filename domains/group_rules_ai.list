@@ -1,6 +1,6 @@
 # Name: group_rules_ai
-# Updated: 2025-06-19 11:03:23 UTC
-# Total: 294
+# Updated: 2025-06-19 12:59:55 UTC
+# Total: 295
 
 DOMAIN,ai.google.dev
 DOMAIN,aida.googleapis.com
@@ -266,6 +266,7 @@ DOMAIN-SUFFIX,sora.com
 DOMAIN-SUFFIX,sprinklesapp.com
 DOMAIN-SUFFIX,stability.ai
 DOMAIN-SUFFIX,statsigapi.net
+DOMAIN-SUFFIX,stitch.withgoogle.com
 DOMAIN-SUFFIX,stripe.com
 DOMAIN-SUFFIX,stripe.network
 DOMAIN-SUFFIX,stripecdn.com

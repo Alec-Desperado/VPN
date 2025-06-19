@@ -1,6 +1,6 @@
 # Name: group_rules_other_domains
-# Updated: 2025-06-19 11:15:18 UTC
-# Total: 30030
+# Updated: 2025-06-19 13:11:56 UTC
+# Total: 30044
 
 DOMAIN,1dot1dot1dot1.cloudflare-dns.com
 DOMAIN,1password.drift.click
@@ -158,6 +158,8 @@ DOMAIN,jcdns.fun
 DOMAIN,jp.tiar.app
 DOMAIN,jp.tiarap.org
 DOMAIN,lain.bgm.tv
+DOMAIN,lf16-effectcdn.byteeffecttos-g.com
+DOMAIN,lf16-pkgcdn.pitaya-clientai.com
 DOMAIN,lgelectronics.122.2o7.net
 DOMAIN,linkedin.sc.omtrdc.net
 DOMAIN,live-patreon-marketing.pantheonsite.io
@@ -192,6 +194,7 @@ DOMAIN,ood.opsource.net
 DOMAIN,opera.cloudflare-dns.com
 DOMAIN,ordns.he.net
 DOMAIN,origin-a.akamaihd.net
+DOMAIN,p16-tiktokcdn-com.akamaized.net
 DOMAIN,practivate.adobe
 DOMAIN,practivate.adobe.ipp
 DOMAIN,practivate.adobe.newoa
@@ -5248,6 +5251,8 @@ DOMAIN-SUFFIX,bymj.io
 DOMAIN-SUFFIX,bypasscensorship.org
 DOMAIN-SUFFIX,byrut.org
 DOMAIN-SUFFIX,byspotify.com
+DOMAIN-SUFFIX,bytedapm.com
+DOMAIN-SUFFIX,bytegecko-i18n.com
 DOMAIN-SUFFIX,byteoversea.com
 DOMAIN-SUFFIX,bytick.com
 DOMAIN-SUFFIX,byzantine-ahrb-centre.ac.uk
@@ -5483,6 +5488,7 @@ DOMAIN-SUFFIX,cao.im
 DOMAIN-SUFFIX,caobian.info
 DOMAIN-SUFFIX,caochangqing.com
 DOMAIN-SUFFIX,caoporn.us
+DOMAIN-SUFFIX,capcut.com
 DOMAIN-SUFFIX,cape.ac.uk
 DOMAIN-SUFFIX,capel.ac.uk
 DOMAIN-SUFFIX,capitalccg.ac.uk
@@ -14459,6 +14465,7 @@ DOMAIN-SUFFIX,ismaelan.com
 DOMAIN-SUFFIX,ismalltits.com
 DOMAIN-SUFFIX,ismg.ac.uk
 DOMAIN-SUFFIX,ismprofessional.net
+DOMAIN-SUFFIX,isnssdk.com
 DOMAIN-SUFFIX,isohunt.com
 DOMAIN-SUFFIX,ispan.ac.uk
 DOMAIN-SUFFIX,israbox.com
@@ -23786,6 +23793,7 @@ DOMAIN-SUFFIX,snow.me
 DOMAIN-SUFFIX,snowcorp.com
 DOMAIN-SUFFIX,snowlionpub.com
 DOMAIN-SUFFIX,snowmiku.com
+DOMAIN-SUFFIX,snssdk.com
 DOMAIN-SUFFIX,snug.ac.uk
 DOMAIN-SUFFIX,soas.ac.uk
 DOMAIN-SUFFIX,soasta-dswb.com
@@ -25335,6 +25343,7 @@ DOMAIN-SUFFIX,theglobalsite.ac.uk
 DOMAIN-SUFFIX,thegly.com
 DOMAIN-SUFFIX,thegooglestore.com
 DOMAIN-SUFFIX,thegraduationproject.ac.uk
+DOMAIN-SUFFIX,theguardian
 DOMAIN-SUFFIX,theguardian.com
 DOMAIN-SUFFIX,theguardiandns.com
 DOMAIN-SUFFIX,thehabibshow.com
@@ -25626,7 +25635,11 @@ DOMAIN-SUFFIX,tiktok.com
 DOMAIN-SUFFIX,tiktokcdn-eu.com
 DOMAIN-SUFFIX,tiktokcdn-us.com
 DOMAIN-SUFFIX,tiktokcdn.com
+DOMAIN-SUFFIX,tiktokd.net
+DOMAIN-SUFFIX,tiktokd.org
 DOMAIN-SUFFIX,tiktokeu-cdn.com
+DOMAIN-SUFFIX,tiktokmusic.app
+DOMAIN-SUFFIX,tiktokrow-cdn.com
 DOMAIN-SUFFIX,tiktokv.com
 DOMAIN-SUFFIX,tiktokv.eu
 DOMAIN-SUFFIX,tiktokv.us
@@ -26040,6 +26053,7 @@ DOMAIN-SUFFIX,ttoverseaus.net
 DOMAIN-SUFFIX,ttrb.ac.uk
 DOMAIN-SUFFIX,tttan.com
 DOMAIN-SUFFIX,ttvnw.net
+DOMAIN-SUFFIX,ttwebview.com
 DOMAIN-SUFFIX,ttwstatic.com
 DOMAIN-SUFFIX,tu8964.com
 DOMAIN-SUFFIX,tubaholic.com

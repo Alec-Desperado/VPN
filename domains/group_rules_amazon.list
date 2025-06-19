@@ -1,5 +1,5 @@
 # Name: group_rules_amazon
-# Updated: 2025-06-19 11:03:40 UTC
+# Updated: 2025-06-19 13:00:12 UTC
 # Total: 1704
 
 DOMAIN,URL-REGEX,^https?:\/\/www\.amazon\.com\/(Amazon-Video|gp\/video)\/
