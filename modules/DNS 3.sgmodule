@@ -1,0 +1,80 @@
+#!name=DNS mapping
+#!desc=1.Specific domain names are resolved using the specified DNS 2.Special addresses are resolved using canonical DNS
+#!author=
+#!updated=2025-06-19 12:06:11 UTC
+#!homepage=
+#!moduleurl=https://raw.githubusercontent.com/Alec-Desperado/VPN/refs/heads/main/modules/DNS.sgmodule
+#!icon=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Server.png
+#!category=General
+
+[Host]
+
+# > Local
+localhost = 127.0.0.1
+router.lan=192.168.0.1
+
+# > Apple DNS
+## refer: https://support.apple.com/zh-cn/HT210060
+*.networking.apple = server:https://doh.dns.apple.com/dns-query
+*.www-cdn.icloud.com.akadns.net = server:https://doh.dns.apple.com/dns-query
+## Apple.com
+*.apple.com = server:https://doh.dns.apple.com/dns-query
+## iCloud.com
+*.icloud.com = server:https://doh.dns.apple.com/dns-query
+*.me.com = server:https://doh.dns.apple.com/dns-query
+##
+*.netcts.cdn-apple.com = server:https://doh.dns.apple.com/dns-query
+*.apple-mapkit.com = server:https://doh.dns.apple.com/dns-query
+##
+*.apple=server:system
+*.apple-cloudkit.com=server:system
+*.cdn-apple.com=server:system
+*.icloud-content.com=server:system
+*.itunes.com=server:system
+
+# > Encrypted DNS
+dns.google = 8.8.8.8:853, 8.8.4.4:853, 2001:4860:4860::8888, 2001:4860:4860::8844 // https://dns.google/dns-query
+dns64.dns.google = 2001:4860:4860::6464, 2001:4860:4860::64 // https://dns64.dns.google/dns-query
+cloudflare-dns.com = 104.16.249.249, 104.16.248.249, 2606:4700::6810:f8f9, 2606:4700::6810:f9f9 // https://cloudflare-dns.com/dns-query
+1dot1dot1dot1.cloudflare-dns.com = 1.1.1.1, 1.0.0.1, 2606:4700:4700::1001, 2606:4700:4700::1111 // 1dot1dot1dot1.cloudflare-dns.com:853
+one.one.one.one = 1.1.1.1, 1.0.0.1, 2606:4700:4700::1001, 2606:4700:4700::1111  // one.one.one.one:853
+
+# > Router/system DNS
+*.lan = server:system
+*.home.arpa = server:system
+*.in-addr.arpa = server:system
+*.repeater.asus.com = server:system
+*.router.asus.com = server:system
+*.asusrouter.com = server:system
+*.routerlogin.net = server:system
+*.tendawifi.com = server:system
+*.tplinkwifi.net = server:system
+*.tplogin.cn = server:system
+*.tplinkap.net = server:system
+*.tplinkeap.net = server:system
+*.tplinklogin.net = server:system
+*.tplinkmodem.net = server:system
+*.tplinkplclogin.net = server:system
+*.tplinkrepeater.net = server:system
+*.www.miwifi.com = server:system
+*.mediarouter.home = server:system
+*.miwifi.com = server:system
+*.zte.home = server:system
+*.ui.direct = server:system
+*.hiwifi.com = server:system
+*.huaweimobilewifi.com = server:system
+*.my.router = server:system
+*.routerlogin.com = server:system
+*.samsung.router = server:system
+*.router.synology.com = server:system
+
+# > Rus
+*.tbank.ru=server:system
+*.mts.ru=server:system
+*.emias.info=server:system
+*.gosuslugi.ru=server:system
+*.gov.ru=server:system
+*.mos.ru=server:system
+*.mosreg.ru=server:system
+*.nalog.ru=server:system
+
