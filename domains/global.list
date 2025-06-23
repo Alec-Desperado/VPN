@@ -1,6 +1,6 @@
 # Name: global
-# Updated: 2025-06-19 13:11:56 UTC
-# Total: 29623
+# Updated: 2025-06-23 14:06:17 UTC
+# Total: 29627
 
 DOMAIN,1password.drift.click
 DOMAIN,adobeereg.com
@@ -1658,6 +1658,7 @@ DOMAIN-SUFFIX,ams02.space
 DOMAIN-SUFFIX,amsterdamhotescort.com
 DOMAIN-SUFFIX,amsterdamluxescort.com
 DOMAIN-SUFFIX,amtb-taipei.org
+DOMAIN-SUFFIX,amuletmc.com
 DOMAIN-SUFFIX,amytele.com
 DOMAIN-SUFFIX,amzn.com
 DOMAIN-SUFFIX,amzn.to
@@ -20209,6 +20210,7 @@ DOMAIN-SUFFIX,piaotia.com
 DOMAIN-SUFFIX,piaotian.net
 DOMAIN-SUFFIX,piapro.net
 DOMAIN-SUFFIX,picacg2022.com
+DOMAIN-SUFFIX,picacgy.com
 DOMAIN-SUFFIX,picacn.xyz
 DOMAIN-SUFFIX,picacomic.com
 DOMAIN-SUFFIX,picacomic.xyz
@@ -24109,6 +24111,7 @@ DOMAIN-SUFFIX,storify.com
 DOMAIN-SUFFIX,storj.io
 DOMAIN-SUFFIX,storm.mg
 DOMAIN-SUFFIX,stormmediagroup.com
+DOMAIN-SUFFIX,storry.tv
 DOMAIN-SUFFIX,storyful.com
 DOMAIN-SUFFIX,stourbridge.ac.uk
 DOMAIN-SUFFIX,stow.ac.uk
@@ -27314,6 +27317,7 @@ DOMAIN-SUFFIX,w-pool.com
 DOMAIN-SUFFIX,w.org
 DOMAIN-SUFFIX,w.wiki
 DOMAIN-SUFFIX,w3.org
+DOMAIN-SUFFIX,w3s.link
 DOMAIN-SUFFIX,w3schools.com
 DOMAIN-SUFFIX,w6un.com
 DOMAIN-SUFFIX,wa.me

@@ -1,6 +1,6 @@
 # Name: proxy
-# Updated: 2025-06-19 13:11:56 UTC
-# Total: 6032
+# Updated: 2025-06-23 14:06:17 UTC
+# Total: 6039
 
 DOMAIN,api.waqi.info
 DOMAIN,aqi.aqicn.org
@@ -282,6 +282,7 @@ DOMAIN-SUFFIX,ampproject.com
 DOMAIN-SUFFIX,ampproject.net
 DOMAIN-SUFFIX,ampproject.org
 DOMAIN-SUFFIX,amtb-taipei.org
+DOMAIN-SUFFIX,amuletmc.com
 DOMAIN-SUFFIX,anaconda.com
 DOMAIN-SUFFIX,anchor.fm
 DOMAIN-SUFFIX,anchorfree.com
@@ -1378,6 +1379,7 @@ DOMAIN-SUFFIX,dw-world.com
 DOMAIN-SUFFIX,dw-world.de
 DOMAIN-SUFFIX,dw.com
 DOMAIN-SUFFIX,dw.de
+DOMAIN-SUFFIX,dweb.link
 DOMAIN-SUFFIX,dwheeler.com
 DOMAIN-SUFFIX,dwnews.com
 DOMAIN-SUFFIX,dwnews.net
@@ -1721,6 +1723,7 @@ DOMAIN-SUFFIX,fontsource.org
 DOMAIN-SUFFIX,foolsmountain.com
 DOMAIN-SUFFIX,fooooo.com
 DOMAIN-SUFFIX,footwiball.com
+DOMAIN-SUFFIX,forbes.com
 DOMAIN-SUFFIX,foreignaffairs.com
 DOMAIN-SUFFIX,foreignpolicy.com
 DOMAIN-SUFFIX,form.new
@@ -2526,6 +2529,7 @@ DOMAIN-SUFFIX,ipaddress.com
 DOMAIN-SUFFIX,ipalter.com
 DOMAIN-SUFFIX,ipdefenseforum.com
 DOMAIN-SUFFIX,ipfire.org
+DOMAIN-SUFFIX,ipfs.4everland.io
 DOMAIN-SUFFIX,ipfs.io
 DOMAIN-SUFFIX,iphone4hongkong.com
 DOMAIN-SUFFIX,iphonehacks.com
@@ -3424,6 +3428,7 @@ DOMAIN-SUFFIX,nflximg.com
 DOMAIN-SUFFIX,nflximg.net
 DOMAIN-SUFFIX,nflxso.net
 DOMAIN-SUFFIX,nflxvideo.net
+DOMAIN-SUFFIX,nftstorage.link
 DOMAIN-SUFFIX,ngensis.com
 DOMAIN-SUFFIX,ngodupdongchung.com
 DOMAIN-SUFFIX,nhentai.net
@@ -4531,6 +4536,7 @@ DOMAIN-SUFFIX,storify.com
 DOMAIN-SUFFIX,storj.io
 DOMAIN-SUFFIX,storm.mg
 DOMAIN-SUFFIX,stormmediagroup.com
+DOMAIN-SUFFIX,storry.tv
 DOMAIN-SUFFIX,stoweboyd.com
 DOMAIN-SUFFIX,straitstimes.com
 DOMAIN-SUFFIX,stranabg.com
@@ -5404,6 +5410,7 @@ DOMAIN-SUFFIX,w-pool.com
 DOMAIN-SUFFIX,w.org
 DOMAIN-SUFFIX,w.wiki
 DOMAIN-SUFFIX,w3.org
+DOMAIN-SUFFIX,w3s.link
 DOMAIN-SUFFIX,w3schools.com
 DOMAIN-SUFFIX,waffle1999.com
 DOMAIN-SUFFIX,wahas.com

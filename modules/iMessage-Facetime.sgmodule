@@ -1,6 +1,7 @@
 #!name=iMessage/Facetime
 #!desc=iMessage/Facetime
 #!homepage=
+#!icon=https://github.com/blackmatrix7/ios_rule_script/blob/master/icon/color/apple.png
 #!moduleurl=https://raw.githubusercontent.com/Alec-Desperado/VPN/refs/heads/main/modules/iMessage-Facetime.sgmodule
 
 [Rule]

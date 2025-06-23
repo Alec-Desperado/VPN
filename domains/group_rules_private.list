@@ -1,6 +1,6 @@
 # Name: group_rules_private
-# Updated: 2025-06-19 13:11:14 UTC
-# Total: 153
+# Updated: 2025-06-23 14:05:26 UTC
+# Total: 163
 
 DOMAIN,asusrouter.com
 DOMAIN,instant.arubanetworks.com
@@ -115,6 +115,8 @@ DOMAIN-SUFFIX,hiwifi.com
 DOMAIN-SUFFIX,home.arpa
 DOMAIN-SUFFIX,internal
 DOMAIN-SUFFIX,invalid
+DOMAIN-SUFFIX,ip6-localhost
+DOMAIN-SUFFIX,ip6-loopback
 DOMAIN-SUFFIX,lan
 DOMAIN-SUFFIX,leike.cc
 DOMAIN-SUFFIX,local
@@ -133,6 +135,7 @@ DOMAIN-SUFFIX,tendawifi.com
 DOMAIN-SUFFIX,test
 DOMAIN-SUFFIX,test.steampowered.com
 DOMAIN-SUFFIX,tplinkwifi.net
+DOMAIN-SUFFIX,tplogin.cn
 DOMAIN-SUFFIX,ts.net
 DOMAIN-SUFFIX,wifi.cmcc
 DOMAIN-SUFFIX,zte.home
@@ -147,11 +150,18 @@ IP-CIDR,192.0.2.0/24,no-resolve
 IP-CIDR,192.168.0.0/16,no-resolve
 IP-CIDR,192.88.99.0/24,no-resolve
 IP-CIDR,198.18.0.0/15,no-resolve
+IP-CIDR,198.18.0.0/16,no-resolve
 IP-CIDR,198.51.100.0/24,no-resolve
 IP-CIDR,203.0.113.0/24,no-resolve
 IP-CIDR,224.0.0.0/3,no-resolve
+IP-CIDR,224.0.0.0/4,no-resolve
+IP-CIDR,255.255.255.255/32,no-resolve
 IP-CIDR,::/127,no-resolve
 IP-CIDR,fc00::/7,no-resolve
 IP-CIDR,fe80::/10,no-resolve
 IP-CIDR,ff00::/8,no-resolve
+IP-CIDR6,::1/128,no-resolve
+IP-CIDR6,fc00::/7,no-resolve
+IP-CIDR6,fd00::/8,no-resolve
+IP-CIDR6,fe80::/10,no-resolve
 URL-REGEX,^[a-z]([a-z0-9-]{0,61}[a-z0-9])?$

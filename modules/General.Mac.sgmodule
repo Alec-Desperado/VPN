@@ -1,7 +1,7 @@
 #!name=General Enhanced 🌐
 #!desc=(🖥️ macOS edition) 1.Override the content of the skip-agent segment 2.Add the return of real IP segment content 3. Add non-MitM domain names to prevent interruption of the connection
 #!author=
-#!updated=2025-06-19 13:17:44 UTC
+#!updated=2025-06-23 14:06:27 UTC
 #!homepage=
 #!moduleurl=https://raw.githubusercontent.com/Alec-Desperado/VPN/refs/heads/main/modules/General.Mac.sgmodule
 #!icon=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Bypass.png
@@ -14,16 +14,16 @@
 # Skip Proxy. This option forces connections to these domains or
 # IP ranges to be handled by the Shadowrocket TUN interface instead of the Shadowrocket proxy server.
 # This option is used to resolve some compatibility issues with some applications.
-skip-proxy = 192.168.0.0/16,10.0.0.0/8,172.16.0.0/12,127.0.0.0/8,169.254.0.0/16,100.64.0.0/10,192.0.0.0/24,192.88.99.0/24,224.0.0.0/4,233.252.0.0/24,239.255.255.250/32,255.255.255.255/32,::1/128,::ffff:0:0:0/96,::ffff:0:0/96,100::/64,2001::/32,2001:20::/28,2001:db8::/32,2002::/16,3fff::/20,5f00::/16,64:ff9b::/96,64:ff9b:1::/48,fc00::/7,fe80::/10,ff00::/8,localhost,*.lan,*.local,*.internal,gateway.icloud.com,gateway.fe2.apple-dns.net,gspe79-ssl.ls.apple.com,captive.apple.com,ntp.*.com,time.*.com,*.apple-cloudkit.com,*.apple-dns.net,*.apple-mapkit.com,*.apple.com,*.apple,*.cdn-apple.com,*.icloud-content.com,*.icloud.com,*.itunes.com,*.mzstatic.com,*.safebrowsing.apple,appldnld.apple.com.edgesuite.net,apple-relay.cloudflare.com,apple-relay.fastly-edge.com,cp4.cloudflare.com,*.ru,cid.yandex.net,localhost.ptlogin2.qq.com,localhost.sec.qq.com,localhost.work.weixin.qq.com
+skip-proxy = 192.168.0.0/16,10.0.0.0/8,172.16.0.0/12,213.59.192.0/18,212.193.144.0/20,localhost,*.local,captive.apple.com,*.apple.com,*.icloud.com,*.itunes.com,*.ru,cid.yandex.net,stun.l.google.com
 
 
 # TUN Bypass Routing. The Shadowrocket TUN interface supports only the TCP protocol.
 # Use this option to bypass the specified IP address range, allowing other protocols to pass through.
-tun-excluded-routes = 192.168.0.0/16,10.0.0.0/8,172.16.0.0/12,127.0.0.0/8,169.254.0.0/16,100.64.0.0/10,192.0.0.0/24,192.88.99.0/24,224.0.0.0/4,233.252.0.0/24,239.255.255.250/32,255.255.255.255/32,::1/128,::ffff:0:0:0/96,::ffff:0:0/96,100::/64,2001::/32,2001:20::/28,2001:db8::/32,2002::/16,3fff::/20,5f00::/16,64:ff9b::/96,64:ff9b:1::/48,fc00::/7,fe80::/10,ff00::/8
+tun-excluded-routes = 192.168.0.0/16,10.0.0.0/8,172.16.0.0/12,213.59.192.0/18,212.193.144.0/20
 
 
 # Always use a real IP address, this option requires the Shadowrocket to process DNS queries in TUN and return a real IP address instead of a spoofed IP address.
-always-real-ip = localhost,*.lan,*.local,*.internal,ntp.*.com,time.*.com,*.apple-cloudkit.com,*.apple-mapkit.com,*.apple.com,*.apple,*.cdn-apple.com,*.icloud-content.com,*.icloud.com,*.itunes.com,*.mzstatic.com,*.safebrowsing.apple,appldnld.apple.com.edgesuite.net,apple-relay.cloudflare.com,apple-relay.fastly-edge.com,captive.apple.com,cp4.cloudflare.com,*.tbank.ru,*.tinkoff.ru,*.cdn-tinkoff.ru,*.tinkoffjournal.ru,*.mts.ru,*.cloudflareclient.com,localhost.ptlogin2.qq.com,localhost.sec.qq.com,localhost.work.weixin.qq.com
+always-real-ip = *.lan,*.local
 
 
 # This option allows you to return a fake IP address, such as "stun-response-ip=1.1.1.1", "stun-response-ipv6=::1",

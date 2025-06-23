@@ -1,5 +1,5 @@
-# Name: group_rules_custom_rules_direct
-# Updated: 2025-06-19 13:09:55 UTC
+# Name: custom_rules_direct
+# Updated: 2025-06-23 14:04:01 UTC
 # Total: 21
 
 DOMAIN-SUFFIX,alfabank.com
@@ -17,9 +17,9 @@ DOMAIN-SUFFIX,sberbankaktivno.ru
 DOMAIN-SUFFIX,sberindex.ru
 DOMAIN-SUFFIX,tbank.ru
 DOMAIN-SUFFIX,vtb.ru
-IP-ASN,AS42121,no-resolve
 IP-ASN,AS8291,no-resolve
-IP-CIDR,10.0.0.0/8,no-resolve
-IP-CIDR,127.0.0.0/8,no-resolve
-IP-CIDR,172.16.0.0/12,no-resolve
+IP-ASN,AS42121,no-resolve
 IP-CIDR,192.168.0.0/16,no-resolve
+IP-CIDR,127.0.0.0/8,no-resolve
+IP-CIDR,10.0.0.0/8,no-resolve
+IP-CIDR,172.16.0.0/12,no-resolve
