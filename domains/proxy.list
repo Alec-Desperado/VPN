@@ -1,6 +1,6 @@
 # Name: proxy
-# Updated: 2025-06-23 14:26:12 UTC
-# Total: 6039
+# Updated: 2025-06-24 08:04:42 UTC
+# Total: 6044
 
 DOMAIN,api.waqi.info
 DOMAIN,aqi.aqicn.org
@@ -387,6 +387,7 @@ DOMAIN-SUFFIX,artofpeacefoundation.org
 DOMAIN-SUFFIX,artstation.com
 DOMAIN-SUFFIX,artsy.net
 DOMAIN-SUFFIX,arunachalforests.gov.in
+DOMAIN-SUFFIX,arvanstorage.ir
 DOMAIN-SUFFIX,asacp.org
 DOMAIN-SUFFIX,asg.to
 DOMAIN-SUFFIX,asiaharvest.org
@@ -2060,6 +2061,7 @@ DOMAIN-SUFFIX,gotdns.ch
 DOMAIN-SUFFIX,gotgeeks.com
 DOMAIN-SUFFIX,gotquestions.org
 DOMAIN-SUFFIX,gotrusted.com
+DOMAIN-SUFFIX,gov.ir
 DOMAIN-SUFFIX,gov.taipei
 DOMAIN-SUFFIX,gr8domain.biz
 DOMAIN-SUFFIX,gr8name.biz
@@ -2546,8 +2548,10 @@ DOMAIN-SUFFIX,ippotv.com
 DOMAIN-SUFFIX,ipredator.se
 DOMAIN-SUFFIX,iptvbin.com
 DOMAIN-SUFFIX,ipvanish.com
+DOMAIN-SUFFIX,irangov.ir
 DOMAIN-SUFFIX,iredmail.org
 DOMAIN-SUFFIX,irib.ir
+DOMAIN-SUFFIX,irna.ir
 DOMAIN-SUFFIX,ironpython.net
 DOMAIN-SUFFIX,ironsocket.com
 DOMAIN-SUFFIX,is-a-hunter.com
@@ -3878,6 +3882,7 @@ DOMAIN-SUFFIX,premeforwindows7.com
 DOMAIN-SUFFIX,premproxy.com
 DOMAIN-SUFFIX,presentation.new
 DOMAIN-SUFFIX,presentationzen.com
+DOMAIN-SUFFIX,president.ir
 DOMAIN-SUFFIX,prestige-av.com
 DOMAIN-SUFFIX,primevideo.com
 DOMAIN-SUFFIX,printfriendly.com
