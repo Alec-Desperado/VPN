@@ -1,0 +1,25 @@
+#!name=group_rules_hosting
+#!desc=group_rules_hosting
+#!moduleurl=https://raw.githubusercontent.com/Alec-Desperado/VPN/refs/heads/main/modules/group_rules_hosting.sgmodule
+#!updated=2025-06-24 08:36:50 UTC
+#!homepage=https://raw.githubusercontent.com/Alec-Desperado/VPN/refs/heads/main/modules/group_rules_hosting.sgmodule
+#!icon=
+
+DOMAIN,sentry.hetzner.company
+DOMAIN-SUFFIX,digitalocean.com
+DOMAIN-SUFFIX,digitaloceanspaces.com
+DOMAIN-SUFFIX,do.co
+DOMAIN-SUFFIX,first-ns.de
+DOMAIN-SUFFIX,hetzner.cloud
+DOMAIN-SUFFIX,hetzner.com
+DOMAIN-SUFFIX,hetzner.company
+DOMAIN-SUFFIX,hetzner.de
+DOMAIN-SUFFIX,hetzner.social
+DOMAIN-SUFFIX,htznr.li
+DOMAIN-SUFFIX,nginxconfig.io
+DOMAIN-SUFFIX,second-ns.com
+DOMAIN-SUFFIX,second-ns.de
+DOMAIN-SUFFIX,your-objectstorage.com
+DOMAIN-SUFFIX,your-server.de
+DOMAIN-SUFFIX,your-storagebox.de
+DOMAIN-SUFFIX,your-storageshare.de
