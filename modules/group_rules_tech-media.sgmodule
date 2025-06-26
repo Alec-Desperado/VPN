@@ -1,0 +1,9 @@
+#!name=group_rules_tech-media
+#!desc=group_rules_tech-media PROXY
+#!moduleurl=https://raw.githubusercontent.com/Alec-Desperado/VPN/refs/heads/main/modules/group_rules_tech-media.sgmodule
+#!updated=2025-06-26 10:37:33 UTC
+#!homepage=https://raw.githubusercontent.com/Alec-Desperado/VPN/refs/heads/main/modules/group_rules_tech-media.sgmodule
+#!icon=
+
+[Rule]
+RULE-SET,https://raw.githubusercontent.com/Alec-Desperado/VPN/refs/heads/main/domains/group_rules_tech-media.list,PROXY
