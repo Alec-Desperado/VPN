@@ -1,0 +1,9 @@
+#!name=group_rules_hosting
+#!desc=group_rules_hosting PROXY
+#!moduleurl=https://raw.githubusercontent.com/Alec-Desperado/VPN/refs/heads/main/modules/group_rules_hosting.sgmodule
+#!updated=2025-06-29 21:56:01 UTC
+#!homepage=https://raw.githubusercontent.com/Alec-Desperado/VPN/refs/heads/main/modules/group_rules_hosting.sgmodule
+#!icon=
+
+[Rule]
+RULE-SET,https://raw.githubusercontent.com/Alec-Desperado/VPN/refs/heads/main/domains/group_rules_hosting.list,PROXY

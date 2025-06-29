@@ -1,0 +1,6 @@
+# Name: group_rules_imazing
+# Updated: 2025-06-29 21:55:53 UTC
+# Total: 2
+
+DOMAIN,tlu.dl.delivery.mp.microsoft.com
+DOMAIN-SUFFIX,imazing.com
