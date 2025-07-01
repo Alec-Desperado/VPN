@@ -1,9 +1,0 @@
-#!name=group_rules_public-tracker
-#!desc=group_rules_public-tracker PROXY
-#!moduleurl=https://raw.githubusercontent.com/Alec-Desperado/VPN/refs/heads/main/modules/group_rules_public-tracker.sgmodule
-#!updated=2025-06-29 21:56:01 UTC
-#!homepage=https://raw.githubusercontent.com/Alec-Desperado/VPN/refs/heads/main/modules/group_rules_public-tracker.sgmodule
-#!icon=
-
-[Rule]
-RULE-SET,https://raw.githubusercontent.com/Alec-Desperado/VPN/refs/heads/main/domains/group_rules_public-tracker.list,PROXY

@@ -1,7 +1,0 @@
-# Name: group_rules_perplexity
-# Updated: 2025-06-29 21:54:53 UTC
-# Total: 3
-
-DOMAIN,pplx-res.cloudinary.com
-DOMAIN-SUFFIX,perplexity.ai
-DOMAIN-SUFFIX,pplx.ai

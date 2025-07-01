@@ -1,8 +1,0 @@
-# Name: anthropic
-# Updated: 2025-06-29 21:47:14 UTC
-# Total: 4
-
-DOMAIN,servd-anthropic-website.b-cdn.net
-DOMAIN-SUFFIX,anthropic.com
-DOMAIN-SUFFIX,claude.ai
-DOMAIN-SUFFIX,claudeusercontent.com
