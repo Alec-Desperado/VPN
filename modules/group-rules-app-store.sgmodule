@@ -1,9 +1,0 @@
-#!name=group-rules-app-store
-#!desc=group-rules-app-store DIRECT
-#!moduleurl=https://raw.githubusercontent.com/Alec-Desperado/VPN/refs/heads/main/modules/group-rules-app-store.sgmodule
-#!updated=2025-07-04 09:39:59 UTC
-#!homepage=https://raw.githubusercontent.com/Alec-Desperado/VPN/refs/heads/main/modules/group-rules-app-store.sgmodule
-#!icon=
-
-[Rule]
-RULE-SET,https://raw.githubusercontent.com/Alec-Desperado/VPN/refs/heads/main/domains/groups/group-rules-app-store.list,DIRECT
