@@ -1,0 +1,34 @@
+# Name: mozilla
+# Updated: 2025-07-04 10:25:53 UTC
+# Total: 30
+
+DOMAIN,mdn.mozillademos.org
+DOMAIN-SUFFIX,bugzilla.org
+DOMAIN-SUFFIX,crates.io
+DOMAIN-SUFFIX,developer.allizom.org
+DOMAIN-SUFFIX,developer.mozilla.org
+DOMAIN-SUFFIX,extensionworkshop.com
+DOMAIN-SUFFIX,firefox.com
+DOMAIN-SUFFIX,firefoxusercontent.com
+DOMAIN-SUFFIX,getpocket.com
+DOMAIN-SUFFIX,location.services.mozilla.com
+DOMAIN-SUFFIX,mdn.allizom.net
+DOMAIN-SUFFIX,mdn.dev
+DOMAIN-SUFFIX,mdn.mozilla.net
+DOMAIN-SUFFIX,mdn.mozillademos.org
+DOMAIN-SUFFIX,mdn.mozit.cloud
+DOMAIN-SUFFIX,mdnplay.dev
+DOMAIN-SUFFIX,mdnyalp.dev
+DOMAIN-SUFFIX,media.prod.mdn.mozit.cloud
+DOMAIN-SUFFIX,mofoprod.net
+DOMAIN-SUFFIX,mozgcp.net
+DOMAIN-SUFFIX,mozilla.com
+DOMAIN-SUFFIX,mozilla.community
+DOMAIN-SUFFIX,mozilla.net
+DOMAIN-SUFFIX,mozilla.org
+DOMAIN-SUFFIX,pocket-image-cache.com
+DOMAIN-SUFFIX,push.services.mozilla.com
+DOMAIN-SUFFIX,rust-lang.org
+DOMAIN-SUFFIX,seamonkey-project.org
+DOMAIN-SUFFIX,sentry.prod.mozaws.net
+DOMAIN-SUFFIX,thunderbird.net

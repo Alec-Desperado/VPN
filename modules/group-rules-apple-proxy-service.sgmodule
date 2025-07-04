@@ -1,0 +1,9 @@
+#!name=group-rules-apple-proxy-service
+#!desc=group-rules-apple-proxy-service PROXY
+#!moduleurl=https://raw.githubusercontent.com/Alec-Desperado/VPN/refs/heads/main/modules/group-rules-apple-proxy-service.sgmodule
+#!updated=2025-07-04 10:33:51 UTC
+#!homepage=https://raw.githubusercontent.com/Alec-Desperado/VPN/refs/heads/main/modules/group-rules-apple-proxy-service.sgmodule
+#!icon=
+
+[Rule]
+RULE-SET,https://raw.githubusercontent.com/Alec-Desperado/VPN/refs/heads/main/domains/groups/group-rules-apple-proxy-service.list,PROXY
