@@ -1,0 +1,6 @@
+# Name: openwrt
+# Updated: 2025-07-04 11:01:56 UTC
+# Total: 2
+
+DOMAIN-SUFFIX,lede-project.org
+DOMAIN-SUFFIX,openwrt.org
