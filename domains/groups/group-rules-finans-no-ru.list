@@ -1,0 +1,10 @@
+# Name: group-rules-finans-no-ru
+# Updated: 2025-07-07 18:47:02 UTC
+# Total: 6
+
+DOMAIN-SUFFIX,venmo.s3.amazonaws.com
+DOMAIN-SUFFIX,visa.com.kn
+DOMAIN-SUFFIX,visa.com.ru
+DOMAIN-KEYWORD,paypal
+DOMAIN-KEYWORD,stripe
+USER-AGENT,PayPal*

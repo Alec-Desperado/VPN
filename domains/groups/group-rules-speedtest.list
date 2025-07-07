@@ -1,0 +1,14 @@
+# Name: group-rules-speedtest
+# Updated: 2025-07-07 18:52:18 UTC
+# Total: 10
+
+DOMAIN,hk-global-bgp.hkg.speedtest.yecaoyun.com
+DOMAIN,www.speedtest.net.cdn.cloudflare.net
+DOMAIN-SUFFIX,open.cachefly.net
+DOMAIN-SUFFIX,speed.cloudflare.com
+DOMAIN-SUFFIX,speed.dler.io
+DOMAIN-SUFFIX,speed.hinet.net
+DOMAIN-SUFFIX,speed2.hinet.net
+DOMAIN-SUFFIX,speedtest.xfinity.com
+DOMAIN-KEYWORD,speedtest
+USER-AGENT,SpeedTest*
