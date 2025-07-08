@@ -1,6 +1,0 @@
-#!name=Discord
-#!desc=Discord
-#!homepage=
-#!moduleurl=https://raw.githubusercontent.com/Alec-Desperado/VPN/refs/heads/main/modules/Discord.sgmodule
-RULE-SET,https://raw.githubusercontent.com/Alec-Desperado/VPN/refs/heads/main/domains/discord.list,PROXY
-RULE-SET,https://raw.githubusercontent.com/helmiau/clashrules/refs/heads/main/shadowrocket/Game_Discord_Ports.list,PROXY

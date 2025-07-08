@@ -1,8 +1,0 @@
-# Name: group-rules-forums
-# Updated: 2025-07-08 00:03:30 UTC
-# Total: 4
-
-DOMAIN-SUFFIX,reddit.app.link
-DOMAIN-SUFFIX,reddit.map.fastly.net
-DOMAIN-SUFFIX,reddituploads.com.cdn-cf.behance.net
-DOMAIN-SUFFIX,reddituploads.com.cdn-cf.dropbox.com
