@@ -1,0 +1,20 @@
+# Name: group-rules-entertainmen-proxy
+# Updated: 2025-07-08 00:03:22 UTC
+# Total: 16
+
+DOMAIN-SUFFIX,audio-ak-spotify-com.akamaized.net
+DOMAIN-SUFFIX,audio4-ak-spotify-com.akamaized.net
+DOMAIN-SUFFIX,heads-ak-spotify-com.akamaized.net
+DOMAIN-SUFFIX,heads4-ak-spotify-com.akamaized.net
+DOMAIN-SUFFIX,imdb
+DOMAIN-SUFFIX,spotify-com.akamaized.net
+DOMAIN-SUFFIX,spotify.app.link
+DOMAIN-SUFFIX,spotify.map.fastly.net
+DOMAIN-SUFFIX,spotify.map.fastlylb.net
+DOMAIN-SUFFIX,static.lostfilm.top
+DOMAIN-SUFFIX,tmdb-image-prod.b-cdn.net
+DOMAIN-KEYWORD,spotify
+USER-AGENT,SoundCloud*
+USER-AGENT,Spotify*
+IP-CIDR,104.154.127.126/32,no-resolve
+IP-CIDR,35.186.224.47/32,no-resolve

@@ -1,0 +1,13 @@
+# Name: group-rules-anticensorship
+# Updated: 2025-07-07 23:57:37 UTC
+# Total: 9
+
+DOMAIN-SUFFIX,gateway.pinata.cloud
+DOMAIN-SUFFIX,ipfs.anonymize.com
+DOMAIN-SUFFIX,ipfs.eternum.io
+DOMAIN-SUFFIX,ipfs.eth.aragon.network
+DOMAIN-SUFFIX,ipfs.fleek.co
+DOMAIN-SUFFIX,ipfs.lain.la
+DOMAIN-SUFFIX,ipfs.runfission.com
+DOMAIN-SUFFIX,trojan-gfw.github.io
+DOMAIN-SUFFIX,xtls.github.io
