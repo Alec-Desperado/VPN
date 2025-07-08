@@ -1,0 +1,11 @@
+# Name: custom_rules_apple-proxy-service
+# Updated: 2025-07-08 01:23:14 UTC
+# Total: 7
+
+DOMAIN-SUFFIX,apple-relay.apple.com
+DOMAIN-SUFFIX,apple-relay.cloudflare.com
+DOMAIN-SUFFIX,apple-relay.mask.apple-dns.net
+DOMAIN-SUFFIX,apple.comscoreresearch.com
+DOMAIN-SUFFIX,tv.apple.com
+DOMAIN-KEYWORD,apple-relay
+DOMAIN-KEYWORD,testflight

@@ -1,0 +1,6 @@
+# Name: fastlane
+# Updated: 2025-07-08 01:29:09 UTC
+# Total: 2
+
+DOMAIN-SUFFIX,fastlane.ci
+DOMAIN-SUFFIX,fastlane.tools

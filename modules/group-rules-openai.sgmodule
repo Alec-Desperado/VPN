@@ -1,0 +1,9 @@
+#!name=group-rules-openai
+#!desc=group-rules-openai PROXY
+#!moduleurl=https://raw.githubusercontent.com/Alec-Desperado/VPN/refs/heads/main/modules/group-rules-openai.sgmodule
+#!updated=2025-07-08 01:34:09 UTC
+#!homepage=https://raw.githubusercontent.com/Alec-Desperado/VPN/refs/heads/main/modules/group-rules-openai.sgmodule
+#!icon=
+
+[Rule]
+RULE-SET,https://raw.githubusercontent.com/Alec-Desperado/VPN/refs/heads/main/domains/groups/group-rules-openai.list,PROXY
