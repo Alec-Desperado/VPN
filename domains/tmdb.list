@@ -1,0 +1,7 @@
+# Name: tmdb
+# Updated: 2025-07-09 14:05:34 UTC
+# Total: 3
+
+DOMAIN,tmdb-image-prod.b-cdn.net
+DOMAIN-SUFFIX,themoviedb.org
+DOMAIN-SUFFIX,tmdb.org
