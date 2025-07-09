@@ -1,9 +1,0 @@
-#!name=group-rules-twitter
-#!desc=group-rules-twitter PROXY
-#!moduleurl=https://raw.githubusercontent.com/Alec-Desperado/VPN/refs/heads/main/modules/group-rules-twitter.sgmodule
-#!updated=2025-07-09 12:36:48 UTC
-#!homepage=https://raw.githubusercontent.com/Alec-Desperado/VPN/refs/heads/main/modules/group-rules-twitter.sgmodule
-#!icon=
-
-[Rule]
-RULE-SET,https://raw.githubusercontent.com/Alec-Desperado/VPN/refs/heads/main/domains/groups/group-rules-twitter.list,PROXY
