@@ -1,0 +1,9 @@
+#!name=group-rules-speedtest
+#!desc=group-rules-speedtest PROXY
+#!moduleurl=https://raw.githubusercontent.com/Alec-Desperado/VPN/refs/heads/main/modules/group-rules-speedtest.sgmodule
+#!updated=2025-07-09 11:25:50 UTC
+#!homepage=https://raw.githubusercontent.com/Alec-Desperado/VPN/refs/heads/main/modules/group-rules-speedtest.sgmodule
+#!icon=
+
+[Rule]
+RULE-SET,https://raw.githubusercontent.com/Alec-Desperado/VPN/refs/heads/main/domains/groups/group-rules-speedtest.list,PROXY
