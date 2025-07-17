@@ -1,0 +1,46 @@
+# Name: private
+# Updated: 2025-07-17 07:02:51 UTC
+# Total: 42
+
+DOMAIN,asusrouter.com
+DOMAIN,instant.arubanetworks.com
+DOMAIN,miwifi.com
+DOMAIN,oasisauth.h3c.com
+DOMAIN,router.asus.com
+DOMAIN,routerlogin.com
+DOMAIN,setmeup.arubanetworks.com
+DOMAIN,www.asusrouter.com
+DOMAIN,www.miwifi.com
+DOMAIN,www.routerlogin.com
+DOMAIN-SUFFIX,0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa
+DOMAIN-SUFFIX,1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa
+DOMAIN-SUFFIX,8.b.d.0.1.0.0.2.ip6.arpa
+DOMAIN-SUFFIX,8.e.f.ip6.arpa
+DOMAIN-SUFFIX,9.e.f.ip6.arpa
+DOMAIN-SUFFIX,a.e.f.ip6.arpa
+DOMAIN-SUFFIX,b.e.f.ip6.arpa
+DOMAIN-SUFFIX,d.f.ip6.arpa
+DOMAIN-SUFFIX,example
+DOMAIN-SUFFIX,hiwifi.com
+DOMAIN-SUFFIX,home.arpa
+DOMAIN-SUFFIX,internal
+DOMAIN-SUFFIX,invalid
+DOMAIN-SUFFIX,lan
+DOMAIN-SUFFIX,leike.cc
+DOMAIN-SUFFIX,local
+DOMAIN-SUFFIX,localdomain
+DOMAIN-SUFFIX,localhost
+DOMAIN-SUFFIX,localhost.ptlogin2.qq.com
+DOMAIN-SUFFIX,localhost.sec.qq.com
+DOMAIN-SUFFIX,my.router
+DOMAIN-SUFFIX,peiluyou.com
+DOMAIN-SUFFIX,phicomm.me
+DOMAIN-SUFFIX,plex.direct
+DOMAIN-SUFFIX,router.ctc
+DOMAIN-SUFFIX,tendawifi.com
+DOMAIN-SUFFIX,test
+DOMAIN-SUFFIX,test.steampowered.com
+DOMAIN-SUFFIX,tplinkwifi.net
+DOMAIN-SUFFIX,ts.net
+DOMAIN-SUFFIX,zte.home
+URL-REGEX,^[a-z]([a-z0-9-]{0,61}[a-z0-9])?$
