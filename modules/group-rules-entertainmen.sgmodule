@@ -1,0 +1,9 @@
+#!name=group-rules-entertainmen
+#!desc=group-rules-entertainmen PROXY
+#!moduleurl=https://raw.githubusercontent.com/Alec-Desperado/VPN/refs/heads/main/modules/group-rules-entertainmen.sgmodule
+#!updated=2025-07-21 00:37:01 UTC
+#!homepage=https://raw.githubusercontent.com/Alec-Desperado/VPN/refs/heads/main/modules/group-rules-entertainmen.sgmodule
+#!icon=
+
+[Rule]
+RULE-SET,https://raw.githubusercontent.com/Alec-Desperado/VPN/refs/heads/main/domains/groups/group-rules-entertainmen.list,PROXY

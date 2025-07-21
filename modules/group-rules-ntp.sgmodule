@@ -1,0 +1,9 @@
+#!name=group-rules-ntp
+#!desc=group-rules-ntp PROXY
+#!moduleurl=https://raw.githubusercontent.com/Alec-Desperado/VPN/refs/heads/main/modules/group-rules-ntp.sgmodule
+#!updated=2025-07-21 00:37:01 UTC
+#!homepage=https://raw.githubusercontent.com/Alec-Desperado/VPN/refs/heads/main/modules/group-rules-ntp.sgmodule
+#!icon=
+
+[Rule]
+RULE-SET,https://raw.githubusercontent.com/Alec-Desperado/VPN/refs/heads/main/domains/groups/group-rules-ntp.list,PROXY
