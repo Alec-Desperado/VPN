@@ -1,9 +1,0 @@
-#!name=group-rules-atlassian
-#!desc=group-rules-atlassian PROXY
-#!moduleurl=https://raw.githubusercontent.com/Alec-Desperado/VPN/refs/heads/main/modules/group-rules-atlassian.sgmodule
-#!updated=2025-07-23 11:56:08 UTC
-#!homepage=https://raw.githubusercontent.com/Alec-Desperado/VPN/refs/heads/main/modules/group-rules-atlassian.sgmodule
-#!icon=
-
-[Rule]
-RULE-SET,https://raw.githubusercontent.com/Alec-Desperado/VPN/refs/heads/main/domains/groups/group-rules-atlassian.list,PROXY
