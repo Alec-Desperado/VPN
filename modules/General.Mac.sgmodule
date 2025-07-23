@@ -1,0 +1,45 @@
+                    #!name=General Enhanced 🌐
+                    #!desc=(🖥️ macOS edition) 1.Override the content of the skip-agent segment 2.Add the return of real IP segment content 3. Add non-MitM domain names to prevent interruption of the connection
+                    #!author=
+                    #!updated=2025-07-23 21:51:24 UTC
+                    #!homepage=
+                    #!moduleurl=https://raw.githubusercontent.com/Alec-Desperado/VPN/refs/heads/main/modules/General.Mac.sgmodule
+                    #!icon=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Bypass.png
+                    #!system=mac
+                    #!category=General
+
+                    [General]
+
+
+# Skip Proxy. This option forces connections to these domains or
+# IP ranges to be handled by the Shadowrocket TUN interface instead of the Shadowrocket proxy server.
+# This option is used to resolve some compatibility issues with some applications.
+#
+# Skip the proxy interface and use the TUN interface instead.
+# This option causes the domain name or IP range in the list to be handled by the Shadowrocket TUN interface
+# instead of the Shadowrocket proxy server interface.
+# This option is used to improve the compatibility of some applications with proxy environments.
+# If TUN mode is enabled, all connections will be forced to be handled by TUN.
+# The list of addresses here can be ignored.
+skip-proxy = 192.168.0.0/16,10.0.0.0/8,172.16.0.0/12,17.0.0.0/8,213.59.192.0/18,212.193.144.0/20,localhost,*.lan,*.local,captive.apple.com,*.mos.ru,*.gosuslugi.ru,*.gov.ru,lk.parking.mos.ru,*.tbank.ru,*.tinkoff.ru,*.cdn-tinkoff.ru,*.tinkoffjournal.ru,*.mts.ru,*.mtsgsm.com
+
+
+# TUN Bypass Routing. The Shadowrocket TUN interface supports only the TCP protocol.
+# Use this option to bypass the specified IP address range, allowing other protocols to pass through.
+tun-excluded-routes = 192.168.0.0/16,10.0.0.0/8,172.16.0.0/12,17.0.0.0/8,213.59.192.0/18,212.193.144.0/20,127.0.0.0/8,100.64.0.0/10,169.254.0.0/16,255.255.255.255/32,192.0.0.0/24,192.0.2.0/24,198.51.100.0/24,203.0.113.0/24,192.88.99.0/24,224.0.0.0/4,239.255.255.250/32,::1/128,fc00::/7,fe80::/10,::ffff:0:0/96,::ffff:0:0:0/96,100::/64,2001::/32,2001:20::/28,2002::/16,5f00::/16,64:ff9b::/96,64:ff9b:1::/48,ff00::/8
+
+
+# Always use a real IP address, this option requires the Shadowrocket to process DNS queries in TUN and return a real IP address instead of a spoofed IP address.
+always-real-ip = localhost,*.lan,*.local,*.internal,*.direct,*.yandex-bank.net,*.tbank.ru,*.tinkoff.ru,*.mts.ru,*.mtsbank.ru,*.cloudflareclient.com
+
+
+# This option allows you to return a fake IP address, such as "stun-response-ip=1.1.1.1", "stun-response-ipv6=::1",
+# to prevent real IP address leakage and enhance WebRTC security. leakage and enhance WebRTC privacy and security.
+stun-response-ip=1.1.1.1
+stun-response-ipv6=::1
+
+
+                    # [MITM]
+                    # Domains that are not MitM and should not be disconnected
+                    # hostname = %APPEND% -*.facebook.com, -*.instagram.com, -*.twitter.com, -*.snssdk.com, -*.pstatp.com
+                    # hostname-disabled = %APPEND% gateway.icloud.com, gateway.icloud.com.cn, weather-data.apple.com, buy.itunes.apple.com, ios.chat.openai.com
