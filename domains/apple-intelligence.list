@@ -1,0 +1,7 @@
+# Name: apple-intelligence
+# Updated: 2025-07-25 07:39:55 UTC
+# Total: 3
+
+DOMAIN,apple-relay.apple.com
+DOMAIN,apple-relay.cloudflare.com
+DOMAIN,apple-relay.mask.apple-dns.net
