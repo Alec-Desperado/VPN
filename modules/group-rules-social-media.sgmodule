@@ -1,0 +1,9 @@
+#!name=group-rules-social-media
+#!desc=group-rules-social-media PROXY
+#!moduleurl=https://raw.githubusercontent.com/Alec-Desperado/VPN/refs/heads/main/modules/group-rules-social-media.sgmodule
+#!updated=2025-08-07 11:01:31 UTC
+#!homepage=https://raw.githubusercontent.com/Alec-Desperado/VPN/refs/heads/main/modules/group-rules-social-media.sgmodule
+#!icon=
+
+[Rule]
+RULE-SET,https://raw.githubusercontent.com/Alec-Desperado/VPN/refs/heads/main/domains/groups/group-rules-social-media.list,PROXY
