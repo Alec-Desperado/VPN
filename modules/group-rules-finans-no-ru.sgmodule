@@ -1,9 +1,0 @@
-#!name=group-rules-finans-no-ru
-#!desc=group-rules-finans-no-ru PROXY
-#!moduleurl=https://raw.githubusercontent.com/Alec-Desperado/VPN/refs/heads/main/modules/group-rules-finans-no-ru.sgmodule
-#!updated=2025-07-26 16:19:47 UTC
-#!homepage=https://raw.githubusercontent.com/Alec-Desperado/VPN/refs/heads/main/modules/group-rules-finans-no-ru.sgmodule
-#!icon=
-
-[Rule]
-RULE-SET,https://raw.githubusercontent.com/Alec-Desperado/VPN/refs/heads/main/domains/groups/group-rules-finans-no-ru.list,PROXY
