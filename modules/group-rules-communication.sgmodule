@@ -1,9 +1,0 @@
-#!name=group-rules-communication
-#!desc=group-rules-communication PROXY
-#!moduleurl=https://raw.githubusercontent.com/Alec-Desperado/VPN/refs/heads/main/modules/group-rules-communication.sgmodule
-#!updated=2025-08-17 13:29:56 UTC
-#!homepage=https://raw.githubusercontent.com/Alec-Desperado/VPN/refs/heads/main/modules/group-rules-communication.sgmodule
-#!icon=
-
-[Rule]
-RULE-SET,https://raw.githubusercontent.com/Alec-Desperado/VPN/refs/heads/main/domains/groups/group-rules-communication.list,PROXY
