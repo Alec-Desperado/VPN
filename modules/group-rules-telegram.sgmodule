@@ -1,9 +1,0 @@
-#!name=group-rules-telegram
-#!desc=group-rules-telegram PROXY
-#!moduleurl=https://raw.githubusercontent.com/Alec-Desperado/VPN/refs/heads/main/modules/group-rules-telegram.sgmodule
-#!updated=2025-09-08 17:47:18 UTC
-#!homepage=https://raw.githubusercontent.com/Alec-Desperado/VPN/refs/heads/main/modules/group-rules-telegram.sgmodule
-#!icon=
-
-[Rule]
-RULE-SET,https://raw.githubusercontent.com/Alec-Desperado/VPN/refs/heads/main/domains/groups/group-rules-telegram.list,PROXY

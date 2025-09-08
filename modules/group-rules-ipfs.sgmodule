@@ -1,9 +1,0 @@
-#!name=group-rules-ipfs
-#!desc=group-rules-ipfs PROXY
-#!moduleurl=https://raw.githubusercontent.com/Alec-Desperado/VPN/refs/heads/main/modules/group-rules-ipfs.sgmodule
-#!updated=2025-09-08 17:47:18 UTC
-#!homepage=https://raw.githubusercontent.com/Alec-Desperado/VPN/refs/heads/main/modules/group-rules-ipfs.sgmodule
-#!icon=
-
-[Rule]
-RULE-SET,https://raw.githubusercontent.com/Alec-Desperado/VPN/refs/heads/main/domains/groups/group-rules-ipfs.list,PROXY
