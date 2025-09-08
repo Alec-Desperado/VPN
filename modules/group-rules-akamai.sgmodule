@@ -1,0 +1,9 @@
+#!name=group-rules-akamai
+#!desc=group-rules-akamai PROXY
+#!moduleurl=https://raw.githubusercontent.com/Alec-Desperado/VPN/refs/heads/main/modules/group-rules-akamai.sgmodule
+#!updated=2025-09-08 18:02:25 UTC
+#!homepage=https://raw.githubusercontent.com/Alec-Desperado/VPN/refs/heads/main/modules/group-rules-akamai.sgmodule
+#!icon=
+
+[Rule]
+RULE-SET,https://raw.githubusercontent.com/Alec-Desperado/VPN/refs/heads/main/domains/groups/group-rules-akamai.list,PROXY
