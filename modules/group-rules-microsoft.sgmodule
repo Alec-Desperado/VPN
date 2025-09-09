@@ -1,0 +1,9 @@
+#!name=group-rules-microsoft
+#!desc=group-rules-microsoft PROXY
+#!moduleurl=https://raw.githubusercontent.com/Alec-Desperado/VPN/refs/heads/main/modules/group-rules-microsoft.sgmodule
+#!updated=2025-09-09 12:58:06 UTC
+#!homepage=https://raw.githubusercontent.com/Alec-Desperado/VPN/refs/heads/main/modules/group-rules-microsoft.sgmodule
+#!icon=
+
+[Rule]
+RULE-SET,https://raw.githubusercontent.com/Alec-Desperado/VPN/refs/heads/main/domains/groups/group-rules-microsoft.list,PROXY
