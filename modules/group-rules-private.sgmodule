@@ -1,9 +1,0 @@
-#!name=group-rules-private
-#!desc=group-rules-private DIRECT
-#!moduleurl=https://raw.githubusercontent.com/Alec-Desperado/VPN/refs/heads/main/modules/group-rules-private.sgmodule
-#!updated=2025-09-26 22:22:15 UTC
-#!homepage=https://raw.githubusercontent.com/Alec-Desperado/VPN/refs/heads/main/modules/group-rules-private.sgmodule
-#!icon=
-
-[Rule]
-RULE-SET,https://raw.githubusercontent.com/Alec-Desperado/VPN/refs/heads/main/domains/groups/group-rules-private.list,DIRECT
