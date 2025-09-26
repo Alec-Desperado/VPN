@@ -1,0 +1,9 @@
+#!name=group-rules-apple
+#!desc=group-rules-apple DIRECT
+#!moduleurl=https://raw.githubusercontent.com/Alec-Desperado/VPN/refs/heads/main/modules/group-rules-apple.sgmodule
+#!updated=2025-09-26 23:45:19 UTC
+#!homepage=https://raw.githubusercontent.com/Alec-Desperado/VPN/refs/heads/main/modules/group-rules-apple.sgmodule
+#!icon=
+
+[Rule]
+RULE-SET,https://raw.githubusercontent.com/Alec-Desperado/VPN/refs/heads/main/domains/groups/group-rules-apple.list,DIRECT

@@ -1,0 +1,9 @@
+#!name=group-rules-hardware
+#!desc=group-rules-hardware PROXY
+#!moduleurl=https://raw.githubusercontent.com/Alec-Desperado/VPN/refs/heads/main/modules/group-rules-hardware.sgmodule
+#!updated=2025-09-26 23:45:19 UTC
+#!homepage=https://raw.githubusercontent.com/Alec-Desperado/VPN/refs/heads/main/modules/group-rules-hardware.sgmodule
+#!icon=
+
+[Rule]
+RULE-SET,https://raw.githubusercontent.com/Alec-Desperado/VPN/refs/heads/main/domains/groups/group-rules-hardware.list,PROXY
