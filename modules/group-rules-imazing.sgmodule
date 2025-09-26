@@ -1,9 +1,0 @@
-#!name=group-rules-imazing
-#!desc=group-rules-imazing PROXY
-#!moduleurl=https://raw.githubusercontent.com/Alec-Desperado/VPN/refs/heads/main/modules/group-rules-imazing.sgmodule
-#!updated=2025-09-09 12:58:06 UTC
-#!homepage=https://raw.githubusercontent.com/Alec-Desperado/VPN/refs/heads/main/modules/group-rules-imazing.sgmodule
-#!icon=
-
-[Rule]
-RULE-SET,https://raw.githubusercontent.com/Alec-Desperado/VPN/refs/heads/main/domains/groups/group-rules-imazing.list,PROXY
