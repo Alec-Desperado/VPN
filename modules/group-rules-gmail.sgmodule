@@ -1,0 +1,9 @@
+#!name=group-rules-gmail
+#!desc=group-rules-gmail PROXY
+#!moduleurl=https://raw.githubusercontent.com/Alec-Desperado/VPN/refs/heads/main/modules/group-rules-gmail.sgmodule
+#!updated=2025-09-26 22:22:15 UTC
+#!homepage=https://raw.githubusercontent.com/Alec-Desperado/VPN/refs/heads/main/modules/group-rules-gmail.sgmodule
+#!icon=
+
+[Rule]
+RULE-SET,https://raw.githubusercontent.com/Alec-Desperado/VPN/refs/heads/main/domains/groups/group-rules-gmail.list,PROXY
