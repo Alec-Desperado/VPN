@@ -1,0 +1,8 @@
+# Name: apple-ads
+# Updated: 2025-11-10 19:52:28 UTC
+# Total: 4
+
+DOMAIN-SUFFIX,api-adservices.apple.com
+DOMAIN-SUFFIX,iad.apple.com
+DOMAIN-SUFFIX,iadsdk.apple.com
+DOMAIN-SUFFIX,qwapi.com
