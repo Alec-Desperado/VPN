@@ -1,9 +1,0 @@
-# Name: kinopub
-# Updated: 2025-11-10 19:49:20 UTC
-# Total: 5
-
-DOMAIN-SUFFIX,gfw.ovh
-DOMAIN-SUFFIX,kino.pub
-DOMAIN-SUFFIX,kinopub.online
-DOMAIN-SUFFIX,mos-gorsud.co
-URL-REGEX,(\w+)-static-[0-9]+\.cdntogo\.net$
