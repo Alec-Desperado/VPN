@@ -1,0 +1,9 @@
+#!name=group-rules-whatsapp
+#!desc=group-rules-whatsapp DIRECT
+#!moduleurl=https://raw.githubusercontent.com/Alec-Desperado/VPN/refs/heads/main/modules/group-rules-whatsapp.sgmodule
+#!updated=2025-11-28 08:00:38 UTC
+#!homepage=https://raw.githubusercontent.com/Alec-Desperado/VPN/refs/heads/main/modules/group-rules-whatsapp.sgmodule
+#!icon=
+
+[Rule]
+RULE-SET,https://raw.githubusercontent.com/Alec-Desperado/VPN/refs/heads/main/domains/groups/group-rules-whatsapp.list,DIRECT
