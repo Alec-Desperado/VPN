@@ -1,0 +1,33 @@
+# Name: group-rules-speedtest
+# Updated: 2025-12-20 13:23:02 UTC
+# Total: 29
+
+DOMAIN,www.speedtest.net.cdn.cloudflare.net
+DOMAIN,hk-global-bgp.hkg.speedtest.yecaoyun.com
+DOMAIN-SUFFIX,testmy.net
+DOMAIN-SUFFIX,ekahau.com
+DOMAIN-SUFFIX,speedtest.xfinity.com
+DOMAIN-SUFFIX,pingtest.net
+DOMAIN-SUFFIX,ekahau.cloud
+DOMAIN-SUFFIX,fast.com
+DOMAIN-SUFFIX,openspeedtest.com
+DOMAIN-SUFFIX,cellmaps.com
+DOMAIN-SUFFIX,speed.hinet.net
+DOMAIN-SUFFIX,netvigator.com
+DOMAIN-SUFFIX,open.cachefly.net
+DOMAIN-SUFFIX,speedtest.net
+DOMAIN-SUFFIX,speedtest.im
+DOMAIN-SUFFIX,speedtest.co
+DOMAIN-SUFFIX,nperf.com
+DOMAIN-SUFFIX,webtest.net
+DOMAIN-SUFFIX,cdnst.net
+DOMAIN-SUFFIX,speedtestcustom.com
+DOMAIN-SUFFIX,speed2.hinet.net
+DOMAIN-SUFFIX,cellrebel.com
+DOMAIN-SUFFIX,ookla.com
+DOMAIN-SUFFIX,speed.dler.io
+DOMAIN-SUFFIX,ooklaserver.net
+DOMAIN-SUFFIX,measurementlab.net
+DOMAIN-SUFFIX,speed.cloudflare.com
+DOMAIN-KEYWORD,speedtest
+USER-AGENT,SpeedTest*
