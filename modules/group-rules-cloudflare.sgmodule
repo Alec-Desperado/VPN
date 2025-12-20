@@ -1,9 +1,0 @@
-#!name=group-rules-cloudflare
-#!desc=group-rules-cloudflare PROXY
-#!moduleurl=https://raw.githubusercontent.com/Alec-Desperado/VPN/refs/heads/main/modules/group-rules-cloudflare.sgmodule
-#!updated=2025-12-20 13:23:31 UTC
-#!homepage=https://raw.githubusercontent.com/Alec-Desperado/VPN/refs/heads/main/modules/group-rules-cloudflare.sgmodule
-#!icon=
-
-[Rule]
-RULE-SET,https://raw.githubusercontent.com/Alec-Desperado/VPN/refs/heads/main/domains/groups/group-rules-cloudflare.list,PROXY
