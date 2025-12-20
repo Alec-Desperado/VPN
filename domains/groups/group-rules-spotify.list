@@ -1,0 +1,33 @@
+# Name: group-rules-spotify
+# Updated: 2025-12-20 13:54:51 UTC
+# Total: 29
+
+DOMAIN,heads-ak-spotify-com.akamaized.net
+DOMAIN,cdn-spotify-experiments.conductrics.com
+DOMAIN,audio4-ak-spotify-com.akamaized.net
+DOMAIN,spotify.com.edgesuite.net
+DOMAIN,spotify.map.fastly.net
+DOMAIN,spotify.map.fastlylb.net
+DOMAIN-SUFFIX,spotifycdn.net
+DOMAIN-SUFFIX,tospotify.com
+DOMAIN-SUFFIX,audio-ak-spotify-com.akamaized.net
+DOMAIN-SUFFIX,spotifyjobs.com
+DOMAIN-SUFFIX,spotify.design
+DOMAIN-SUFFIX,spotifycdn.com
+DOMAIN-SUFFIX,spotifycharts.com
+DOMAIN-SUFFIX,pscdn.co
+DOMAIN-SUFFIX,spotify-everywhere.com
+DOMAIN-SUFFIX,byspotify.com
+DOMAIN-SUFFIX,spotify.com
+DOMAIN-SUFFIX,heads4-ak-spotify-com.akamaized.net
+DOMAIN-SUFFIX,spotify.app.link
+DOMAIN-SUFFIX,spotify.link
+DOMAIN-SUFFIX,spotifycodes.com
+DOMAIN-SUFFIX,spotifyforbrands.com
+DOMAIN-SUFFIX,spotify-com.akamaized.net
+DOMAIN-SUFFIX,spotilocal.com
+DOMAIN-SUFFIX,scdn.co
+DOMAIN-KEYWORD,spotify
+USER-AGENT,Spotify*
+IP-CIDR,104.154.127.126/32,no-resolve
+IP-CIDR,35.186.224.47/32,no-resolve
