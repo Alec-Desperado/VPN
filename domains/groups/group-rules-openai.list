@@ -1,0 +1,44 @@
+# Name: group-rules-openai
+# Updated: 2025-12-24 00:01:57 UTC
+# Total: 40
+
+DOMAIN,production-openaicom-storage.azureedge.net
+DOMAIN,chat.openai.com.cdn.cloudflare.net
+DOMAIN,openaicomproductionae4b.blob.core.windows.net
+DOMAIN,static.cloudflareinsights.com
+DOMAIN,openai-api.arkoselabs.com
+DOMAIN,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
+DOMAIN,browser-intake-datadoghq.com
+DOMAIN-SUFFIX,featuregates.org
+DOMAIN-SUFFIX,turn.livekit.cloud
+DOMAIN-SUFFIX,sentry.io
+DOMAIN-SUFFIX,intercomcdn.com
+DOMAIN-SUFFIX,identrust.com
+DOMAIN-SUFFIX,ai.com
+DOMAIN-SUFFIX,observeit.net
+DOMAIN-SUFFIX,auth0.com
+DOMAIN-SUFFIX,host.livekit.cloud
+DOMAIN-SUFFIX,stripe.com
+DOMAIN-SUFFIX,algolia.net
+DOMAIN-SUFFIX,openaiapi-site.azureedge.net
+DOMAIN-SUFFIX,intercom.io
+DOMAIN-SUFFIX,launchdarkly.com
+DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,oaiusercontent.com
+DOMAIN-SUFFIX,oaistatic.com
+DOMAIN-SUFFIX,events.statsigapi.net
+DOMAIN-SUFFIX,chatgpt.livekit.cloud
+DOMAIN-SUFFIX,client-api.arkoselabs.com
+DOMAIN-SUFFIX,chatgpt.com
+DOMAIN-SUFFIX,chat.com
+DOMAIN-SUFFIX,openai.com.cdn.cloudflare.net
+DOMAIN-SUFFIX,sora.com
+DOMAIN-SUFFIX,api.statsig.com
+DOMAIN-SUFFIX,segment.io
+DOMAIN-SUFFIX,openaicom.imgix.net
+DOMAIN-KEYWORD,openai
+URL-REGEX,^chatgpt-async-webps-prod-\S+-\d+\.webpubsub\.azure\.com$
+IP-CIDR,64.23.132.171/32,no-resolve
+IP-CIDR,24.199.123.28/32,no-resolve
+IP-ASN,401518,no-resolve
+IP-ASN,20473,no-resolve

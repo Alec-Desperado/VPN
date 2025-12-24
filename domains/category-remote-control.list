@@ -1,0 +1,11 @@
+# Name: category-remote-control
+# Updated: 2025-12-24 00:05:10 UTC
+# Total: 7
+
+DOMAIN,client-teamviewer-com.trafficmanager.net
+DOMAIN,teamviewer.com.cdn.cloudflare.net
+DOMAIN-SUFFIX,anydesk.com
+DOMAIN-SUFFIX,nomachine.com
+DOMAIN-SUFFIX,rustdesk.com
+DOMAIN-SUFFIX,teamviewer.com
+DOMAIN-SUFFIX,teamviewer.us
