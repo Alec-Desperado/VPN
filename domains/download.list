@@ -1,0 +1,11 @@
+# Name: download
+# Updated: 2026-02-12 20:16:27 UTC
+# Total: 7
+
+DOMAIN-SUFFIX,qbittorrent.org
+DOMAIN-KEYWORD,aria2
+DOMAIN-KEYWORD,thunder
+DOMAIN-KEYWORD,xlliveud
+DOMAIN-KEYWORD,xunlei
+DOMAIN-KEYWORD,yunpan
+URL-REGEX,assets\d+\.xboxlive\.(com|cn)

@@ -1,0 +1,13 @@
+# Name: kinopub
+# Updated: 2026-02-12 19:54:22 UTC
+# Total: 9
+
+DOMAIN-SUFFIX,cdn-service.space
+DOMAIN-SUFFIX,cdn2cdn.com
+DOMAIN-SUFFIX,cdn2site.com
+DOMAIN-SUFFIX,gfw.ovh
+DOMAIN-SUFFIX,kino.pub
+DOMAIN-SUFFIX,kinopub.online
+DOMAIN-SUFFIX,mos-gorsud.co
+DOMAIN-SUFFIX,pushbr.com
+URL-REGEX,(\w+)-static-[0-9]+\.cdntogo\.net$

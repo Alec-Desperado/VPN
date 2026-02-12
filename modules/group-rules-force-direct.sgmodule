@@ -1,0 +1,9 @@
+#!name=group-rules-force-direct
+#!desc=group-rules-force-direct DIRECT
+#!moduleurl=https://raw.githubusercontent.com/Alec-Desperado/VPN/refs/heads/main/modules/group-rules-force-direct.sgmodule
+#!updated=2026-02-12 20:18:50 UTC
+#!homepage=https://raw.githubusercontent.com/Alec-Desperado/VPN/refs/heads/main/modules/group-rules-force-direct.sgmodule
+#!icon=
+
+[Rule]
+RULE-SET,https://raw.githubusercontent.com/Alec-Desperado/VPN/refs/heads/main/domains/groups/group-rules-force-direct.list,DIRECT

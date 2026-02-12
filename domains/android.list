@@ -1,0 +1,9 @@
+# Name: android
+# Updated: 2026-02-12 20:08:42 UTC
+# Total: 5
+
+DOMAIN,aida.googleapis.com
+DOMAIN,android.googlesource.com
+DOMAIN-SUFFIX,android
+DOMAIN-SUFFIX,android.com
+DOMAIN-SUFFIX,androidify.com

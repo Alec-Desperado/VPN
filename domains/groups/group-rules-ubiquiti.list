@@ -1,0 +1,35 @@
+# Name: group-rules-ubiquiti
+# Updated: 2026-02-12 20:18:41 UTC
+# Total: 31
+
+DOMAIN,fw-update-hvx8-1084057139.us-west-2.elb.amazonaws.com
+DOMAIN-SUFFIX,ubncloud.com
+DOMAIN-SUFFIX,unifi-gateway.com
+DOMAIN-SUFFIX,unifi-cloud.com
+DOMAIN-SUFFIX,unifi-ai.com
+DOMAIN-SUFFIX,frontrow.com
+DOMAIN-SUFFIX,unpkg.com
+DOMAIN-SUFFIX,ubnt.com
+DOMAIN-SUFFIX,unifi-protect.com
+DOMAIN-SUFFIX,ubiquiti.ada.support
+DOMAIN-SUFFIX,unifi-network.com
+DOMAIN-SUFFIX,amzn.to
+DOMAIN-SUFFIX,uisp.com
+DOMAIN-SUFFIX,ui.com
+DOMAIN-SUFFIX,wifiman.com
+DOMAIN-SUFFIX,amplifi.com
+DOMAIN-SUFFIX,unifi-telemetry.com
+IP-CIDR,34.208.0.0/12,no-resolve
+IP-CIDR,34.192.0.0/10,no-resolve
+IP-CIDR,54.184.0.0/15,no-resolve
+IP-CIDR,34.98.64.0/18,no-resolve
+IP-CIDR,54.148.0.0/15,no-resolve
+IP-CIDR,54.200.0.0/14,no-resolve
+IP-CIDR,35.160.0.0/12,no-resolve
+IP-CIDR,34.240.0.0/13,no-resolve
+IP-CIDR,34.248.0.0/13,no-resolve
+IP-CIDR,52.32.0.0/13,no-resolve
+IP-CIDR,54.212.0.0/15,no-resolve
+IP-CIDR,35.160.0.0/13,no-resolve
+IP-CIDR,54.200.0.0/15,no-resolve
+IP-ASN,16509,no-resolve

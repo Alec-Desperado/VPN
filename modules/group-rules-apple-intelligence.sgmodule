@@ -1,0 +1,9 @@
+#!name=group-rules-apple-intelligence
+#!desc=group-rules-apple-intelligence PROXY
+#!moduleurl=https://raw.githubusercontent.com/Alec-Desperado/VPN/refs/heads/main/modules/group-rules-apple-intelligence.sgmodule
+#!updated=2026-02-12 20:18:50 UTC
+#!homepage=https://raw.githubusercontent.com/Alec-Desperado/VPN/refs/heads/main/modules/group-rules-apple-intelligence.sgmodule
+#!icon=
+
+[Rule]
+RULE-SET,https://raw.githubusercontent.com/Alec-Desperado/VPN/refs/heads/main/domains/groups/group-rules-apple-intelligence.list,PROXY
