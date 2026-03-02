@@ -1,0 +1,14 @@
+# Name: group-rules-anthropic
+# Updated: 2026-03-02 06:52:32 UTC
+# Total: 10
+
+DOMAIN,servd-anthropic-website.b-cdn.net
+DOMAIN,cdn.usefathom.com
+DOMAIN-SUFFIX,anthropic.com
+DOMAIN-SUFFIX,claude.com
+DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,claudemcpclient.com
+DOMAIN-SUFFIX,claudeusercontent.com
+IP-CIDR6,2607:6bc0::/48,no-resolve
+IP-CIDR,160.79.104.0/23,no-resolve
+IP-ASN,399358,no-resolve

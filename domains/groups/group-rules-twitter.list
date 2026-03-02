@@ -1,0 +1,40 @@
+# Name: group-rules-twitter
+# Updated: 2026-03-02 07:17:41 UTC
+# Total: 36
+
+DOMAIN-SUFFIX,x.com
+DOMAIN-SUFFIX,twvid.com
+DOMAIN-SUFFIX,nnthink.com
+DOMAIN-SUFFIX,tweetdeck.com
+DOMAIN-SUFFIX,tellapart.com
+DOMAIN-SUFFIX,twitter.map.fastly.net
+DOMAIN-SUFFIX,aixcoder.com
+DOMAIN-SUFFIX,t.co
+DOMAIN-SUFFIX,x.ai
+DOMAIN-SUFFIX,twitter.com
+DOMAIN-SUFFIX,twttr.net
+DOMAIN-SUFFIX,twitterstat.us
+DOMAIN-SUFFIX,ads-twitter.com
+DOMAIN-SUFFIX,twimg.com
+DOMAIN-SUFFIX,twittercommunity.com
+DOMAIN-SUFFIX,twttr.com
+DOMAIN-SUFFIX,twitter.biz
+DOMAIN-SUFFIX,periscope.tv
+DOMAIN-SUFFIX,twitterflightschool.com
+DOMAIN-SUFFIX,grok.com
+DOMAIN-SUFFIX,twitteroauth.com
+DOMAIN-SUFFIX,twitterinc.com
+DOMAIN-SUFFIX,pscp.tv
+DOMAIN-SUFFIX,twimg.co
+DOMAIN-SUFFIX,twtrdns.net
+DOMAIN-SUFFIX,vine.co
+DOMAIN-SUFFIX,twitpic.com
+DOMAIN-SUFFIX,cms-twdigitalassets.com
+DOMAIN-SUFFIX,twimg.org
+DOMAIN-KEYWORD,twitter
+IP-CIDR,199.96.56.0/21,no-resolve
+IP-CIDR,192.133.76.0/22,no-resolve
+IP-CIDR,209.237.192.0/19,no-resolve
+IP-CIDR,69.195.160.0/19,no-resolve
+IP-CIDR,199.59.148.0/22,no-resolve
+IP-CIDR,202.160.128.0/22,no-resolve
