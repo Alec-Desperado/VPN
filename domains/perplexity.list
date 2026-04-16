@@ -1,0 +1,9 @@
+# Name: perplexity
+# Updated: 2026-04-16 10:26:42 UTC
+# Total: 5
+
+DOMAIN,ppl-ai-file-upload.s3.amazonaws.com
+DOMAIN,pplx-res.cloudinary.com
+DOMAIN-SUFFIX,perplexity.ai
+DOMAIN-SUFFIX,perplexity.com
+DOMAIN-SUFFIX,pplx.ai
