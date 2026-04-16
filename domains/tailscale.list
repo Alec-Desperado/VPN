@@ -1,7 +1,0 @@
-# Name: tailscale
-# Updated: 2026-04-16 10:26:42 UTC
-# Total: 3
-
-DOMAIN-SUFFIX,tailscale.com
-DOMAIN-SUFFIX,tailscale.io
-DOMAIN-SUFFIX,ts.net
