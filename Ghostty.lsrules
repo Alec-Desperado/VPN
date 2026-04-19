@@ -1,0 +1,297 @@
+{
+  "description" : "Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.",
+  "name" : "Ghostty",
+  "rules" : [
+    {
+      "action" : "ask",
+      "process" : "identifier.24VZTF6M5V\/com.mitchellh.ghostty",
+      "remote" : "dns-servers"
+    },
+    {
+      "action" : "allow",
+      "ports" : "443",
+      "process" : "identifier.24VZTF6M5V\/com.mitchellh.ghostty",
+      "protocol" : "tcp",
+      "remote" : "any",
+      "via" : "path.opt\/homebrew\/Cellar\/ctrld\/*\/bin\/ctrld"
+    },
+    {
+      "action" : "allow",
+      "process" : "identifier.24VZTF6M5V\/com.mitchellh.ghostty",
+      "remote" : "any",
+      "via" : "path.opt\/homebrew\/Cellar\/bind\/*\/bin\/dig"
+    },
+    {
+      "action" : "allow",
+      "process" : "identifier.24VZTF6M5V\/com.mitchellh.ghostty",
+      "remote-addresses" : "76.76.2.22",
+      "via" : "identifier.SHA256\/2cb2f7a0bf559400101306970ee81b15e57541bf32c289023dab4c4803c3208f"
+    },
+    {
+      "action" : "allow",
+      "ports" : "443",
+      "process" : "identifier.24VZTF6M5V\/com.mitchellh.ghostty",
+      "protocol" : "tcp",
+      "remote" : "any",
+      "via" : "path.opt\/homebrew\/Cellar\/curl\/*\/bin\/curl"
+    },
+    {
+      "action" : "allow",
+      "ports" : "443",
+      "process" : "identifier.24VZTF6M5V\/com.mitchellh.ghostty",
+      "protocol" : "tcp",
+      "remote-domains" : "apple.com",
+      "via" : "path.opt\/homebrew\/Cellar\/mas\/*\/bin\/mas"
+    },
+    {
+      "action" : "allow",
+      "ports" : "443",
+      "process" : "identifier.24VZTF6M5V\/com.mitchellh.ghostty",
+      "protocol" : "tcp",
+      "remote-domains" : "astral.sh",
+      "via" : "path.opt\/homebrew\/Cellar\/uv\/*\/bin\/uv"
+    },
+    {
+      "action" : "allow",
+      "ports" : "443",
+      "process" : "identifier.24VZTF6M5V\/com.mitchellh.ghostty",
+      "protocol" : "tcp",
+      "remote-domains" : "atuin.sh",
+      "via" : "path.opt\/homebrew\/Cellar\/atuin\/*\/bin\/atuin"
+    },
+    {
+      "action" : "allow",
+      "ports" : "443",
+      "process" : "identifier.24VZTF6M5V\/com.mitchellh.ghostty",
+      "protocol" : "tcp",
+      "remote-domains" : "bitwarden.com",
+      "via" : "path.opt\/homebrew\/Cellar\/node\/*\/bin\/node"
+    },
+    {
+      "action" : "allow",
+      "ports" : "443",
+      "process" : "identifier.24VZTF6M5V\/com.mitchellh.ghostty",
+      "protocol" : "tcp",
+      "remote-domains" : "github.com",
+      "via" : "\/Users\/desperado\/.local\/share\/uv\/python\/cpython-3.13.2-macos-aarch64-none\/bin\/python3.13"
+    },
+    {
+      "action" : "allow",
+      "ports" : "443",
+      "process" : "identifier.24VZTF6M5V\/com.mitchellh.ghostty",
+      "protocol" : "tcp",
+      "remote" : "any",
+      "via" : "path.opt\/homebrew\/Cellar\/wget\/*\/bin\/wget"
+    },
+    {
+      "action" : "allow",
+      "ports" : "443",
+      "process" : "identifier.24VZTF6M5V\/com.mitchellh.ghostty",
+      "protocol" : "tcp",
+      "remote-domains" : "github.com",
+      "via" : "path.opt\/homebrew\/Cellar\/gh\/*\/bin\/gh"
+    },
+    {
+      "action" : "allow",
+      "ports" : "443",
+      "process" : "identifier.24VZTF6M5V\/com.mitchellh.ghostty",
+      "protocol" : "tcp",
+      "remote-domains" : ["github.com", "githubusercontent.com"],
+      "via" : "path.opt\/homebrew\/Cellar\/tlrc\/*\/bin\/tldr"
+    },
+    {
+      "action" : "allow",
+      "ports" : "443",
+      "process" : "identifier.24VZTF6M5V\/com.mitchellh.ghostty",
+      "protocol" : "tcp",
+      "remote-domains" : "httpie.io",
+      "via" : "path.opt\/homebrew\/Cellar\/python@3.13\/*\/Frameworks\/Python.framework\/Versions\/3.13\/Resources\/Python.app\/Contents\/MacOS\/Python"
+    },
+    {
+      "action" : "allow",
+      "ports" : "443",
+      "process" : "identifier.24VZTF6M5V\/com.mitchellh.ghostty",
+      "protocol" : "tcp",
+      "remote-domains" : ["nodejs.org", "npmjs.org"],
+      "via" : "path.opt\/homebrew\/Cellar\/volta\/*\/libexec\/bin\/volta"
+    },
+    {
+      "action" : "allow",
+      "ports" : "443",
+      "process" : "identifier.24VZTF6M5V\/com.mitchellh.ghostty",
+      "protocol" : "tcp",
+      "remote-domains" : ["nodejs.org", "npmjs.org"],
+      "via" : "\/Users\/desperado\/.volta\/bin\/volta"
+    },
+    {
+      "action" : "allow",
+      "ports" : "443",
+      "process" : "identifier.24VZTF6M5V\/com.mitchellh.ghostty",
+      "protocol" : "tcp",
+      "remote-domains" : ["nodejs.org", "npmjs.org"],
+      "via" : "path.opt\/homebrew\/Cellar\/node\/*\/bin\/node"
+    },
+    {
+      "action" : "allow",
+      "ports" : "443",
+      "process" : "identifier.24VZTF6M5V\/com.mitchellh.ghostty",
+      "protocol" : "tcp",
+      "remote-domains" : "pie.dev",
+      "via" : "path.opt\/homebrew\/Cellar\/python@3.13\/*\/Frameworks\/Python.framework\/Versions\/3.13\/Resources\/Python.app\/Contents\/MacOS\/Python"
+    },
+    {
+      "action" : "allow",
+      "ports" : "443",
+      "process" : "identifier.24VZTF6M5V\/com.mitchellh.ghostty",
+      "protocol" : "tcp",
+      "remote-domains" : "publicsuffix.org",
+      "via" : "\/Users\/desperado\/.local\/share\/uv\/python\/cpython-3.13.2-macos-aarch64-none\/bin\/python3.13"
+    },
+    {
+      "action" : "allow",
+      "ports" : "443",
+      "process" : "identifier.24VZTF6M5V\/com.mitchellh.ghostty",
+      "protocol" : "tcp",
+      "remote-domains" : ["pypi.org", "pythonhosted.org"],
+      "via" : "path.opt\/homebrew\/Cellar\/uv\/*\/bin\/uv"
+    },
+    {
+      "action" : "allow",
+      "ports" : "443",
+      "process" : "identifier.24VZTF6M5V\/com.mitchellh.ghostty",
+      "protocol" : "tcp",
+      "remote-domains" : "rust-lang.org",
+      "via" : "path.opt\/homebrew\/Cellar\/rustup\/*\/bin\/rustup-init"
+    },
+    {
+      "action" : "allow",
+      "ports" : "443",
+      "process" : "identifier.24VZTF6M5V\/com.mitchellh.ghostty",
+      "protocol" : "tcp",
+      "remote-domains" : "yarnpkg.com",
+      "via" : "path.opt\/homebrew\/Cellar\/node\/*\/bin\/node"
+    },
+    {
+      "action" : "allow",
+      "ports" : "443",
+      "process" : "identifier.24VZTF6M5V\/com.mitchellh.ghostty",
+      "protocol" : "tcp",
+      "remote-domains" : "ui.com"
+    },
+    {
+      "action" : "allow",
+      "ports" : "443",
+      "process" : "identifier.24VZTF6M5V\/com.mitchellh.ghostty",
+      "protocol" : "tcp",
+      "remote" : "any",
+      "via" : "path.opt\/homebrew\/Cellar\/python@3.14\/*\/Frameworks\/Python.framework\/Versions\/3.14\/Resources\/Python.app\/Contents\/MacOS\/Python"
+    },
+    {
+      "action" : "allow",
+      "ports" : "443",
+      "process" : "identifier.24VZTF6M5V\/com.mitchellh.ghostty",
+      "protocol" : "tcp",
+      "remote" : "any",
+      "via" : "path.opt\/homebrew\/Cellar\/speedtest\/*\/bin\/speedtest"
+    },
+    {
+      "action" : "allow",
+      "ports" : "443",
+      "process" : "identifier.24VZTF6M5V\/com.mitchellh.ghostty",
+      "protocol" : "tcp",
+      "remote" : "any",
+      "via" : "path.opt\/homebrew\/Cellar\/php\/*\/bin\/php"
+    },
+    {
+      "action" : "allow",
+      "ports" : "443",
+      "process" : "identifier.24VZTF6M5V\/com.mitchellh.ghostty",
+      "protocol" : "tcp",
+      "remote" : "any",
+      "via" : "path.opt\/homebrew\/Cellar\/sheldon\/*\/bin\/sheldon"
+    },
+    {
+      "action" : "allow",
+      "ports" : "443",
+      "process" : "identifier.24VZTF6M5V\/com.mitchellh.ghostty",
+      "protocol" : "tcp",
+      "remote" : "any",
+      "via" : "path.opt\/homebrew\/Cellar\/git\/*\/libexec\/git-core\/git-remote-http"
+    },
+    {
+      "action" : "allow",
+      "ports" : "853",
+      "process" : "identifier.24VZTF6M5V\/com.mitchellh.ghostty",
+      "protocol" : "tcp",
+      "remote" : "any",
+      "via" : "path.opt\/homebrew\/Cellar\/openssl@3\/*\/bin\/openssl"
+    },
+    {
+      "action" : "allow",
+      "ports" : "853",
+      "process" : "identifier.24VZTF6M5V\/com.mitchellh.ghostty",
+      "protocol" : "tcp",
+      "remote" : "any",
+      "via" : "path.opt\/homebrew\/Cellar\/bind\/*\/bin\/dig"
+    },
+    {
+      "action" : "allow",
+      "ports" : "8080",
+      "process" : "identifier.24VZTF6M5V\/com.mitchellh.ghostty",
+      "protocol" : "tcp",
+      "remote" : "any",
+      "via" : "path.opt\/homebrew\/Cellar\/speedtest\/*\/bin\/speedtest"
+    },
+    {
+      "action" : "allow",
+      "ports" : "53",
+      "process" : "identifier.24VZTF6M5V\/com.mitchellh.ghostty",
+      "protocol" : "udp",
+      "remote" : "any",
+      "via" : "path.opt\/homebrew\/Cellar\/bind\/*\/bin\/dig"
+    },
+    {
+      "action" : "allow",
+      "ports" : "8080",
+      "process" : "identifier.24VZTF6M5V\/com.mitchellh.ghostty",
+      "protocol" : "udp",
+      "remote" : "any",
+      "via" : "path.opt\/homebrew\/Cellar\/speedtest\/*\/bin\/speedtest"
+    },
+    {
+      "action" : "allow",
+      "process" : "identifier.24VZTF6M5V\/com.mitchellh.ghostty",
+      "remote" : "any",
+      "via" : "path.opt\/homebrew\/Cellar\/bind\/*\/bin\/nslookup"
+    },
+    {
+      "action" : "allow",
+      "process" : "identifier.24VZTF6M5V\/com.mitchellh.ghostty",
+      "remote" : "any",
+      "via" : "path.opt\/homebrew\/Cellar\/ooniprobe\/*\/bin\/ooniprobe"
+    },
+    {
+      "action" : "allow",
+      "process" : "identifier.24VZTF6M5V\/com.mitchellh.ghostty",
+      "remote" : "any",
+      "via" : "path.opt\/homebrew\/Cellar\/iperf3\/*\/bin\/iperf3"
+    },
+    {
+      "action" : "allow",
+      "process" : "identifier.24VZTF6M5V\/com.mitchellh.ghostty",
+      "remote" : "any",
+      "via" : "path.opt\/homebrew\/Cellar\/nmap\/*\/bin\/nmap"
+    },
+    {
+      "action" : "allow",
+      "process" : "identifier.24VZTF6M5V\/com.mitchellh.ghostty",
+      "remote" : "any",
+      "via" : "path.opt\/homebrew\/Cellar\/curl\/*\/bin\/curl"
+    },
+    {
+      "action" : "allow",
+      "process" : "identifier.24VZTF6M5V\/com.mitchellh.ghostty",
+      "remote" : "any"
+    }
+  ]
+}
