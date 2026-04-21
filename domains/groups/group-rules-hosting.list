@@ -1,0 +1,24 @@
+# Name: group-rules-hosting
+# Updated: 2026-04-21 21:08:09 UTC
+# Total: 20
+
+DOMAIN-SUFFIX,hetzner.company
+DOMAIN-SUFFIX,hetzner.social
+DOMAIN-SUFFIX,your-objectstorage.com
+DOMAIN-SUFFIX,digitalocean.com
+DOMAIN-SUFFIX,digitaloceanspaces.com
+DOMAIN-SUFFIX,nginxconfig.io
+DOMAIN-SUFFIX,your-server.de
+DOMAIN-SUFFIX,hetzner.cloud
+DOMAIN-SUFFIX,aeza.net
+DOMAIN-SUFFIX,do.co
+DOMAIN-SUFFIX,hetzner.com
+DOMAIN-SUFFIX,htznr.li
+DOMAIN-SUFFIX,second-ns.de
+DOMAIN-SUFFIX,your-storagebox.de
+DOMAIN-SUFFIX,your-storageshare.de
+DOMAIN-SUFFIX,hetzner.de
+DOMAIN-SUFFIX,first-ns.de
+DOMAIN-SUFFIX,second-ns.com
+DOMAIN-SUFFIX,hetzner-cloud.de
+DOMAIN-SUFFIX,ovhcloud.com
