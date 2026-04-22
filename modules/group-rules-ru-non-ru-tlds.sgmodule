@@ -1,9 +1,0 @@
-#!name=group-rules-ru-non-ru-tlds
-#!desc=group-rules-ru-non-ru-tlds DIRECT
-#!moduleurl=https://raw.githubusercontent.com/Alec-Desperado/VPN/refs/heads/main/modules/group-rules-ru-non-ru-tlds.sgmodule
-#!updated=2026-04-21 21:13:20 UTC
-#!homepage=https://raw.githubusercontent.com/Alec-Desperado/VPN/refs/heads/main/modules/group-rules-ru-non-ru-tlds.sgmodule
-#!icon=
-
-[Rule]
-RULE-SET,https://raw.githubusercontent.com/Alec-Desperado/VPN/refs/heads/main/domains/groups/group-rules-ru-non-ru-tlds.list,DIRECT
