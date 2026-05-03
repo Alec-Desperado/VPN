@@ -1,0 +1,15 @@
+# Name: group-rules-atlassian
+# Updated: 2026-05-03 05:49:19 UTC
+# Total: 11
+
+DOMAIN-SUFFIX,ss-inf.net
+DOMAIN-SUFFIX,bitbucket.org
+DOMAIN-SUFFIX,trello.com
+DOMAIN-SUFFIX,jira.com
+DOMAIN-SUFFIX,atlassian.com
+DOMAIN-SUFFIX,atl-paas.net
+DOMAIN-SUFFIX,atlassian.net
+DOMAIN-SUFFIX,statuspage.io
+DOMAIN-SUFFIX,trellocdn.com
+DOMAIN-SUFFIX,atlassian-dev.net
+DOMAIN-SUFFIX,bitbucket.io

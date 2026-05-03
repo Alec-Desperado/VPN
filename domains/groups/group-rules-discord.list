@@ -1,0 +1,43 @@
+# Name: group-rules-discord
+# Updated: 2026-05-03 05:50:37 UTC
+# Total: 39
+
+DOMAIN-SUFFIX,discordpartygames.com
+DOMAIN-SUFFIX,discordapp.net
+DOMAIN-SUFFIX,discord.store
+DOMAIN-SUFFIX,discord.design
+DOMAIN-SUFFIX,bigbeans.solutions
+DOMAIN-SUFFIX,discordapp.com
+DOMAIN-SUFFIX,discord.gift
+DOMAIN-SUFFIX,airhorn.solutions
+DOMAIN-SUFFIX,discordsays.com
+DOMAIN-SUFFIX,discord.gifts
+DOMAIN-SUFFIX,discord-activities.com
+DOMAIN-SUFFIX,watchanimeattheoffice.com
+DOMAIN-SUFFIX,discord.new
+DOMAIN-SUFFIX,discordapp.page.link
+DOMAIN-SUFFIX,discord.media
+DOMAIN-SUFFIX,airhornbot.com
+DOMAIN-SUFFIX,discordapp.io
+DOMAIN-SUFFIX,discord-attachments-uploads-prd.storage.googleapis.com
+DOMAIN-SUFFIX,discord.co
+DOMAIN-SUFFIX,discordcdn.com
+DOMAIN-SUFFIX,discordactivities.com
+DOMAIN-SUFFIX,hammerandchisel.ssl.zendesk.com
+DOMAIN-SUFFIX,discordmerch.com
+DOMAIN-SUFFIX,discord.com
+DOMAIN-SUFFIX,discord.tools
+DOMAIN-SUFFIX,dis.gd
+DOMAIN-SUFFIX,discord.gg
+DOMAIN-SUFFIX,discordstatus.com
+DOMAIN-SUFFIX,discord.dev
+2606:4700::/32
+172.64.0.0/13
+5.200.14.128/25
+35.192.0.0/12
+138.128.136.0/21
+34.2.0.0/15
+66.22.192.0/18
+35.208.0.0/12
+34.0.0.0/15
+162.158.0.0/15
