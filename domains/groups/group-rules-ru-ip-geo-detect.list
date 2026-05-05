@@ -1,0 +1,15 @@
+# Name: group-rules-ru-ip-geo-detect
+# Updated: 2026-05-05 17:08:24 UTC
+# Total: 11
+
+DOMAIN-SUFFIX,2ip.ru
+DOMAIN-SUFFIX,checkip.ru
+DOMAIN-SUFFIX,geoip.noc.gov.ru
+DOMAIN-SUFFIX,ip-api.ru
+DOMAIN-SUFFIX,myip.ru
+DOMAIN-SUFFIX,ip.mail.ru
+DOMAIN-SUFFIX,ip.nic.ru
+DOMAIN-SUFFIX,ipv4-internet.yandex.net
+DOMAIN-SUFFIX,ipv6-internet.yandex.net
+DOMAIN-SUFFIX,dadata.ru
+DOMAIN-SUFFIX,ip.nic.ru
