@@ -1,9 +1,0 @@
-#!name=group-rules-reject
-#!desc=group-rules-reject REJECT
-#!moduleurl=https://raw.githubusercontent.com/Alec-Desperado/VPN/refs/heads/main/modules/group-rules-reject.sgmodule
-#!updated=2026-05-05 17:08:42 UTC
-#!homepage=https://raw.githubusercontent.com/Alec-Desperado/VPN/refs/heads/main/modules/group-rules-reject.sgmodule
-#!icon=
-
-[Rule]
-RULE-SET,https://raw.githubusercontent.com/Alec-Desperado/VPN/refs/heads/main/domains/groups/group-rules-reject.list,REJECT
