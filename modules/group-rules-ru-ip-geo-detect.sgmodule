@@ -1,0 +1,9 @@
+#!name=group-rules-ru-ip-geo-detect
+#!desc=group-rules-ru-ip-geo-detect DIRECT
+#!moduleurl=https://raw.githubusercontent.com/Alec-Desperado/VPN/refs/heads/main/modules/group-rules-ru-ip-geo-detect.sgmodule
+#!updated=2026-05-05 21:29:41 UTC
+#!homepage=https://raw.githubusercontent.com/Alec-Desperado/VPN/refs/heads/main/modules/group-rules-ru-ip-geo-detect.sgmodule
+#!icon=
+
+[Rule]
+RULE-SET,https://raw.githubusercontent.com/Alec-Desperado/VPN/refs/heads/main/domains/groups/group-rules-ru-ip-geo-detect.list,DIRECT

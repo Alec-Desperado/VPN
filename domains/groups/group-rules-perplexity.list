@@ -1,0 +1,9 @@
+# Name: group-rules-perplexity
+# Updated: 2026-05-05 21:17:03 UTC
+# Total: 5
+
+DOMAIN,pplx-res.cloudinary.com
+DOMAIN,ppl-ai-file-upload.s3.amazonaws.com
+DOMAIN-SUFFIX,perplexity.com
+DOMAIN-SUFFIX,perplexity.ai
+DOMAIN-SUFFIX,pplx.ai
