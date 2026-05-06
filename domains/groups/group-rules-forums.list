@@ -1,0 +1,28 @@
+# Name: group-rules-forums
+# Updated: 2026-05-06 08:14:45 UTC
+# Total: 24
+
+DOMAIN-SUFFIX,habrastorage.org
+DOMAIN-SUFFIX,reddithelp.com
+DOMAIN-SUFFIX,reddituploads.com.cdn-cf.dropbox.com
+DOMAIN-SUFFIX,redditstatic.com
+DOMAIN-SUFFIX,redditstatus.com
+DOMAIN-SUFFIX,redditinc.com
+DOMAIN-SUFFIX,habr.com
+DOMAIN-SUFFIX,reddituploads.com
+DOMAIN-SUFFIX,xda-cdn.com
+DOMAIN-SUFFIX,redd.it
+DOMAIN-SUFFIX,redditblog.com
+DOMAIN-SUFFIX,reddit.com
+DOMAIN-SUFFIX,reddit.map.fastly.net
+DOMAIN-SUFFIX,redditspace.com
+DOMAIN-SUFFIX,xdaforums.com
+DOMAIN-SUFFIX,xda-developers.com
+DOMAIN-SUFFIX,4pda.ws
+DOMAIN-SUFFIX,xdaimages.com
+DOMAIN-SUFFIX,redditmail.com
+DOMAIN-SUFFIX,4pda.to
+DOMAIN-SUFFIX,reddit.app.link
+DOMAIN-SUFFIX,reddituploads.com.cdn-cf.behance.net
+DOMAIN-SUFFIX,redditmedia.com
+DOMAIN-KEYWORD,4pda
