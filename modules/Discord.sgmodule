@@ -1,0 +1,11 @@
+#!name=Discord
+                    #!desc=Discord
+                    #!homepage=
+                    #!moduleurl=https://raw.githubusercontent.com/Alec-Desperado/VPN/refs/heads/main/modules/Discord.sgmodule
+
+                    ## Discord
+                    RULE-SET,https://raw.githubusercontent.com/Alec-Desperado/VPN/refs/heads/main/domains/discord.list,PROXY
+                    RULE-SET,https://github.com/toneywhitez/zkeen_rules/releases/latest/download/discord_ips.list,PROXY,no-resolve
+                    RULE-SET,https://raw.githubusercontent.com/misha-tgshv/shadowrocket-configuration-file/refs/heads/release/rules/domains_discord.list,PROXY
+                    RULE-SET,https://raw.githubusercontent.com/helmiau/clashrules/refs/heads/main/shadowrocket/Game_Discord_Ports.list,PROXY
+
