@@ -1,0 +1,12 @@
+#!name=DNS
+#!desc=DNS
+#!author=
+#!updated=2026-05-19 01:51:07 UTC
+#!homepage=
+#!moduleurl=https://raw.githubusercontent.com/Alec-Desperado/VPN/refs/heads/main/modules/DNS.sgmodule
+#!icon=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Server.png
+#!category=General
+
+[General]
+dns-server = 10.111.1.21,10.111.1.22
+fallback-dns-server = system
