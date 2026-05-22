@@ -1,0 +1,14 @@
+# Name: group-rules-force-tg
+# Updated: 2026-05-22 15:01:32 UTC
+# Total: 10
+
+DOMAIN-SUFFIX,ui.com
+DOMAIN-SUFFIX,digicert.com
+DOMAIN-SUFFIX,snapchat.com
+DOMAIN-SUFFIX,t.co
+DOMAIN-SUFFIX,twimg.com
+DOMAIN-SUFFIX,twitter.com
+DOMAIN-SUFFIX,whatsapp.com
+DOMAIN-SUFFIX,whatsapp.net
+DOMAIN-SUFFIX,x.com
+DOMAIN-KEYWORD,twitter
