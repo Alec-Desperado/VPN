@@ -1,0 +1,23 @@
+# Name: group-rules-tbank
+# Updated: 2026-05-25 19:20:06 UTC
+# Total: 19
+
+DOMAIN-SUFFIX,cdn-tinkoff.ru
+DOMAIN-SUFFIX,f-static.ru
+DOMAIN-SUFFIX,rostelecom.ru
+DOMAIN-SUFFIX,t-bank-app.ru
+DOMAIN-SUFFIX,tbank.ru
+DOMAIN-SUFFIX,tinkoff.ru
+DOMAIN-SUFFIX,tinkoffinsurance.ru
+DOMAIN-SUFFIX,tmiaf.ru
+IP-CIDR,158.160.0.0/16,no-resolve
+IP-CIDR,178.130.128.0/23,no-resolve
+IP-CIDR,178.248.232.177/32,no-resolve
+IP-CIDR,185.76.232.0/23,no-resolve
+IP-CIDR,185.76.234.0/23,no-resolve
+IP-CIDR,193.17.93.0/24,no-resolve
+IP-CIDR,31.44.8.0/21,no-resolve
+IP-CIDR,51.250.55.90/32,no-resolve
+IP-CIDR,84.201.150.151/32,no-resolve
+IP-CIDR,84.201.187.121/32,no-resolve
+IP-CIDR,89.169.129.96/32,no-resolve
