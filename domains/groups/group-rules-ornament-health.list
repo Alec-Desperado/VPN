@@ -1,0 +1,21 @@
+# Name: group-rules-ornament-health
+# Updated: 2026-06-10 14:53:38 UTC
+# Total: 17
+
+DOMAIN,api.ornament.app
+DOMAIN,api.ornament.health
+DOMAIN,api.revenuecat.com
+DOMAIN,config-msdk.freshchat.com
+DOMAIN,media.ornament.health
+DOMAIN,msdk.freshchat.com
+DOMAIN,ornament-weightloss.com
+DOMAIN,ornament.health
+DOMAIN,s.cloud-orna.me
+DOMAIN,shop-api.ornament.app
+DOMAIN,str.ornament.app
+DOMAIN,test-str.ams3.cdn.digitaloceanspaces.com
+DOMAIN,wl-api.ornament.app
+DOMAIN-SUFFIX,cloud-orna.me
+DOMAIN-SUFFIX,ornament-weightloss.com
+DOMAIN-SUFFIX,ornament.app
+DOMAIN-SUFFIX,ornament.health
