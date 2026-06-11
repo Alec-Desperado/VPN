@@ -1,0 +1,9 @@
+# Name: group-rules-bevel
+# Updated: 2026-06-10 14:47:26 UTC
+# Total: 5
+
+DOMAIN,api.supersethealth.com
+DOMAIN,app-media.bevel.health
+DOMAIN-SUFFIX,superhealth.com
+DOMAIN-SUFFIX,supersethealth.com
+DOMAIN-SUFFIX,bevel.health
