@@ -1,9 +1,0 @@
-# Name: firefox
-# Updated: 2026-06-10 14:47:34 UTC
-# Total: 5
-
-DOMAIN,mozilla-ohttp.fastly-edge.com
-DOMAIN-SUFFIX,extendfirefox.com
-DOMAIN-SUFFIX,firefox.com
-DOMAIN-SUFFIX,firefoxtweetmachine.com
-DOMAIN-SUFFIX,firefoxusercontent.com
