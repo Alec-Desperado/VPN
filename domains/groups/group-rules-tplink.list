@@ -1,0 +1,7 @@
+# Name: group-rules-tplink
+# Updated: 2026-06-12 00:14:21 UTC
+# Total: 3
+
+DOMAIN-SUFFIX,tplinkcloud.com
+DOMAIN-SUFFIX,tplinkra.com
+DOMAIN-SUFFIX,tplinknbu.com
