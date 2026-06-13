@@ -1,0 +1,12 @@
+# Name: group-rules-fastly
+# Updated: 2026-06-13 00:29:25 UTC
+# Total: 8
+
+DOMAIN-SUFFIX,fastly.net
+DOMAIN-SUFFIX,fastly.io
+DOMAIN-SUFFIX,fastly-edge.com
+DOMAIN-SUFFIX,fastlylb.net
+DOMAIN-SUFFIX,fastly.com
+DOMAIN-SUFFIX,zencdn.net
+DOMAIN-SUFFIX,fastlylabs.com
+DOMAIN-SUFFIX,fastly-terrarium.com
