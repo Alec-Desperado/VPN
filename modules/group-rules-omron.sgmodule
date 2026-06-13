@@ -1,9 +1,0 @@
-#!name=group-rules-omron
-#!desc=group-rules-omron PROXY
-#!moduleurl=https://raw.githubusercontent.com/Alec-Desperado/VPN/refs/heads/main/modules/group-rules-omron.sgmodule
-#!updated=2026-06-13 00:35:31 UTC
-#!homepage=https://raw.githubusercontent.com/Alec-Desperado/VPN/refs/heads/main/modules/group-rules-omron.sgmodule
-#!icon=
-
-[Rule]
-RULE-SET,https://raw.githubusercontent.com/Alec-Desperado/VPN/refs/heads/main/domains/groups/group-rules-omron.list,PROXY
