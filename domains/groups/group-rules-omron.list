@@ -1,0 +1,11 @@
+# Name: group-rules-omron
+# Updated: 2026-06-13 11:24:25 UTC
+# Total: 7
+
+DOMAIN,vlt-device-assets-cdn.prd.us.ohiomron.com
+DOMAIN,vlt-mobile-api.prd.eu.ohiomron.eu
+DOMAIN-SUFFIX,ohiomron.com
+DOMAIN-SUFFIX,ohiomron.eu
+DOMAIN-SUFFIX,omron.ru
+DOMAIN-SUFFIX,omron.fi
+DOMAIN-SUFFIX,omron.cz
