@@ -1,0 +1,23 @@
+# Name: group-rules-aqara
+# Updated: 2026-06-13 11:19:04 UTC
+# Total: 19
+
+DOMAIN-SUFFIX,tuyaus.com
+DOMAIN-SUFFIX,ksyuncs.com
+DOMAIN-SUFFIX,myqcloud.com
+DOMAIN-SUFFIX,aqaramaster.com
+DOMAIN-SUFFIX,xiaomi.net
+DOMAIN-SUFFIX,alicdn.com
+DOMAIN-SUFFIX,taobao.com
+DOMAIN-SUFFIX,aqara.net
+DOMAIN-SUFFIX,aliyun.com
+DOMAIN-SUFFIX,lumiunited.com
+DOMAIN-SUFFIX,aqara.com
+DOMAIN-SUFFIX,xiaomi.com
+DOMAIN-SUFFIX,qq.com
+IP-CIDR,47.100.0.0/15,no-resolve
+IP-CIDR,107.155.53.0/24,no-resolve
+IP-CIDR,43.231.144.0/20,no-resolve
+IP-ASN,138950,no-resolve
+IP-ASN,137280,no-resolve
+IP-ASN,37963,no-resolve

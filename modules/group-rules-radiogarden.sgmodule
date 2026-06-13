@@ -1,0 +1,9 @@
+#!name=group-rules-radiogarden
+#!desc=group-rules-radiogarden PROXY
+#!moduleurl=https://raw.githubusercontent.com/Alec-Desperado/VPN/refs/heads/main/modules/group-rules-radiogarden.sgmodule
+#!updated=2026-06-13 11:28:04 UTC
+#!homepage=https://raw.githubusercontent.com/Alec-Desperado/VPN/refs/heads/main/modules/group-rules-radiogarden.sgmodule
+#!icon=
+
+[Rule]
+RULE-SET,https://raw.githubusercontent.com/Alec-Desperado/VPN/refs/heads/main/domains/groups/group-rules-radiogarden.list,PROXY

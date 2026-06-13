@@ -1,0 +1,11 @@
+# Name: snap
+# Updated: 2026-06-13 11:27:21 UTC
+# Total: 7
+
+DOMAIN,impala-media-production.s3.amazonaws.com
+DOMAIN-SUFFIX,sc-cdn.net
+DOMAIN-SUFFIX,snap-dev.net
+DOMAIN-SUFFIX,snap.com
+DOMAIN-SUFFIX,snapads.com
+DOMAIN-SUFFIX,snapchat.com
+DOMAIN-SUFFIX,snapkit.co

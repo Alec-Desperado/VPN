@@ -1,0 +1,9 @@
+#!name=group-rules-sber
+#!desc=group-rules-sber DIRECT
+#!moduleurl=https://raw.githubusercontent.com/Alec-Desperado/VPN/refs/heads/main/modules/group-rules-sber.sgmodule
+#!updated=2026-06-13 11:28:04 UTC
+#!homepage=https://raw.githubusercontent.com/Alec-Desperado/VPN/refs/heads/main/modules/group-rules-sber.sgmodule
+#!icon=
+
+[Rule]
+RULE-SET,https://raw.githubusercontent.com/Alec-Desperado/VPN/refs/heads/main/domains/groups/group-rules-sber.list,DIRECT
