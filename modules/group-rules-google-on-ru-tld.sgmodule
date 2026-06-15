@@ -1,0 +1,9 @@
+#!name=group-rules-google-on-ru-tld
+#!desc=group-rules-google-on-ru-tld PROXY
+#!moduleurl=https://raw.githubusercontent.com/Alec-Desperado/VPN/refs/heads/main/modules/group-rules-google-on-ru-tld.sgmodule
+#!updated=2026-06-15 01:03:17 UTC
+#!homepage=https://raw.githubusercontent.com/Alec-Desperado/VPN/refs/heads/main/modules/group-rules-google-on-ru-tld.sgmodule
+#!icon=
+
+[Rule]
+RULE-SET,https://raw.githubusercontent.com/Alec-Desperado/VPN/refs/heads/main/domains/groups/group-rules-google-on-ru-tld.list,PROXY
