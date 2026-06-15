@@ -1,0 +1,11 @@
+# Name: group-rules-snapchat
+# Updated: 2026-06-15 10:43:05 UTC
+# Total: 7
+
+DOMAIN,impala-media-production.s3.amazonaws.com
+DOMAIN-SUFFIX,snap-dev.net
+DOMAIN-SUFFIX,snapchat.com
+DOMAIN-SUFFIX,snapkit.co
+DOMAIN-SUFFIX,snapads.com
+DOMAIN-SUFFIX,snap.com
+DOMAIN-SUFFIX,sc-cdn.net
