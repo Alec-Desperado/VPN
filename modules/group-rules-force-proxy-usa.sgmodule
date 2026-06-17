@@ -1,9 +1,0 @@
-#!name=group-rules-force-proxy-usa
-#!desc=group-rules-force-proxy-usa PROXY
-#!moduleurl=https://raw.githubusercontent.com/Alec-Desperado/VPN/refs/heads/main/modules/group-rules-force-proxy-usa.sgmodule
-#!updated=2026-06-15 10:43:54 UTC
-#!homepage=https://raw.githubusercontent.com/Alec-Desperado/VPN/refs/heads/main/modules/group-rules-force-proxy-usa.sgmodule
-#!icon=
-
-[Rule]
-RULE-SET,https://raw.githubusercontent.com/Alec-Desperado/VPN/refs/heads/main/domains/groups/group-rules-force-proxy-usa.list,PROXY
