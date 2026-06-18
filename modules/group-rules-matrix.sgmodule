@@ -1,9 +1,0 @@
-#!name=group-rules-matrix
-#!desc=group-rules-matrix PROXY
-#!moduleurl=https://raw.githubusercontent.com/Alec-Desperado/VPN/refs/heads/main/modules/group-rules-matrix.sgmodule
-#!updated=2026-06-17 12:53:11 UTC
-#!homepage=https://raw.githubusercontent.com/Alec-Desperado/VPN/refs/heads/main/modules/group-rules-matrix.sgmodule
-#!icon=
-
-[Rule]
-RULE-SET,https://raw.githubusercontent.com/Alec-Desperado/VPN/refs/heads/main/domains/groups/group-rules-matrix.list,PROXY

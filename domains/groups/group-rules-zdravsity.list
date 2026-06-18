@@ -1,8 +1,0 @@
-# Name: group-rules-zdravsity
-# Updated: 2026-06-17 12:53:01 UTC
-# Total: 4
-
-DOMAIN,image.partners.protek.ru
-DOMAIN,static.zdravcity.ru
-DOMAIN,zdravcity.ru
-DOMAIN-SUFFIX,zdravcity.ru

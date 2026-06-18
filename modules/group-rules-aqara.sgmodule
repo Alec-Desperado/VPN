@@ -1,9 +1,0 @@
-#!name=group-rules-aqara
-#!desc=group-rules-aqara DIRECT
-#!moduleurl=https://raw.githubusercontent.com/Alec-Desperado/VPN/refs/heads/main/modules/group-rules-aqara.sgmodule
-#!updated=2026-06-17 12:53:11 UTC
-#!homepage=https://raw.githubusercontent.com/Alec-Desperado/VPN/refs/heads/main/modules/group-rules-aqara.sgmodule
-#!icon=
-
-[Rule]
-RULE-SET,https://raw.githubusercontent.com/Alec-Desperado/VPN/refs/heads/main/domains/groups/group-rules-aqara.list,DIRECT
