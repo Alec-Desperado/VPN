@@ -1,0 +1,9 @@
+#!name=group-rules-vpn-direct
+#!desc=group-rules-vpn-direct DIRECT
+#!moduleurl=https://raw.githubusercontent.com/Alec-Desperado/VPN/refs/heads/main/modules/group-rules-vpn-direct.sgmodule
+#!updated=2026-06-18 07:14:38 UTC
+#!homepage=https://raw.githubusercontent.com/Alec-Desperado/VPN/refs/heads/main/modules/group-rules-vpn-direct.sgmodule
+#!icon=
+
+[Rule]
+RULE-SET,https://raw.githubusercontent.com/Alec-Desperado/VPN/refs/heads/main/domains/groups/group-rules-vpn-direct.list,DIRECT
