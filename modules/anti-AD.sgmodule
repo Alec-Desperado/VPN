@@ -1,0 +1,12 @@
+#!name=anti-AD
+#!desc=anti-AD
+#!author=
+#!updated=2026-06-19 20:51:27 UTC
+#!homepage=
+#!moduleurl=https://raw.githubusercontent.com/Alec-Desperado/VPN/refs/heads/main/modules/anti-AD.sgmodule
+#!icon=https://github.com/blackmatrix7/ios_rule_script/blob/master/icon/color/adblock.png
+#!category=
+
+[Rule]
+RULE-SET,https://raw.githubusercontent.com/Alec-Desperado/VPN/refs/heads/main/domains/groups/group-rules-reject.list,REJECT,extended-matching,pre-matching
+

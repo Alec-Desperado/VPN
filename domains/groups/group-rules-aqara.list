@@ -1,0 +1,30 @@
+# Name: group-rules-aqara
+# Updated: 2026-06-18 07:05:01 UTC
+# Total: 26
+
+DOMAIN,aiot-camera-ru2.ks3-rus.ksyuncs.com
+DOMAIN,aiot-cos-cdn-ru2.ks3-rus.ksyuncs.com
+DOMAIN-SUFFIX,alicdn.com
+DOMAIN-SUFFIX,aliyun.com
+DOMAIN-SUFFIX,aqaramaster.com
+DOMAIN-SUFFIX,lumiunited.com
+DOMAIN-SUFFIX,myqcloud.com
+DOMAIN-SUFFIX,qq.com
+DOMAIN-SUFFIX,tuyaus.com
+DOMAIN-SUFFIX,taobao.com
+DOMAIN-SUFFIX,xiaomi.com
+DOMAIN-SUFFIX,xiaomi.net
+DOMAIN-KEYWORD,aqara
+IP-CIDR,107.155.53.0/24,no-resolve
+IP-CIDR,124.251.0.0/16,no-resolve
+IP-CIDR,167.99.0.0/16,no-resolve
+IP-CIDR,169.197.117.130/32,no-resolve
+IP-CIDR,169.197.117.168/32,no-resolve
+IP-CIDR,185.230.60.0/22,no-resolve
+IP-CIDR,43.154.0.0/16,no-resolve
+IP-CIDR,43.231.144.0/20,no-resolve
+IP-CIDR,47.100.0.0/15,no-resolve
+IP-CIDR,47.74.0.0/16,no-resolve
+IP-ASN,138950,no-resolve
+IP-ASN,37963,no-resolve
+IP-ASN,137280,no-resolve

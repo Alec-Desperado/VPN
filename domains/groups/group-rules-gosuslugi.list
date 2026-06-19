@@ -1,0 +1,30 @@
+# Name: group-rules-gosuslugi
+# Updated: 2026-06-18 07:08:49 UTC
+# Total: 26
+
+DOMAIN,bitrix.info
+DOMAIN,bot.gosuslugi.ru
+DOMAIN,crl2.gosuslugi.ru
+DOMAIN,elections.gosuslugi.ru
+DOMAIN,esia.gosuslugi.ru
+DOMAIN,gosuslugi.ru
+DOMAIN,gu-st.ru
+DOMAIN,host1.goskey.ru
+DOMAIN,host2.goskey.ru
+DOMAIN,lk.gosuslugi.ru
+DOMAIN,max.gosuslugi.ru
+DOMAIN,pos.gosuslugi.ru
+DOMAIN,proxy.mob.maps.yandex.net
+DOMAIN,rosreestr.gov.ru
+DOMAIN,sfd.gosuslugi.ru
+DOMAIN,tls-reg.iitrust.ru
+DOMAIN,tls1.iitrust.ru
+DOMAIN,tls2.iitrust.ru
+DOMAIN,www.gosuslugi.ru
+DOMAIN-SUFFIX,goskey.ru
+DOMAIN-SUFFIX,gosuslugi.ru
+DOMAIN-SUFFIX,gov.ru
+DOMAIN-SUFFIX,gu-st.ru
+DOMAIN-SUFFIX,iitrust.ru
+IP-CIDR,193.162.30.0/24,no-resolve
+IP-ASN,212575,no-resolve

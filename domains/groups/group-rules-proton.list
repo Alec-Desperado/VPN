@@ -1,0 +1,10 @@
+# Name: group-rules-proton
+# Updated: 2026-06-18 07:12:37 UTC
+# Total: 6
+
+DOMAIN-SUFFIX,protonstatus.com
+DOMAIN-SUFFIX,proton.me
+DOMAIN-SUFFIX,protonvpn.com
+DOMAIN-SUFFIX,pm.me
+DOMAIN-SUFFIX,protonweb.com
+DOMAIN-SUFFIX,protonmail.com
