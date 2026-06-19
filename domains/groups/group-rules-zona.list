@@ -1,9 +1,0 @@
-# Name: group-rules-zona
-# Updated: 2026-06-18 07:14:28 UTC
-# Total: 5
-
-DOMAIN,syncr.mzona.net
-DOMAIN,android.zona.pub
-DOMAIN,az1.zona.pub
-DOMAIN-SUFFIX,mzona.net
-DOMAIN-SUFFIX,zona.pub
