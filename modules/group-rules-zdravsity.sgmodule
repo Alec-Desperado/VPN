@@ -1,9 +1,0 @@
-#!name=group-rules-zdravsity
-#!desc=group-rules-zdravsity DIRECT
-#!moduleurl=https://raw.githubusercontent.com/Alec-Desperado/VPN/refs/heads/main/modules/group-rules-zdravsity.sgmodule
-#!updated=2026-06-19 20:51:27 UTC
-#!homepage=https://raw.githubusercontent.com/Alec-Desperado/VPN/refs/heads/main/modules/group-rules-zdravsity.sgmodule
-#!icon=
-
-[Rule]
-RULE-SET,https://raw.githubusercontent.com/Alec-Desperado/VPN/refs/heads/main/domains/groups/group-rules-zdravsity.list,DIRECT
