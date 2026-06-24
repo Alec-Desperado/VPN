@@ -1,0 +1,10 @@
+# Name: group-rules-getui-ads-trackers
+# Updated: 2026-06-24 12:27:10 UTC
+# Total: 6
+
+DOMAIN,cm-10-138.getui.com
+DOMAIN,gs.getui.com
+DOMAIN,sdk-conf.getui.com
+DOMAIN,sdk.open.talk.gepush.com
+DOMAIN,sdk.open.talk.getui.com
+DOMAIN,sdk.open.talk.getui.net

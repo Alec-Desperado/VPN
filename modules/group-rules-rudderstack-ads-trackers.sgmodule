@@ -1,0 +1,9 @@
+#!name=group-rules-rudderstack-ads-trackers
+#!desc=group-rules-rudderstack-ads-trackers REJECT
+#!moduleurl=https://raw.githubusercontent.com/Alec-Desperado/VPN/refs/heads/main/modules/group-rules-rudderstack-ads-trackers.sgmodule
+#!updated=2026-06-24 12:33:20 UTC
+#!homepage=https://raw.githubusercontent.com/Alec-Desperado/VPN/refs/heads/main/modules/group-rules-rudderstack-ads-trackers.sgmodule
+#!icon=
+
+[Rule]
+RULE-SET,https://raw.githubusercontent.com/Alec-Desperado/VPN/refs/heads/main/domains/groups/group-rules-rudderstack-ads-trackers.list,REJECT

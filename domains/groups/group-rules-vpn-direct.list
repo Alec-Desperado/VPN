@@ -1,0 +1,11 @@
+# Name: group-rules-vpn-direct
+# Updated: 2026-06-24 12:33:05 UTC
+# Total: 7
+
+DOMAIN,api.shorebird.dev
+DOMAIN,ota.lokalise.com
+DOMAIN,ru-mh-w-01.fromblancwithlove.com
+DOMAIN-SUFFIX,blanccdn.com
+DOMAIN-SUFFIX,blncwithlove.com
+DOMAIN-SUFFIX,fromblancwithlove.com
+DOMAIN-SUFFIX,withblancvpn.online

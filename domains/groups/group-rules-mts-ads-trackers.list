@@ -1,0 +1,8 @@
+# Name: group-rules-mts-ads-trackers
+# Updated: 2026-06-24 12:27:51 UTC
+# Total: 4
+
+DOMAIN-SUFFIX,a.mts.ru
+DOMAIN-SUFFIX,client-analytics.mts.ru
+DOMAIN-SUFFIX,obs.mts.ru
+DOMAIN-SUFFIX,rtb.mts.ru

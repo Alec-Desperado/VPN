@@ -1,0 +1,8 @@
+# Name: group-rules-adjust-ads-trackers
+# Updated: 2026-06-24 12:23:44 UTC
+# Total: 4
+
+DOMAIN-SUFFIX,adjust.com
+DOMAIN-SUFFIX,adjust.io
+DOMAIN-SUFFIX,adjust.net.in
+DOMAIN-SUFFIX,adjust.world

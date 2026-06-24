@@ -1,0 +1,6 @@
+# Name: group-rules-rutube-ads-trackers
+# Updated: 2026-06-24 12:32:29 UTC
+# Total: 2
+
+DOMAIN-SUFFIX,ssp.rutube.ru
+DOMAIN-SUFFIX,log.rutube.ru

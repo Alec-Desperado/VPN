@@ -1,0 +1,9 @@
+#!name=group-rules-ornament-health
+#!desc=group-rules-ornament-health PROXY
+#!moduleurl=https://raw.githubusercontent.com/Alec-Desperado/VPN/refs/heads/main/modules/group-rules-ornament-health.sgmodule
+#!updated=2026-06-24 12:33:20 UTC
+#!homepage=https://raw.githubusercontent.com/Alec-Desperado/VPN/refs/heads/main/modules/group-rules-ornament-health.sgmodule
+#!icon=
+
+[Rule]
+RULE-SET,https://raw.githubusercontent.com/Alec-Desperado/VPN/refs/heads/main/domains/groups/group-rules-ornament-health.list,PROXY

@@ -1,0 +1,8 @@
+# Name: group-rules-mozilla-ads-trackers
+# Updated: 2026-06-24 12:29:18 UTC
+# Total: 4
+
+DOMAIN,ads-img.mozilla.org
+DOMAIN,ads.mozilla.org
+DOMAIN,incoming-telemetry.thunderbird.net
+DOMAIN,incoming.telemetry.mozilla.org

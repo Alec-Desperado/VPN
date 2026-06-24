@@ -1,0 +1,7 @@
+# Name: group-rules-duolingo-ads-trackers
+# Updated: 2026-06-24 12:25:09 UTC
+# Total: 3
+
+DOMAIN-SUFFIX,ads-api.duolingo.com
+DOMAIN-SUFFIX,analytics.vpc.duolingo.com
+DOMAIN-SUFFIX,metrics.duolingo.com

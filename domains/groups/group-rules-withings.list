@@ -1,0 +1,7 @@
+# Name: group-rules-withings
+# Updated: 2026-06-24 12:33:06 UTC
+# Total: 3
+
+DOMAIN,ota.lokalise.co
+DOMAIN-SUFFIX,withings.net
+DOMAIN-SUFFIX,withings.com

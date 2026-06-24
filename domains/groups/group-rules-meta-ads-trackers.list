@@ -1,0 +1,9 @@
+# Name: group-rules-meta-ads-trackers
+# Updated: 2026-06-24 12:29:01 UTC
+# Total: 5
+
+DOMAIN-SUFFIX,ads.facebook.com
+DOMAIN-SUFFIX,analytics.facebook.com
+DOMAIN-SUFFIX,facebookads.com
+DOMAIN-SUFFIX,graph-fallback.instagram.com
+DOMAIN-SUFFIX,pixel.facebook.com
