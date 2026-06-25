@@ -1,9 +1,0 @@
-# Name: group-rules-unwanted-doh
-# Updated: 2026-06-24 12:33:02 UTC
-# Total: 5
-
-DOMAIN,doh.360.cn
-DOMAIN-SUFFIX,dns.yandex.net
-DOMAIN-SUFFIX,dns.google
-DOMAIN-SUFFIX,cloudflare-dns.com
-DOMAIN-SUFFIX,dns.adguard-dns.com
