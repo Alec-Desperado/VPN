@@ -1,0 +1,9 @@
+#!name=group-rules-datadog-ads-trackers
+#!desc=group-rules-datadog-ads-trackers REJECT
+#!moduleurl=https://raw.githubusercontent.com/Alec-Desperado/VPN/refs/heads/main/modules/group-rules-datadog-ads-trackers.sgmodule
+#!updated=2026-06-25 20:28:58 UTC
+#!homepage=https://raw.githubusercontent.com/Alec-Desperado/VPN/refs/heads/main/modules/group-rules-datadog-ads-trackers.sgmodule
+#!icon=
+
+[Rule]
+RULE-SET,https://raw.githubusercontent.com/Alec-Desperado/VPN/refs/heads/main/domains/groups/group-rules-datadog-ads-trackers.list,REJECT
