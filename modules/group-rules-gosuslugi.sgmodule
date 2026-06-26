@@ -1,9 +1,0 @@
-#!name=group-rules-gosuslugi
-#!desc=group-rules-gosuslugi DIRECT
-#!moduleurl=https://raw.githubusercontent.com/Alec-Desperado/VPN/refs/heads/main/modules/group-rules-gosuslugi.sgmodule
-#!updated=2026-06-26 12:46:05 UTC
-#!homepage=https://raw.githubusercontent.com/Alec-Desperado/VPN/refs/heads/main/modules/group-rules-gosuslugi.sgmodule
-#!icon=
-
-[Rule]
-RULE-SET,https://raw.githubusercontent.com/Alec-Desperado/VPN/refs/heads/main/domains/groups/group-rules-gosuslugi.list,DIRECT
