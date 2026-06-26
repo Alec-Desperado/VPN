@@ -1,9 +1,0 @@
-#!name=group-rules-microsoft-ads-trackers
-#!desc=group-rules-microsoft-ads-trackers REJECT
-#!moduleurl=https://raw.githubusercontent.com/Alec-Desperado/VPN/refs/heads/main/modules/group-rules-microsoft-ads-trackers.sgmodule
-#!updated=2026-06-26 15:41:28 UTC
-#!homepage=https://raw.githubusercontent.com/Alec-Desperado/VPN/refs/heads/main/modules/group-rules-microsoft-ads-trackers.sgmodule
-#!icon=
-
-[Rule]
-RULE-SET,https://raw.githubusercontent.com/Alec-Desperado/VPN/refs/heads/main/domains/groups/group-rules-microsoft-ads-trackers.list,REJECT

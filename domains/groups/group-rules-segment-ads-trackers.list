@@ -1,8 +1,0 @@
-# Name: group-rules-segment-ads-trackers
-# Updated: 2026-06-25 20:28:01 UTC
-# Total: 4
-
-DOMAIN-SUFFIX,segment.com
-DOMAIN-SUFFIX,segment.io
-DOMAIN-SUFFIX,segmenthub.com
-DOMAIN-SUFFIX,segmentify.com
