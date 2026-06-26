@@ -1,0 +1,9 @@
+#!name=group-rules-smartmi
+#!desc=group-rules-smartmi PROXY
+#!moduleurl=https://raw.githubusercontent.com/Alec-Desperado/VPN/refs/heads/main/modules/group-rules-smartmi.sgmodule
+#!updated=2026-06-26 12:46:05 UTC
+#!homepage=https://raw.githubusercontent.com/Alec-Desperado/VPN/refs/heads/main/modules/group-rules-smartmi.sgmodule
+#!icon=
+
+[Rule]
+RULE-SET,https://raw.githubusercontent.com/Alec-Desperado/VPN/refs/heads/main/domains/groups/group-rules-smartmi.list,PROXY

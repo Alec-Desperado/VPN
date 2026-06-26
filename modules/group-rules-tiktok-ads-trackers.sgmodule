@@ -1,0 +1,9 @@
+#!name=group-rules-tiktok-ads-trackers
+#!desc=group-rules-tiktok-ads-trackers REJECT
+#!moduleurl=https://raw.githubusercontent.com/Alec-Desperado/VPN/refs/heads/main/modules/group-rules-tiktok-ads-trackers.sgmodule
+#!updated=2026-06-26 12:46:05 UTC
+#!homepage=https://raw.githubusercontent.com/Alec-Desperado/VPN/refs/heads/main/modules/group-rules-tiktok-ads-trackers.sgmodule
+#!icon=
+
+[Rule]
+RULE-SET,https://raw.githubusercontent.com/Alec-Desperado/VPN/refs/heads/main/domains/groups/group-rules-tiktok-ads-trackers.list,REJECT

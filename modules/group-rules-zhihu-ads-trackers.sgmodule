@@ -1,0 +1,9 @@
+#!name=group-rules-zhihu-ads-trackers
+#!desc=group-rules-zhihu-ads-trackers REJECT
+#!moduleurl=https://raw.githubusercontent.com/Alec-Desperado/VPN/refs/heads/main/modules/group-rules-zhihu-ads-trackers.sgmodule
+#!updated=2026-06-26 12:46:05 UTC
+#!homepage=https://raw.githubusercontent.com/Alec-Desperado/VPN/refs/heads/main/modules/group-rules-zhihu-ads-trackers.sgmodule
+#!icon=
+
+[Rule]
+RULE-SET,https://raw.githubusercontent.com/Alec-Desperado/VPN/refs/heads/main/domains/groups/group-rules-zhihu-ads-trackers.list,REJECT
