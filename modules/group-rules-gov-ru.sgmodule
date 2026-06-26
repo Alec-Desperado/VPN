@@ -1,9 +1,0 @@
-#!name=group-rules-gov-ru
-#!desc=group-rules-gov-ru DIRECT
-#!moduleurl=https://raw.githubusercontent.com/Alec-Desperado/VPN/refs/heads/main/modules/group-rules-gov-ru.sgmodule
-#!updated=2026-06-26 15:34:30 UTC
-#!homepage=https://raw.githubusercontent.com/Alec-Desperado/VPN/refs/heads/main/modules/group-rules-gov-ru.sgmodule
-#!icon=
-
-[Rule]
-RULE-SET,https://raw.githubusercontent.com/Alec-Desperado/VPN/refs/heads/main/domains/groups/group-rules-gov-ru.list,DIRECT
