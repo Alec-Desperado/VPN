@@ -1,0 +1,8 @@
+# Name: group-rules-amazon-aws-ads-trackers
+# Updated: 2026-06-25 20:16:41 UTC
+# Total: 4
+
+DOMAIN-SUFFIX,amazon-adsystem.com
+DOMAIN-SUFFIX,serving-sys.com
+DOMAIN-SUFFIX,analyticsengine.s3.amazonaws.com
+DOMAIN-SUFFIX,impala-media-production.s3.amazonaws.com
