@@ -1,0 +1,9 @@
+#!name=group-rules-fastly
+#!desc=group-rules-fastly PROXY
+#!moduleurl=https://raw.githubusercontent.com/Alec-Desperado/VPN/refs/heads/main/modules/group-rules-fastly.sgmodule
+#!updated=2026-06-26 15:46:42 UTC
+#!homepage=https://raw.githubusercontent.com/Alec-Desperado/VPN/refs/heads/main/modules/group-rules-fastly.sgmodule
+#!icon=
+
+[Rule]
+RULE-SET,https://raw.githubusercontent.com/Alec-Desperado/VPN/refs/heads/main/domains/groups/group-rules-fastly.list,PROXY

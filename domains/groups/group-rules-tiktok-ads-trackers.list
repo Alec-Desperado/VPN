@@ -1,0 +1,8 @@
+# Name: group-rules-tiktok-ads-trackers
+# Updated: 2026-06-25 20:28:31 UTC
+# Total: 4
+
+DOMAIN-SUFFIX,ads-api.tiktok.com
+DOMAIN-SUFFIX,ads-sg.tiktok.com
+DOMAIN-SUFFIX,ads.tiktok.com
+DOMAIN-SUFFIX,business-api.tiktok.com

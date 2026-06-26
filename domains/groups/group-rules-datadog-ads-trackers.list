@@ -1,0 +1,7 @@
+# Name: group-rules-datadog-ads-trackers
+# Updated: 2026-06-25 20:17:53 UTC
+# Total: 3
+
+DOMAIN,browser-intake-datadoghq.com
+DOMAIN-SUFFIX,datadoghq.com
+DOMAIN-SUFFIX,ddog-gov.com

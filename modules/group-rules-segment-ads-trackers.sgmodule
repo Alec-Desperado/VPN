@@ -1,0 +1,9 @@
+#!name=group-rules-segment-ads-trackers
+#!desc=group-rules-segment-ads-trackers REJECT
+#!moduleurl=https://raw.githubusercontent.com/Alec-Desperado/VPN/refs/heads/main/modules/group-rules-segment-ads-trackers.sgmodule
+#!updated=2026-06-26 15:46:42 UTC
+#!homepage=https://raw.githubusercontent.com/Alec-Desperado/VPN/refs/heads/main/modules/group-rules-segment-ads-trackers.sgmodule
+#!icon=
+
+[Rule]
+RULE-SET,https://raw.githubusercontent.com/Alec-Desperado/VPN/refs/heads/main/domains/groups/group-rules-segment-ads-trackers.list,REJECT
