@@ -1,0 +1,6 @@
+# Name: group-rules-posthog-ads-trackers
+# Updated: 2026-06-25 20:26:35 UTC
+# Total: 2
+
+DOMAIN-SUFFIX,posthog.com
+DOMAIN-SUFFIX,posthog.net
