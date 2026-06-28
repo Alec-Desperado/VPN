@@ -1,0 +1,9 @@
+#!name=group-rules-firebaseapp-ads-trackers
+#!desc=group-rules-firebaseapp-ads-trackers REJECT
+#!moduleurl=https://raw.githubusercontent.com/Alec-Desperado/VPN/refs/heads/main/modules/group-rules-firebaseapp-ads-trackers.sgmodule
+#!updated=2026-06-28 17:06:22 UTC
+#!homepage=https://raw.githubusercontent.com/Alec-Desperado/VPN/refs/heads/main/modules/group-rules-firebaseapp-ads-trackers.sgmodule
+#!icon=
+
+[Rule]
+RULE-SET,https://raw.githubusercontent.com/Alec-Desperado/VPN/refs/heads/main/domains/groups/group-rules-firebaseapp-ads-trackers.list,REJECT

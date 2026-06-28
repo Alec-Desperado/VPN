@@ -1,0 +1,9 @@
+#!name=group-rules-google-youtube-ads-trackers
+#!desc=group-rules-google-youtube-ads-trackers REJECT
+#!moduleurl=https://raw.githubusercontent.com/Alec-Desperado/VPN/refs/heads/main/modules/group-rules-google-youtube-ads-trackers.sgmodule
+#!updated=2026-06-28 17:06:22 UTC
+#!homepage=https://raw.githubusercontent.com/Alec-Desperado/VPN/refs/heads/main/modules/group-rules-google-youtube-ads-trackers.sgmodule
+#!icon=
+
+[Rule]
+RULE-SET,https://raw.githubusercontent.com/Alec-Desperado/VPN/refs/heads/main/domains/groups/group-rules-google-youtube-ads-trackers.list,REJECT
