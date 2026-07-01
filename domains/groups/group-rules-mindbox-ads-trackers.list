@@ -1,0 +1,11 @@
+# Name: group-rules-mindbox-ads-trackers
+# Updated: 2026-07-01 07:32:45 UTC
+# Total: 7
+
+DOMAIN,sentry.popmechanic.ru
+DOMAIN-SUFFIX,mindbox.cloud
+DOMAIN-SUFFIX,mindbox.ru
+DOMAIN-SUFFIX,mindbox.so
+DOMAIN-SUFFIX,mindbox.site
+DOMAIN-SUFFIX,mindbox.cloud
+DOMAIN-SUFFIX,mindbox.group

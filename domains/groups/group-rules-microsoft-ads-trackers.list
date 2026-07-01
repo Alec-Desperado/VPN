@@ -1,0 +1,16 @@
+# Name: group-rules-microsoft-ads-trackers
+# Updated: 2026-07-01 07:32:45 UTC
+# Total: 12
+
+DOMAIN-SUFFIX,bingads.microsoft.com
+DOMAIN-SUFFIX,clarity.ms
+DOMAIN-SUFFIX,collector.github.com
+DOMAIN-SUFFIX,collector.githubapp.com
+DOMAIN-SUFFIX,copilot-telemetry-service.githubusercontent.com
+DOMAIN-SUFFIX,copilot-telemetry.githubusercontent.com
+DOMAIN-SUFFIX,microsoftads.com
+DOMAIN-SUFFIX,msads.net
+DOMAIN-SUFFIX,nelreports.net
+DOMAIN-SUFFIX,settings-win.data.microsoft.com
+DOMAIN-SUFFIX,telemetry.individual.githubcopilot.com
+DOMAIN-SUFFIX,telemetry.microsoft.com

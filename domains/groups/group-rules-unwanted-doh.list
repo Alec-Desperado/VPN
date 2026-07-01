@@ -1,0 +1,18 @@
+# Name: group-rules-unwanted-doh
+# Updated: 2026-07-01 07:36:30 UTC
+# Total: 14
+
+DOMAIN,doh.360.cn
+DOMAIN-SUFFIX,dns.google
+DOMAIN-SUFFIX,cloudflare-dns.com
+DOMAIN-SUFFIX,dns.adguard-dns.com
+DOMAIN-SUFFIX,nextdns.io
+DOMAIN-SUFFIX,doh.mullvad.net
+DOMAIN-SUFFIX,libredns.gr
+DOMAIN-SUFFIX,doh.cleanbrowsing.org
+DOMAIN-SUFFIX,doh.opendns.com
+DOMAIN-SUFFIX,dns.sb
+DOMAIN-SUFFIX,dns0.eu
+DOMAIN-SUFFIX,dns.alidns.com
+DOMAIN-SUFFIX,dns.yandex.net
+DOMAIN-SUFFIX,dns.comss.one

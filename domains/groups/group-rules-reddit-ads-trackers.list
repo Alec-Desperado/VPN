@@ -1,0 +1,15 @@
+# Name: group-rules-reddit-ads-trackers
+# Updated: 2026-07-01 07:35:55 UTC
+# Total: 11
+
+DOMAIN-SUFFIX,ads.reddit.com
+DOMAIN-SUFFIX,alb.reddit.com
+DOMAIN-SUFFIX,buttons.reddit.com
+DOMAIN-SUFFIX,click.redditmail.com
+DOMAIN-SUFFIX,counter.reddigital.ru
+DOMAIN-SUFFIX,d.reddit.com
+DOMAIN-SUFFIX,events.redditmedia.com
+DOMAIN-SUFFIX,pixel.reddit.com
+DOMAIN-SUFFIX,pixel.redditmedia.com
+DOMAIN-SUFFIX,rereddit.com
+DOMAIN-SUFFIX,w3-reporting-nel.reddit.com

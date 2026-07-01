@@ -1,0 +1,6 @@
+# Name: group-rules-zhihu-ads-trackers
+# Updated: 2026-07-01 07:36:37 UTC
+# Total: 2
+
+DOMAIN-SUFFIX,crash2.zhihu.com
+DOMAIN-SUFFIX,zhihu-web-analytics.zhihu.com

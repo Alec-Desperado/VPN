@@ -1,0 +1,7 @@
+# Name: group-rules-spotify-ads-trackers
+# Updated: 2026-07-01 07:36:18 UTC
+# Total: 3
+
+DOMAIN,adeventtracker.spotify.com
+DOMAIN,adstudio-assets.scdn.co
+DOMAIN,bloodhound.spotify.com

@@ -1,0 +1,14 @@
+# Name: group-rules-radiogarden
+# Updated: 2026-07-01 07:34:46 UTC
+# Total: 10
+
+DOMAIN,api.revenuecat.com
+DOMAIN,assets.radio.garden
+DOMAIN,free.rcast.net
+DOMAIN,live.radiostudio.be
+DOMAIN,px.radio.garden
+DOMAIN,radio.garden
+DOMAIN,rg-tiles.b-cdn.net
+DOMAIN,stream.rcast.net
+DOMAIN,streamer01.1028.fm
+DOMAIN-SUFFIX,radio.garden

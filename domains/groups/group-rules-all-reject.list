@@ -1,0 +1,28 @@
+# Name: group-rules-all-reject
+# Updated: 2026-07-01 07:26:25 UTC
+# Total: 24
+
+DOMAIN-SUFFIX,adjust.world
+DOMAIN-SUFFIX,sentry.io
+DOMAIN-SUFFIX,sentry-cdn.com
+DOMAIN-SUFFIX,adjust.com
+DOMAIN-SUFFIX,adjust.io
+URL-REGEX,^.*\/detroitchicago\/dpv\.gif.*
+URL-REGEX,^.*\/detroitchicago\/imp\.gif.*
+URL-REGEX,^.*leadplan\.ru\/api\/visitor\/.*$
+URL-REGEX,^.*agates\.ru\/counters\/.*$
+URL-REGEX,^.*yandex\.ru\/metrika\/.*$
+URL-REGEX,^.*leadplan\.ru\/api\/pageview\/.*$
+URL-REGEX,^.*yandex\.net\/expjs\/latest\/exp\.js$
+URL-REGEX,^.*pornhub.com/_xa/ads.*
+URL-REGEX,^adservice\.google\.([a-z]{2}|com?)(\.[a-z]{2})?$
+URL-REGEX,^.*bitrix\.info\/bx_stat\/.*$
+URL-REGEX,^speed\.(coe|open)\.ad\.[a-z]{2,6}\.prod\.hosts\.ooklaserver\.net$
+URL-REGEX,^.*cdn\.digg\.com\/fragments\/homepage\/static\/view\-frontpage\.js.*$
+URL-REGEX,^.*yandeg\.ru\/count\/.*$
+URL-REGEX,^.*leadplan\.ru\/api\/session\/.*$
+URL-REGEX,^.*mail\.ru\/cm\.gif\?.*$
+URL-REGEX,^.*yandex\.ru\/an\/count\/.*$
+URL-REGEX,\.googleusercontent\.com\/.*\/wf\/open\?upn.*
+URL-REGEX,^.*\/googleanalytics.js
+URL-REGEX,^.*yandex\.ru\/clck\/.*$

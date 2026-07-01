@@ -1,0 +1,16 @@
+# Name: group-rules-sber-2gis-okko-ads-trackers
+# Updated: 2026-07-01 07:35:58 UTC
+# Total: 12
+
+DOMAIN,error-tracking.megamarket.tech
+DOMAIN,metrics.21-school.ru
+DOMAIN,sentry.sberauto.com
+DOMAIN,tracing-http.megamarket.tech
+DOMAIN,visor.sberbank.ru
+DOMAIN,stat.api.2gis.ru
+DOMAIN,counter.sberbank.ru
+DOMAIN-SUFFIX,ads.sber.ru
+DOMAIN-SUFFIX,clickstream.sberbank.ru
+DOMAIN-SUFFIX,neon.click
+DOMAIN-SUFFIX,sbermarketing.ru
+DOMAIN-SUFFIX,sberanalytics.com

@@ -1,0 +1,45 @@
+# Name: group-rules-reject-for-mobile
+# Updated: 2026-07-01 07:35:55 UTC
+# Total: 41
+
+DOMAIN,analytics.vk.ru
+DOMAIN,stats.vk-portal.net
+DOMAIN,analytics.google.com
+DOMAIN,analytics.mobile.yandex.net
+DOMAIN-SUFFIX,app-analytics-services.com
+DOMAIN-SUFFIX,app-measurement.com
+DOMAIN-SUFFIX,firebaselogging-pa.googleapis.com
+DOMAIN-SUFFIX,sentry.io
+DOMAIN-SUFFIX,vk-analytics.ru
+DOMAIN-SUFFIX,mixpanel.com
+DOMAIN-SUFFIX,app-ads-services.com
+DOMAIN-SUFFIX,crashlytics.com
+DOMAIN-SUFFIX,startup.mobile.yandex.net
+DOMAIN-SUFFIX,top-fwz1.mail.ru
+DOMAIN-SUFFIX,appmetrica.yandex.net
+DOMAIN-SUFFIX,clienttracing-pa.googleapis.com
+DOMAIN-SUFFIX,ads-twitter.com
+DOMAIN-SUFFIX,browser-intake-datadoghq.com
+DOMAIN-SUFFIX,xapi.ozon.ru
+DOMAIN-SUFFIX,appsflyersdk.com
+DOMAIN-SUFFIX,webvisor.com
+DOMAIN-SUFFIX,doubleclick.net
+DOMAIN-SUFFIX,googlesyndication.com
+DOMAIN-SUFFIX,sentry.ozon.ru
+DOMAIN-SUFFIX,crashlyticsreports-pa.googleapis.com
+DOMAIN-SUFFIX,bugsnag.com
+DOMAIN-SUFFIX,crashlytics.com
+DOMAIN-SUFFIX,getsentry.com
+DOMAIN-SUFFIX,collector.github.com
+DOMAIN-SUFFIX,collector.githubapp.com
+DOMAIN-SUFFIX,telemetry.jivosite.com
+DOMAIN-SUFFIX,analytics.vk.com
+DOMAIN-SUFFIX,admetrica.ru
+DOMAIN-SUFFIX,appmetrika.yandex.com
+DOMAIN-SUFFIX,appmetrika.yandex.ru
+DOMAIN-SUFFIX,webvisor.ru
+DOMAIN-SUFFIX,yandex-metrica.ru
+DOMAIN-SUFFIX,client-analytics.mts.ru
+DOMAIN-SUFFIX,analytics.twitter.com
+DOMAIN-SUFFIX,segment.com
+DOMAIN-SUFFIX,segment.io

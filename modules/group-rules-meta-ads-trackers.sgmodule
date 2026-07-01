@@ -1,0 +1,9 @@
+#!name=group-rules-meta-ads-trackers
+#!desc=group-rules-meta-ads-trackers REJECT
+#!moduleurl=https://raw.githubusercontent.com/Alec-Desperado/VPN/refs/heads/main/modules/group-rules-meta-ads-trackers.sgmodule
+#!updated=2026-07-01 07:36:47 UTC
+#!homepage=https://raw.githubusercontent.com/Alec-Desperado/VPN/refs/heads/main/modules/group-rules-meta-ads-trackers.sgmodule
+#!icon=
+
+[Rule]
+RULE-SET,https://raw.githubusercontent.com/Alec-Desperado/VPN/refs/heads/main/domains/groups/group-rules-meta-ads-trackers.list,REJECT

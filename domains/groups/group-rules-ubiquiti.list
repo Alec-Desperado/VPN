@@ -1,0 +1,23 @@
+# Name: group-rules-ubiquiti
+# Updated: 2026-07-01 07:36:30 UTC
+# Total: 19
+
+DOMAIN,x1.i.lencr.org
+DOMAIN,www.wireshark.org
+DOMAIN-SUFFIX,ui.com
+DOMAIN-SUFFIX,ubnt.com
+DOMAIN-SUFFIX,frontrow.com
+DOMAIN-SUFFIX,uisp.com
+DOMAIN-SUFFIX,unifi-ai.com
+DOMAIN-SUFFIX,amzn.to
+DOMAIN-SUFFIX,unifi-network.com
+DOMAIN-SUFFIX,ubncloud.com
+DOMAIN-SUFFIX,unifi-gateway.com
+DOMAIN-SUFFIX,unifi-telemetry.com
+DOMAIN-SUFFIX,ada.support
+DOMAIN-SUFFIX,uwn.com
+DOMAIN-SUFFIX,amplifi.com
+DOMAIN-SUFFIX,unifi-protect.com
+DOMAIN-SUFFIX,wifiman.com
+DOMAIN-SUFFIX,unpkg.com
+DOMAIN-SUFFIX,unifi-cloud.com
