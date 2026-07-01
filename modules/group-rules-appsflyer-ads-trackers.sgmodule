@@ -1,9 +1,0 @@
-#!name=group-rules-appsflyer-ads-trackers
-#!desc=group-rules-appsflyer-ads-trackers REJECT
-#!moduleurl=https://raw.githubusercontent.com/Alec-Desperado/VPN/refs/heads/main/modules/group-rules-appsflyer-ads-trackers.sgmodule
-#!updated=2026-06-28 17:06:22 UTC
-#!homepage=https://raw.githubusercontent.com/Alec-Desperado/VPN/refs/heads/main/modules/group-rules-appsflyer-ads-trackers.sgmodule
-#!icon=
-
-[Rule]
-RULE-SET,https://raw.githubusercontent.com/Alec-Desperado/VPN/refs/heads/main/domains/groups/group-rules-appsflyer-ads-trackers.list,REJECT
